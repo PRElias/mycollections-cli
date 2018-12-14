@@ -1,0 +1,20 @@
+{
+  "name": "mycollections-cli",
+  "version": "1.0.0",
+  "description": "cli tool to get games from APIs and generate json files for manual manipulating to be served on a disconected PWA",
+  "main": "index.js",
+  "preferGlobal": false,
+  "scripts": {
+    "test": ""
+  },
+  "author": "Paulo Roberto Elias",
+  "license": "ISC",
+  "bin": {
+    "helloWorld": "index.js",
+    "getGames": "steam.js"
+  },
+  "dependencies": {
+    "commander": "^2.19.0",
+    "steamapi": "^2.0.4"
+  }
+}
