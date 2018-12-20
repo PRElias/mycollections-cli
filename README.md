@@ -4,4 +4,7 @@ Execute ```npm install -g```
 Depois é só usar o comando ```getGames``` para gerar o arquivo json
 
 Gerar o csv para facilitar a manipulação
-```npm run-script build```
+```npm run-script generateCSV```
+
+Gerar o JSON a partir do json
+```npm run-script generateJSON```
