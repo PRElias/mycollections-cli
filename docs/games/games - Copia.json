@@ -4758,85 +4758,71 @@
     },
     {
         "name": "Dragon Age Origins",
-        "store": "Origin",
         "logoURL": "https://i2.wp.com/dragonagebrasil.com.br/wp-content/uploads/2015/12/dao.jpg",
         "disabled": "false"
     },
     {
         "name": "Dungeon Keeper",
-        "store": "Origin",
         "logoURL": "https://lh3.googleusercontent.com/-x0ok0GwzuQA/TWo6hrDqUKI/AAAAAAAABzE/nazan5QbGag/s1600/dkologo.png",
         "disabled": "false"
     },
     {
         "name": "Fifa Soccer 12",
-        "store": "Origin",
         "logoURL": "https://cdn.cultofmac.com/wp-content/uploads/2011/09/fifa-12-mac-product-640x320.jpg",
         "disabled": "false"
     },
     {
         "name": "Fifa Soccer 15",
-        "store": "Origin",
         "logoURL": "https://cdn.wallpapersafari.com/23/11/KAOlyS.jpg",
         "disabled": "false"
     },
     {
         "name": "Fica Soccer 16",
-        "store": "Origin",
         "logoURL": "https://media.contentapi.ea.com/content/www-easports/pt_BR/fifa/news/2015/fifa-16-reasons/_jcr_content/headerImages/image.img.jpg",
         "disabled": "false"
     },
     {
         "name": "Fifa Soccer 17",
-        "store": "Origin",
         "logoURL": "https://s2.glbimg.com/v7dRv3jDU-ExNWgiGCSymbr-N84=/1080x608/top/smart/s.glbimg.com/po/tt2/f/original/2017/02/10/fifa-17-dicas-defender-marcar-bem-1.jpg",
         "disabled": "false"
     },
     {
         "name": "Jade Empire Special Edition",
-        "store": "Origin",
         "logoURL": "https://images-4.gog.com/010661d2c6213d65106f9f71c19baa2738e15b17dedee19b27a028e87e82f6e7.jpg",
         "disabled": "false"
     },
     {
         "name": "Mass Effect 2",
-        "store": "Origin",
         "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/24980/header.jpg?t=1447352739",
         "disabled": "false"
     },
     {
         "name": "Medal of Honor",
-        "store": "Origin",
         "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/47790/header.jpg?t=1447353177",
         "disabled": "false"
     },
     {
         "name": "Medal of Honor Pacific Assault",
-        "store": "Origin",
         "logoURL": "https://t.tudocdn.net/243062?w=646&h=284",
         "disabled": "false"
     },
     {
         "name": "Mirror's Edge",
-        "store": "Origin",
         "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/17410/header.jpg?t=1447351617",
         "disabled": "false"
     },
     {
         "name": "Dead Space 2",
-        "store": "Origin",
         "logoURL": "https://c.slashgear.com/wp-content/uploads/2017/05/dead_space_2-980x420.jpeg",
         "disabled": "false"
     },
     {
         "name": "Crysis 2 Maximum Edition",
-        "store": "Origin",
         "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/108800/header.jpg?t=1447355745",
         "disabled": "false"
     },
     {
         "name": "Crysis 3",
-        "store": "Origin",
         "logoURL": "https://ownando-3a79.kxcdn.com"
     }
 ]
