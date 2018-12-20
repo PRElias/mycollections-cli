@@ -13,11 +13,13 @@
   "license": "ISC",
   "bin": {
     "helloWorld": "index.js",
-    "getGames": "steam.js"
+    "getGames": "steam.js",
+    "downloadImages": "downloadImages.js"
   },
   "dependencies": {
     "commander": "^2.19.0",
     "csvtojson": "^2.0.8",
+    "image-downloader": "^3.4.2",
     "json2csv": "^4.3.2",
     "steamapi": "^2.0.4"
   }
