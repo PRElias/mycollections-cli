@@ -22,7 +22,7 @@ app.renderizeGames = function (response) {
 
     for (var index in app.games) {
         var game = app.games[index];
-        if (game.disabled === false) {
+        if (game.disabled === 'false') {
             items.push(
                 "<span class='game col-lg-2 col-sm-6 col-md-6 col-xs-12' id='" + game.name + "'>" +
                 "<img class='cover' src='" + game.logoURL + "' data-game='" + game.name + "' alt='logo' /img>" +
