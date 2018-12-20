@@ -21,35 +21,35 @@
 <body>
     <nav id="navbar" class="navbar">
         <a href="#" id="goToGame"></a>
-        <input type="text" placeholder="Procurar" id="procurar" name="procurar" class="form-control" style="width: 250px; margin-top: 10px"/>
+        <input type="text" placeholder="Procurar" id="procurar" name="procurar" class="form-control" style="width: 250px; margin-top: 10px" />
     </nav>
     <div id="main_div" class="row main_div"></div>
 </body>
 <script src="js/jogos.js"></script>
-    
-<!-- PWA -->
-    <script src="js/manup.js"></script>
-    <script src="pwabuilder-sw.js"></script>
 
-    <script>
-        if ('serviceWorker' in navigator) {
-            //Add this below content to your HTML page, or add the js file to your page at the very top to register service worker
-            if (navigator.serviceWorker.controller) {
-                console.log('[PWA Builder] active service worker found, no need to register')
-            } else {
-                //Register the ServiceWorker
-                window.addEventListener('load', function () {
-                    navigator.serviceWorker.register('pwabuilder-sw.js', {
-                        scope: './'
-                    }).then(function (reg) {
-                        console.log('Service worker has been registered for scope:' + reg.scope);
-                    });
+<!-- PWA -->
+<script src="js/manup.js"></script>
+<script src="pwabuilder-sw.js"></script>
+
+<script>
+    if ('serviceWorker' in navigator) {
+        //Add this below content to your HTML page, or add the js file to your page at the very top to register service worker
+        if (navigator.serviceWorker.controller) {
+            console.log('[PWA Builder] active service worker found, no need to register')
+        } else {
+            //Register the ServiceWorker
+            window.addEventListener('load', function () {
+                navigator.serviceWorker.register('pwabuilder-sw.js', {
+                    scope: './'
+                }).then(function (reg) {
+                    console.log('Service worker has been registered for scope:' + reg.scope);
                 });
-            }
+            });
         }
-        else{
-            console.log("Navegador não aceita serviceWorker");
-        }
-    </script>    
+    }
+    else {
+        console.log("Navegador não aceita serviceWorker");
+    }
+</script>
 
 </html>
