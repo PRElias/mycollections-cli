@@ -7,7 +7,7 @@
   "scripts": {
     "test": "",
     "generateCSV": "npx json2csv -i docs/games/games.json -o docs/games/games.csv",
-    "generateJSON": "npx csvtojson docs/games/games.csv > docs/games/games-editado.json"
+    "generateJSON": "npx csvtojson docs/games/games.csv > docs/games/games.json"
   },
   "author": "Paulo Roberto Elias",
   "license": "ISC",
