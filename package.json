@@ -5,7 +5,8 @@
   "main": "index.js",
   "preferGlobal": false,
   "scripts": {
-    "test": ""
+    "test": "",
+    "build": "npx json2csv -i docs/games/games.json -o docs/games/games.csv"
   },
   "author": "Paulo Roberto Elias",
   "license": "ISC",
