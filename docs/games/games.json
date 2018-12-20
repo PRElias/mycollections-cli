@@ -1015,7 +1015,7 @@
         "playTime": "0",
         "playTime2": "0",
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205790/.jpg",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Double Dragon Neon",
@@ -1431,7 +1431,7 @@
         "playTime": "52",
         "playTime2": "0",
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343450/.jpg",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Freebie",
@@ -2176,7 +2176,7 @@
         "playTime": "0",
         "playTime2": "0",
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550210/.jpg",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Left 4 Dead 2",
@@ -3715,7 +3715,7 @@
         "playTime": "0",
         "playTime2": "0",
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/229660/.jpg",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Sonic CD",
@@ -4027,7 +4027,7 @@
         "playTime": "1",
         "playTime2": "0",
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/349210/.jpg",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "The Binding of Isaac",
@@ -4347,7 +4347,7 @@
         "playTime": "0",
         "playTime2": "0",
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/237530/.jpg",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Tom Clancy's Splinter Cell Blacklist",
