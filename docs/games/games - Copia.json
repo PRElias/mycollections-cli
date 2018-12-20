@@ -72,7 +72,7 @@
         "disabled": "false"
     },
     {
-        "name": "Alan Wake's American Nightmare",
+        "name": "Alan Wakes American Nightmare",
         "appID": "202750",
         "playTime": "127",
         "playTime2": "0",
@@ -128,7 +128,7 @@
         "disabled": "false"
     },
     {
-        "name": "Aritana and the Harpy's Feather",
+        "name": "Aritana and the Harpys Feather",
         "appID": "314360",
         "playTime": "20",
         "playTime2": "0",
@@ -144,7 +144,7 @@
         "disabled": "false"
     },
     {
-        "name": "Assassin's Creed",
+        "name": "Assassins Creed",
         "appID": "15100",
         "playTime": "0",
         "playTime2": "0",
@@ -152,7 +152,7 @@
         "disabled": "false"
     },
     {
-        "name": "Assassin's Creed Brotherhood",
+        "name": "Assassins Creed Brotherhood",
         "appID": "48190",
         "playTime": "0",
         "playTime2": "0",
@@ -160,7 +160,7 @@
         "disabled": "false"
     },
     {
-        "name": "Assassin's Creed II",
+        "name": "Assassins Creed II",
         "appID": "33230",
         "playTime": "0",
         "playTime2": "0",
@@ -1482,7 +1482,7 @@
         "disabled": "false"
     },
     {
-        "name": "Garry's Mod",
+        "name": "Garrys Mod",
         "appID": "4000",
         "playTime": "5",
         "playTime2": "0",
@@ -1818,7 +1818,7 @@
         "disabled": "false"
     },
     {
-        "name": "Hellblade: Senua's Sacrifice",
+        "name": "Hellblade: Senuas Sacrifice",
         "appID": "414340",
         "playTime": "306",
         "playTime2": "0",
@@ -1826,7 +1826,7 @@
         "disabled": "false"
     },
     {
-        "name": "Hellblade: Senua's Sacrifice VR Edition",
+        "name": "Hellblade: Senuas Sacrifice VR Edition",
         "appID": "747350",
         "playTime": "0",
         "playTime2": "0",
@@ -2018,7 +2018,7 @@
         "disabled": "false"
     },
     {
-        "name": "Jets'n'Guns Gold",
+        "name": "JetsnGuns Gold",
         "appID": "262260",
         "playTime": "0",
         "playTime2": "0",
@@ -2026,7 +2026,7 @@
         "disabled": "false"
     },
     {
-        "name": "Joana's Life",
+        "name": "Joanas Life",
         "appID": "513740",
         "playTime": "0",
         "playTime2": "0",
@@ -2283,7 +2283,7 @@
         "disabled": "false"
     },
     {
-        "name": "Lone Survivor: The Director's Cut",
+        "name": "Lone Survivor: The Directors Cut",
         "appID": "209830",
         "playTime": "0",
         "playTime2": "0",
@@ -2475,7 +2475,7 @@
         "disabled": "false"
     },
     {
-        "name": "Mirror's Edge",
+        "name": "Mirrors Edge",
         "appID": "17410",
         "playTime": "0",
         "playTime2": "0",
@@ -2547,7 +2547,7 @@
         "disabled": "true"
     },
     {
-        "name": "Mortal Kombat: Legacy II: Kenshi's Origin",
+        "name": "Mortal Kombat: Legacy II: Kenshis Origin",
         "appID": "362200",
         "playTime": "0",
         "playTime2": "0",
@@ -2773,7 +2773,7 @@
         "disabled": "false"
     },
     {
-        "name": "Oddworld: Abe's Oddysee",
+        "name": "Oddworld: Abes Oddysee",
         "appID": "15700",
         "playTime": "0",
         "playTime2": "0",
@@ -3437,7 +3437,7 @@
         "disabled": "false"
     },
     {
-        "name": "Shantae: Risky's Revenge - Director's Cut",
+        "name": "Shantae: Riskys Revenge - Directors Cut",
         "appID": "277890",
         "playTime": "31",
         "playTime2": "0",
@@ -3509,7 +3509,7 @@
         "disabled": "false"
     },
     {
-        "name": "Sid Meier's Civilization III: Complete",
+        "name": "Sid Meiers Civilization III: Complete",
         "appID": "3910",
         "playTime": "25",
         "playTime2": "0",
@@ -3517,7 +3517,7 @@
         "disabled": "false"
     },
     {
-        "name": "Sid Meier's Civilization IV",
+        "name": "Sid Meiers Civilization IV",
         "appID": "3900",
         "playTime": "37",
         "playTime2": "0",
@@ -3525,7 +3525,7 @@
         "disabled": "false"
     },
     {
-        "name": "Sid Meier's Civilization IV",
+        "name": "Sid Meiers Civilization IV",
         "appID": "34440",
         "playTime": "0",
         "playTime2": "0",
@@ -3533,7 +3533,7 @@
         "disabled": "true"
     },
     {
-        "name": "Sid Meier's Civilization IV: Beyond the Sword",
+        "name": "Sid Meiers Civilization IV: Beyond the Sword",
         "appID": "8800",
         "playTime": "0",
         "playTime2": "0",
@@ -3541,7 +3541,7 @@
         "disabled": "false"
     },
     {
-        "name": "Sid Meier's Civilization IV: Beyond the Sword",
+        "name": "Sid Meiers Civilization IV: Beyond the Sword",
         "appID": "34460",
         "playTime": "0",
         "playTime2": "0",
@@ -3549,7 +3549,7 @@
         "disabled": "true"
     },
     {
-        "name": "Sid Meier's Civilization IV: Colonization",
+        "name": "Sid Meiers Civilization IV: Colonization",
         "appID": "16810",
         "playTime": "0",
         "playTime2": "0",
@@ -3557,7 +3557,7 @@
         "disabled": "false"
     },
     {
-        "name": "Sid Meier's Civilization IV: Warlords",
+        "name": "Sid Meiers Civilization IV: Warlords",
         "appID": "3990",
         "playTime": "0",
         "playTime2": "0",
@@ -3565,7 +3565,7 @@
         "disabled": "false"
     },
     {
-        "name": "Sid Meier's Civilization IV: Warlords",
+        "name": "Sid Meiers Civilization IV: Warlords",
         "appID": "34450",
         "playTime": "0",
         "playTime2": "0",
@@ -3573,7 +3573,7 @@
         "disabled": "true"
     },
     {
-        "name": "Sid Meier's Civilization V",
+        "name": "Sid Meiers Civilization V",
         "appID": "8930",
         "playTime": "951",
         "playTime2": "0",
@@ -3581,7 +3581,7 @@
         "disabled": "false"
     },
     {
-        "name": "Sid Meier's Civilization VI",
+        "name": "Sid Meiers Civilization VI",
         "appID": "289070",
         "playTime": "797",
         "playTime2": "24",
@@ -4117,7 +4117,7 @@
         "disabled": "false"
     },
     {
-        "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+        "name": "THE KING OF FIGHTERS 98 ULTIMATE MATCH FINAL EDITION",
         "appID": "222420",
         "playTime": "0",
         "playTime2": "0",
@@ -4349,7 +4349,7 @@
         "disabled": "true"
     },
     {
-        "name": "Tom Clancy's Splinter Cell Blacklist",
+        "name": "Tom Clancys Splinter Cell Blacklist",
         "appID": "235600",
         "playTime": "23",
         "playTime2": "0",
@@ -4357,7 +4357,7 @@
         "disabled": "false"
     },
     {
-        "name": "Tom Clancy's The Division",
+        "name": "Tom Clancys The Division",
         "appID": "365590",
         "playTime": "257",
         "playTime2": "0",
@@ -4365,7 +4365,7 @@
         "disabled": "false"
     },
     {
-        "name": "Tom Clancy's The Division PTS",
+        "name": "Tom Clancys The Division PTS",
         "appID": "524440",
         "playTime": "0",
         "playTime2": "0",
@@ -4586,7 +4586,7 @@
         "playTime": "28",
         "playTime2": "0",
         "logoURL": "./games/covers/74bcecbde31f489e396f656910c2f70872dcb0f3.jpg",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "War Thunder",
@@ -4749,7 +4749,7 @@
         "disabled": "false"
     },
     {
-        "name": "Zuma's Revenge",
+        "name": "Zumas Revenge",
         "appID": "3620",
         "playTime": "3751",
         "playTime2": "0",
@@ -4758,71 +4758,284 @@
     },
     {
         "name": "Dragon Age Origins",
+        "store": "Origin",
         "logoURL": "https://i2.wp.com/dragonagebrasil.com.br/wp-content/uploads/2015/12/dao.jpg",
         "disabled": "false"
     },
     {
         "name": "Dungeon Keeper",
+        "store": "Origin",
         "logoURL": "https://lh3.googleusercontent.com/-x0ok0GwzuQA/TWo6hrDqUKI/AAAAAAAABzE/nazan5QbGag/s1600/dkologo.png",
         "disabled": "false"
     },
     {
         "name": "Fifa Soccer 12",
+        "store": "Origin",
         "logoURL": "https://cdn.cultofmac.com/wp-content/uploads/2011/09/fifa-12-mac-product-640x320.jpg",
         "disabled": "false"
     },
     {
         "name": "Fifa Soccer 15",
+        "store": "Origin",
         "logoURL": "https://cdn.wallpapersafari.com/23/11/KAOlyS.jpg",
         "disabled": "false"
     },
     {
         "name": "Fica Soccer 16",
+        "store": "Origin",
         "logoURL": "https://media.contentapi.ea.com/content/www-easports/pt_BR/fifa/news/2015/fifa-16-reasons/_jcr_content/headerImages/image.img.jpg",
         "disabled": "false"
     },
     {
         "name": "Fifa Soccer 17",
+        "store": "Origin",
         "logoURL": "https://s2.glbimg.com/v7dRv3jDU-ExNWgiGCSymbr-N84=/1080x608/top/smart/s.glbimg.com/po/tt2/f/original/2017/02/10/fifa-17-dicas-defender-marcar-bem-1.jpg",
         "disabled": "false"
     },
     {
         "name": "Jade Empire Special Edition",
+        "store": "Origin",
         "logoURL": "https://images-4.gog.com/010661d2c6213d65106f9f71c19baa2738e15b17dedee19b27a028e87e82f6e7.jpg",
         "disabled": "false"
     },
     {
         "name": "Mass Effect 2",
+        "store": "Origin",
         "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/24980/header.jpg?t=1447352739",
         "disabled": "false"
     },
     {
         "name": "Medal of Honor",
+        "store": "Origin",
         "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/47790/header.jpg?t=1447353177",
         "disabled": "false"
     },
     {
         "name": "Medal of Honor Pacific Assault",
+        "store": "Origin",
         "logoURL": "https://t.tudocdn.net/243062?w=646&h=284",
         "disabled": "false"
     },
     {
-        "name": "Mirror's Edge",
+        "name": "Mirrors Edge",
+        "store": "Origin",
         "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/17410/header.jpg?t=1447351617",
         "disabled": "false"
     },
     {
         "name": "Dead Space 2",
+        "store": "Origin",
         "logoURL": "https://c.slashgear.com/wp-content/uploads/2017/05/dead_space_2-980x420.jpeg",
         "disabled": "false"
     },
     {
         "name": "Crysis 2 Maximum Edition",
+        "store": "Origin",
         "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/108800/header.jpg?t=1447355745",
         "disabled": "false"
     },
     {
         "name": "Crysis 3",
+        "store": "Origin",
         "logoURL": "https://ownando-3a79.kxcdn.com"
+    },
+    {
+        "name": "Anno 2070",
+        "store": "UPlay",
+        "logoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0OszTWTwkO1FNtmhsy4c8kG_hq6ibXYfIjAvgGyMPqZZyJhYLuQ",
+        "disabled": "false"
+    },
+    {
+        "name": "Assassins Creed Chronicles China",
+        "store": "UPlay",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/354380/header.jpg?t=1532007231",
+        "disabled": "false"
+    },
+    {
+        "name": "Assassins Creed III",
+        "store": "UPlay",
+        "logoURL": "https://images.g2a.com/newlayout/600x351/1x1x0/95d7893a3bc7/5a6f01b65bafe35290708793",
+        "disabled": "false"
+    },
+    {
+        "name": "Assassins Creed IV Black Flag",
+        "store": "UPlay",
+        "disabled": "false"
+    },
+    {
+        "name": "Assassins Creed Rogue",
+        "store": "UPlay",
+        "logoURL": "https://i.ytimg.com/vi/wON3KHHVFo0/maxresdefault.jpg",
+        "disabled": "false"
+    },
+    {
+        "name": "Beyond Good & Evil",
+        "store": "UPlay",
+        "disabled": "false"
+    },
+    {
+        "name": "Far Cry 3",
+        "store": "UPlay",
+        "logoURL": "https://images.g2a.com/newlayout/600x351/1x1x0/abf4c2253e94/59e602a9ae653a1b7f2da8b3",
+        "disabled": "false"
+    },
+    {
+        "name": "Far Cry Blood Dragon",
+        "store": "UPlay",
+        "disabled": "false"
+    },
+    {
+        "name": "Far Cry Primal",
+        "store": "UPlay",
+        "disabled": "false"
+    },
+    {
+        "name": "Prince of Persia The Sands of Time",
+        "store": "UPlay",
+        "logoURL": "https://images-3.gog.com/b39f745aea99e997ec9eb2052761bdb3e93985e8eb07c23b54c86c448350da9f.jpg",
+        "disabled": "false"
+    },
+    {
+        "name": "Rayman Origins",
+        "store": "UPlay",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/207490/header.jpg?t=1506704938",
+        "disabled": "false"
+    },
+    {
+        "name": "Splinter Cell Blacklist",
+        "store": "UPlay",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/235600/header.jpg?t=1452184790",
+        "disabled": "false"
+    },
+    {
+        "name": "Splinter Cell Blacklist Deluxe Edition",
+        "store": "UPlay",
+        "logoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhvhailuLgfGUo6ds-CXEFr5CRR0CKofCXihEPObcZY2GgtPt",
+        "disabled": "false"
+    },
+    {
+        "name": "Splinter Cell Chaos Theory",
+        "store": "UPlay",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/13570/header.jpg?t=1472141802",
+        "disabled": "false"
+    },
+    {
+        "name": "Splinter Cell Stealth Action Redefined",
+        "store": "UPlay",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/13560/header.jpg?t=1447351280",
+        "disabled": "false"
+    },
+    {
+        "name": "The Crew",
+        "store": "UPlay",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/241560/header.jpg?t=1527101614",
+        "disabled": "false"
+    },
+    {
+        "name": "The Division",
+        "store": "UPlay",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/365590/header.jpg?t=1513590468",
+        "disabled": "false"
+    },
+    {
+        "name": "Tom Clancys Ghost Recon",
+        "store": "UPlay",
+        "logoURL": "https://gpstatic.com/acache/30/51/1/uk/t620x300-484bcc0ff977ea3bbbf93b76582b105f.jpg",
+        "disabled": "false"
+    },
+    {
+        "name": "Trials of the Blood Dragon",
+        "store": "UPlay",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/435480/header.jpg?t=1507630460",
+        "disabled": "false"
+    },
+    {
+        "name": "Watch Dogs",
+        "store": "UPlay",
+        "logoURL": "",
+        "disabled": "false"
+    },
+    {
+        "name": "World in Conflict Complete Edition",
+        "store": "UPlay",
+        "logoURL": "",
+        "disabled": "false"
+    },
+    {
+        "name": "Aliens versus Predator Classic 2000",
+        "store": "GOG",
+        "logoURL": "https://i1.wp.com/uploads.freegogpcgames.com/image/Aliens-versus-Predator-Classic-2000.jpg?resize=350%2C200",
+        "disabled": "false"
+    },
+    {
+        "name": "Baseball Stars 2",
+        "store": "GOG",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/366230/header.jpg?t=1511501196",
+        "disabled": "false"
+    },
+    {
+        "name": "Beneath a Steel Sky",
+        "store": "GOG",
+        "logoURL": "https://www.freesamples.io/wp-content/uploads/2018/06/Free-Beneath-a-Steel-Sky-PC-Game-620x180-1.jpg",
+        "disabled": "false"
+    },
+    {
+        "name": "Blazing Star",
+        "store": "GOG",
+        "logoURL": "https://images-4.gog.com/3e15422faf7647cd86a215c5bcb0ff49b2d7260c513ffd4ab75df176a889de00.jpg",
+        "disabled": "false"
+    },
+    {
+        "name": "Carmageddon TDR 2000",
+        "store": "GOG",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/331650/header.jpg?t=1451915885",
+        "disabled": "false"
+    },
+    {
+        "name": "Deadlight: directors Cut",
+        "store": "GOG",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/423950/header.jpg?t=1466666725",
+        "disabled": "false"
+    },
+    {
+        "name": "Dragonsphere",
+        "store": "GOG",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/327940/header.jpg?t=1466812173",
+        "disabled": "false"
+    },
+    {
+        "name": "Fatal Fury Special",
+        "store": "GOG",
+        "logoURL": "https://images-2.gog.com/75e0fa44d8e08befe24bc1bf6a9d7099092eea1fbe883c9a9cdf24739f3d84d6.jpg",
+        "disabled": "false"
+    },
+    {
+        "name": "Grim Fandango Remastered",
+        "store": "GOG",
+        "logoURL": "https://steamcdn-a.akamaihd.net/steam/apps/316790/header.jpg?t=1479170794",
+        "disabled": "false"
+    },
+    {
+        "name": "King of the Monsters",
+        "store": "GOG",
+        "logoURL": "https://i.ytimg.com/vi/INzYjTWjhk0/maxresdefault.jpg",
+        "disabled": "false"
+    },
+    {
+        "name": "Little Big Adventure",
+        "store": "GOG",
+        "logoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCNrsGL2Nyg1MSN9aAc693t5IoidtJmESqrlnZInA1x_UH6LtXQA",
+        "disabled": "false"
+    },
+    {
+        "name": "MDK",
+        "store": "GOG",
+        "logoURL": "https://images-3.gog.com/c02a5a3b627f4682a672f14b716334a9b37acc554308852396c3b6fc89ee405d.jpg",
+        "disabled": "false"
+    },
+    {
+        "name": "Metal Slug",
+        "store": "GOG",
+        "logoURL": ""
     }
 ]
