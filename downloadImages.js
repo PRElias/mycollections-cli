@@ -21,7 +21,7 @@ function getImages() {
                 .then(({ filename, image }) => {
                     // console.log(game.name, filename)
                     games[index].logoURL = "./games/covers/" + filename.replace(/^.*[\\\/]/, '');
-                    console.log(games[index]);
+                    fs.writeFile('./docs/games/games.json', JSON.stringify(games), 'utf8');
                 })
                 .catch((err) => {
                     console.error(game.name, " erro");
@@ -32,5 +32,4 @@ function getImages() {
 
 getImages();
 
-//Falta resolver como esperar apagar o getImages para depois salvar o arquivo
-fs.writeFile('./docs/games/games.json', JSON.stringify(games), 'utf8');
+
