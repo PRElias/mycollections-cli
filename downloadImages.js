@@ -1,36 +1,36 @@
 #!/usr/bin/env node
-const download = require('image-downloader')
 var fs = require('fs');
-var games = [];
+var games;
 
-var getGames = function () {
+function getImages() {
+
     games = JSON.parse(fs.readFileSync('./docs/games/games.json', 'utf8'));
-}
 
-var getImages = function (response) {
+    for (let index in games) {
+        let game = games[index];
 
-    for (var index in games) {
-        var game = games[index];
+        if (game.logoURL.includes("http")) {
+            // Download to a directory and save with the original filename
+            let options = {
+                url: game.logoURL,
+                dest: './docs/games/covers' // Save to /path/to/dest/image.jpg
+            };
 
-        // Download to a directory and save with the original filename
-        const options = {
-            url: game.logoURL,
-            dest: './docs/games/covers'                  // Save to /path/to/dest/image.jpg
+            let download = require('image-downloader');
+            download.image(options)
+                .then(({ filename, image }) => {
+                    // console.log(game.name, filename)
+                    games[index].logoURL = "./games/covers/" + filename.replace(/^.*[\\\/]/, '');
+                    console.log(games[index]);
+                })
+                .catch((err) => {
+                    console.error(game.name, " erro");
+                });
         }
+    };
+};
 
-        download.image(options)
-            .then(({ filename, image }) => {
-                console.log('File saved to', filename)
-            })
-            .catch((err) => {
-                console.error(err)
-            })
-
-
-    }
-
-}
-
-getGames();
 getImages();
 
+//Falta resolver como esperar apagar o getImages para depois salvar o arquivo
+fs.writeFile('./docs/games/games.json', JSON.stringify(games), 'utf8');
