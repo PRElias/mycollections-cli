@@ -18,6 +18,7 @@ app.getGames = function () {
 
 app.renderizeGames = function (response) {
     app.games = JSON.parse(response);
+    app.games.sort();
     var items = [];
 
     for (var index in app.games) {

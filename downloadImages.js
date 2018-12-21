@@ -13,8 +13,10 @@ function getImages() {
             // Download to a directory and save with the original filename
             let options = {
                 url: game.logoURL,
-                dest: './docs/games/covers' // Save to /path/to/dest/image.jpg
+                dest: './docs/games/covers/' + encodeURIComponent(game.name) + ".jpg" // Save to /path/to/dest/image.jpg
             };
+
+            console.log(options.dest);
 
             let download = require('image-downloader');
             download.image(options)
