@@ -1233,7 +1233,7 @@
     },
     {
         "name": "Watch Dogs",
-        "logoURL": "",
+        "logoURL": "./games/covers/WatchDogs.jpg",
         "store": "UPlay",
         "appID": "",
         "system": "PC",
