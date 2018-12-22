@@ -4,7 +4,7 @@
         "appID": 300,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Day_of_Defeat_Source_jpg",
+        "logoURL": "./games/covers/Day_of_Defeat_Source.jpg",
         "disabled": "false"
     },
     {
@@ -12,7 +12,7 @@
         "appID": 3910,
         "playTime": 25,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sid_Meier_s_Civilization_III_Complete_jpg",
+        "logoURL": "./games/covers/Sid_Meier_s_Civilization_III_Complete.jpg",
         "disabled": "false"
     },
     {
@@ -20,7 +20,7 @@
         "appID": 4000,
         "playTime": 5,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Garry_s_Mod_jpg",
+        "logoURL": "./games/covers/Garry_s_Mod.jpg",
         "disabled": "false"
     },
     {
@@ -28,7 +28,7 @@
         "appID": 2990,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_FlatOut_2_jpg",
+        "logoURL": "./games/covers/FlatOut_2.jpg",
         "disabled": "false"
     },
     {
@@ -36,7 +36,7 @@
         "appID": 6510,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Lost_Planet_Extreme_Condition_jpg",
+        "logoURL": "./games/covers/Lost_Planet_Extreme_Condition.jpg",
         "disabled": "false"
     },
     {
@@ -44,7 +44,7 @@
         "appID": 400,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Portal_jpg",
+        "logoURL": "./games/covers/Portal.jpg",
         "disabled": "false"
     },
     {
@@ -52,7 +52,7 @@
         "appID": 8600,
         "playTime": 52,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_RACE_07_jpg",
+        "logoURL": "./games/covers/RACE_07.jpg",
         "disabled": "false"
     },
     {
@@ -60,7 +60,7 @@
         "appID": 44630,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_RACE_07_Formula_RaceRoom_Add_On_jpg",
+        "logoURL": "./games/covers/RACE_07_Formula_RaceRoom_Add_On.jpg",
         "disabled": "false"
     },
     {
@@ -68,7 +68,7 @@
         "appID": 11450,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Overlord_jpg",
+        "logoURL": "./games/covers/Overlord.jpg",
         "disabled": "false"
     },
     {
@@ -76,7 +76,7 @@
         "appID": 12100,
         "playTime": 3,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grand_Theft_Auto_III_jpg",
+        "logoURL": "./games/covers/Grand_Theft_Auto_III.jpg",
         "disabled": "false"
     },
     {
@@ -84,7 +84,7 @@
         "appID": 12230,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grand_Theft_Auto_III_jpg",
+        "logoURL": "./games/covers/Grand_Theft_Auto_III.jpg",
         "disabled": "false"
     },
     {
@@ -92,7 +92,7 @@
         "appID": 12120,
         "playTime": 11,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grand_Theft_Auto_San_Andreas_jpg",
+        "logoURL": "./games/covers/Grand_Theft_Auto_San_Andreas.jpg",
         "disabled": "false"
     },
     {
@@ -100,7 +100,7 @@
         "appID": 12250,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grand_Theft_Auto_San_Andreas_jpg",
+        "logoURL": "./games/covers/Grand_Theft_Auto_San_Andreas.jpg",
         "disabled": "false"
     },
     {
@@ -108,7 +108,7 @@
         "appID": 12130,
         "playTime": 8,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Manhunt_jpg",
+        "logoURL": "./games/covers/Manhunt.jpg",
         "disabled": "false"
     },
     {
@@ -116,7 +116,7 @@
         "appID": 13520,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Far_Cry_jpg",
+        "logoURL": "./games/covers/Far_Cry.jpg",
         "disabled": "false"
     },
     {
@@ -124,7 +124,7 @@
         "appID": 15100,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Assassin_s_Creed_jpg",
+        "logoURL": "./games/covers/Assassin_s_Creed.jpg",
         "disabled": "false"
     },
     {
@@ -132,7 +132,7 @@
         "appID": 20,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Team_Fortress_Classic_jpg",
+        "logoURL": "./games/covers/Team_Fortress_Classic.jpg",
         "disabled": "false"
     },
     {
@@ -140,7 +140,7 @@
         "appID": 50,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Half_Life_Opposing_Force_jpg",
+        "logoURL": "./games/covers/Half_Life_Opposing_Force.jpg",
         "disabled": "false"
     },
     {
@@ -148,7 +148,7 @@
         "appID": 70,
         "playTime": 12,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Half_Life_jpg",
+        "logoURL": "./games/covers/Half_Life.jpg",
         "disabled": "false"
     },
     {
@@ -156,7 +156,7 @@
         "appID": 130,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Half_Life_Blue_Shift_jpg",
+        "logoURL": "./games/covers/Half_Life_Blue_Shift.jpg",
         "disabled": "false"
     },
     {
@@ -164,7 +164,7 @@
         "appID": 220,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Half_Life_2_jpg",
+        "logoURL": "./games/covers/Half_Life_2.jpg",
         "disabled": "false"
     },
     {
@@ -172,7 +172,7 @@
         "appID": 280,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Half_Life_Source_jpg",
+        "logoURL": "./games/covers/Half_Life_Source.jpg",
         "disabled": "false"
     },
     {
@@ -180,7 +180,7 @@
         "appID": 320,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Half_Life_2_Deathmatch_jpg",
+        "logoURL": "./games/covers/Half_Life_2_Deathmatch.jpg",
         "disabled": "false"
     },
     {
@@ -188,7 +188,7 @@
         "appID": 340,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Half_Life_2_Lost_Coast_jpg",
+        "logoURL": "./games/covers/Half_Life_2_Lost_Coast.jpg",
         "disabled": "false"
     },
     {
@@ -196,7 +196,7 @@
         "appID": 360,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Half_Life_Deathmatch_Source_jpg",
+        "logoURL": "./games/covers/Half_Life_Deathmatch_Source.jpg",
         "disabled": "false"
     },
     {
@@ -204,7 +204,7 @@
         "appID": 380,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Half_Life_2_Episode_One_jpg",
+        "logoURL": "./games/covers/Half_Life_2_Episode_One.jpg",
         "disabled": "false"
     },
     {
@@ -212,7 +212,7 @@
         "appID": 420,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Half_Life_2_Episode_Two_jpg",
+        "logoURL": "./games/covers/Half_Life_2_Episode_Two.jpg",
         "disabled": "false"
     },
     {
@@ -220,7 +220,7 @@
         "appID": 12750,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_GRID_jpg",
+        "logoURL": "./games/covers/GRID.jpg",
         "disabled": "false"
     },
     {
@@ -228,7 +228,7 @@
         "appID": 8660,
         "playTime": 1,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_GTR_Evolution_jpg",
+        "logoURL": "./games/covers/GTR_Evolution.jpg",
         "disabled": "false"
     },
     {
@@ -236,7 +236,7 @@
         "appID": 19900,
         "playTime": 76,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Far_Cry_2_jpg",
+        "logoURL": "./games/covers/Far_Cry_2.jpg",
         "disabled": "false"
     },
     {
@@ -244,7 +244,7 @@
         "appID": 12200,
         "playTime": 17,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Bully_Scholarship_Edition_jpg",
+        "logoURL": "./games/covers/Bully_Scholarship_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -252,7 +252,7 @@
         "appID": 9480,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Saints_Row_2_jpg",
+        "logoURL": "./games/covers/Saints_Row_2.jpg",
         "disabled": "false"
     },
     {
@@ -260,7 +260,7 @@
         "appID": 17470,
         "playTime": 16,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Dead_Space_jpg",
+        "logoURL": "./games/covers/Dead_Space.jpg",
         "disabled": "false"
     },
     {
@@ -268,7 +268,7 @@
         "appID": 21780,
         "playTime": 48,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Driver_Parallel_Lines_jpg",
+        "logoURL": "./games/covers/Driver_Parallel_Lines.jpg",
         "disabled": "false"
     },
     {
@@ -276,7 +276,7 @@
         "appID": 21010,
         "playTime": 3,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Watchmen_The_End_Is_Nigh_jpg",
+        "logoURL": "./games/covers/Watchmen_The_End_Is_Nigh.jpg",
         "disabled": "false"
     },
     {
@@ -284,7 +284,7 @@
         "appID": 23310,
         "playTime": 89,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Last_Remnant_jpg",
+        "logoURL": "./games/covers/The_Last_Remnant.jpg",
         "disabled": "false"
     },
     {
@@ -292,7 +292,7 @@
         "appID": 24740,
         "playTime": 226,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Burnout_Paradise_The_Ultimate_Box_jpg",
+        "logoURL": "./games/covers/Burnout_Paradise_The_Ultimate_Box.jpg",
         "disabled": "false"
     },
     {
@@ -300,7 +300,7 @@
         "appID": 3590,
         "playTime": 1,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Plants_vs_Zombies_Game_of_the_Year_jpg",
+        "logoURL": "./games/covers/Plants_vs_Zombies_Game_of_the_Year.jpg",
         "disabled": "false"
     },
     {
@@ -308,7 +308,7 @@
         "appID": 22330,
         "playTime": 7,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Elder_Scrolls_IV_Oblivion_jpg",
+        "logoURL": "./games/covers/The_Elder_Scrolls_IV_Oblivion.jpg",
         "disabled": "false"
     },
     {
@@ -316,7 +316,7 @@
         "appID": 12810,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Overlord_II_jpg",
+        "logoURL": "./games/covers/Overlord_II.jpg",
         "disabled": "false"
     },
     {
@@ -324,7 +324,7 @@
         "appID": 1250,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Killing_Floor_jpg",
+        "logoURL": "./games/covers/Killing_Floor.jpg",
         "disabled": "false"
     },
     {
@@ -332,7 +332,7 @@
         "appID": 35420,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Killing_Floor_Mod_Defence_Alliance_2_jpg",
+        "logoURL": "./games/covers/Killing_Floor_Mod_Defence_Alliance_2.jpg",
         "disabled": "false"
     },
     {
@@ -340,7 +340,7 @@
         "appID": 21680,
         "playTime": 69,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Bionic_Commando_Rearmed_jpg",
+        "logoURL": "./games/covers/Bionic_Commando_Rearmed.jpg",
         "disabled": "false"
     },
     {
@@ -348,7 +348,7 @@
         "appID": 21670,
         "playTime": 24,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Bionic_Commando_jpg",
+        "logoURL": "./games/covers/Bionic_Commando.jpg",
         "disabled": "false"
     },
     {
@@ -356,7 +356,7 @@
         "appID": 10130,
         "playTime": 24,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_TimeShift_jpg",
+        "logoURL": "./games/covers/TimeShift.jpg",
         "disabled": "false"
     },
     {
@@ -364,7 +364,7 @@
         "appID": 11390,
         "playTime": 5,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Crash_Time_II_jpg",
+        "logoURL": "./games/covers/Crash_Time_II.jpg",
         "disabled": "false"
     },
     {
@@ -372,7 +372,7 @@
         "appID": 3620,
         "playTime": 3751,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Zuma_s_Revenge_jpg",
+        "logoURL": "./games/covers/Zuma_s_Revenge.jpg",
         "disabled": "false"
     },
     {
@@ -380,7 +380,7 @@
         "appID": 24800,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Command_and_Conquer_Red_Alert_3_Uprising_jpg",
+        "logoURL": "./games/covers/Command_and_Conquer_Red_Alert_3_Uprising.jpg",
         "disabled": "false"
     },
     {
@@ -388,7 +388,7 @@
         "appID": 20900,
         "playTime": 13,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Witcher_Enhanced_Edition_jpg",
+        "logoURL": "./games/covers/The_Witcher_Enhanced_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -396,7 +396,7 @@
         "appID": 550,
         "playTime": 15,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Left_4_Dead_2_jpg",
+        "logoURL": "./games/covers/Left_4_Dead_2.jpg",
         "disabled": "false"
     },
     {
@@ -404,7 +404,7 @@
         "appID": 33620,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Crash_Time_III_jpg",
+        "logoURL": "./games/covers/Crash_Time_III.jpg",
         "disabled": "false"
     },
     {
@@ -412,7 +412,7 @@
         "appID": 22370,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Fallout_3_Game_of_the_Year_Edition_jpg",
+        "logoURL": "./games/covers/Fallout_3_Game_of_the_Year_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -420,7 +420,7 @@
         "appID": 33230,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Assassin_s_Creed_II_jpg",
+        "logoURL": "./games/covers/Assassin_s_Creed_II.jpg",
         "disabled": "false"
     },
     {
@@ -428,7 +428,7 @@
         "appID": 43110,
         "playTime": 44,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Metro_2033_jpg",
+        "logoURL": "./games/covers/Metro_2033.jpg",
         "disabled": "false"
     },
     {
@@ -436,7 +436,7 @@
         "appID": 19030,
         "playTime": 31,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Rocket_Knight_jpg",
+        "logoURL": "./games/covers/Rocket_Knight.jpg",
         "disabled": "false"
     },
     {
@@ -444,7 +444,7 @@
         "appID": 3900,
         "playTime": 37,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sid_Meier_s_Civilization_IV_jpg",
+        "logoURL": "./games/covers/Sid_Meier_s_Civilization_IV.jpg",
         "disabled": "false"
     },
     {
@@ -452,7 +452,7 @@
         "appID": 3990,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sid_Meier_s_Civilization_IV_Warlords_jpg",
+        "logoURL": "./games/covers/Sid_Meier_s_Civilization_IV_Warlords.jpg",
         "disabled": "false"
     },
     {
@@ -460,7 +460,7 @@
         "appID": 8800,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sid_Meier_s_Civilization_IV_Beyond_the_Sword_jpg",
+        "logoURL": "./games/covers/Sid_Meier_s_Civilization_IV_Beyond_the_Sword.jpg",
         "disabled": "false"
     },
     {
@@ -468,7 +468,7 @@
         "appID": 16810,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sid_Meier_s_Civilization_IV_Colonization_jpg",
+        "logoURL": "./games/covers/Sid_Meier_s_Civilization_IV_Colonization.jpg",
         "disabled": "false"
     },
     {
@@ -476,7 +476,7 @@
         "appID": 34440,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sid_Meier_s_Civilization_IV_jpg",
+        "logoURL": "./games/covers/Sid_Meier_s_Civilization_IV.jpg",
         "disabled": "false"
     },
     {
@@ -484,7 +484,7 @@
         "appID": 34450,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sid_Meier_s_Civilization_IV_Warlords_jpg",
+        "logoURL": "./games/covers/Sid_Meier_s_Civilization_IV_Warlords.jpg",
         "disabled": "false"
     },
     {
@@ -492,7 +492,7 @@
         "appID": 34460,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sid_Meier_s_Civilization_IV_Beyond_the_Sword_jpg",
+        "logoURL": "./games/covers/Sid_Meier_s_Civilization_IV_Beyond_the_Sword.jpg",
         "disabled": "false"
     },
     {
@@ -500,7 +500,7 @@
         "appID": 33680,
         "playTime": 3,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Eversion_jpg",
+        "logoURL": "./games/covers/Eversion.jpg",
         "disabled": "false"
     },
     {
@@ -508,7 +508,7 @@
         "appID": 21130,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Lego_Harry_Potter_jpg",
+        "logoURL": "./games/covers/Lego_Harry_Potter.jpg",
         "disabled": "false"
     },
     {
@@ -516,7 +516,7 @@
         "appID": 42670,
         "playTime": 33,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Singularity_jpg",
+        "logoURL": "./games/covers/Singularity.jpg",
         "disabled": "false"
     },
     {
@@ -524,7 +524,7 @@
         "appID": 24780,
         "playTime": 3,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_SimCity_4_Deluxe_jpg",
+        "logoURL": "./games/covers/SimCity_4_Deluxe.jpg",
         "disabled": "false"
     },
     {
@@ -532,7 +532,7 @@
         "appID": 17410,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mirror_s_Edge_jpg",
+        "logoURL": "./games/covers/Mirror_s_Edge.jpg",
         "disabled": "false"
     },
     {
@@ -540,7 +540,7 @@
         "appID": 70300,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_VVVVVV_jpg",
+        "logoURL": "./games/covers/VVVVVV.jpg",
         "disabled": "false"
     },
     {
@@ -548,7 +548,7 @@
         "appID": 8930,
         "playTime": 951,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sid_Meier_s_Civilization_V_jpg",
+        "logoURL": "./games/covers/Sid_Meier_s_Civilization_V.jpg",
         "disabled": "false"
     },
     {
@@ -556,7 +556,7 @@
         "appID": 45750,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Lost_Planet_2_jpg",
+        "logoURL": "./games/covers/Lost_Planet_2.jpg",
         "disabled": "false"
     },
     {
@@ -564,7 +564,7 @@
         "appID": 22380,
         "playTime": 212,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Fallout_New_Vegas_jpg",
+        "logoURL": "./games/covers/Fallout_New_Vegas.jpg",
         "disabled": "false"
     },
     {
@@ -572,7 +572,7 @@
         "appID": 12210,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grand_Theft_Auto_IV_jpg",
+        "logoURL": "./games/covers/Grand_Theft_Auto_IV.jpg",
         "disabled": "false"
     },
     {
@@ -580,7 +580,7 @@
         "appID": 12220,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grand_Theft_Auto_Episodes_from_Liberty_City_jpg",
+        "logoURL": "./games/covers/Grand_Theft_Auto_Episodes_from_Liberty_City.jpg",
         "disabled": "false"
     },
     {
@@ -588,7 +588,7 @@
         "appID": 55140,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_MX_vs_ATV_Reflex_jpg",
+        "logoURL": "./games/covers/MX_vs_ATV_Reflex.jpg",
         "disabled": "false"
     },
     {
@@ -596,7 +596,7 @@
         "appID": 40800,
         "playTime": 54,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Super_Meat_Boy_jpg",
+        "logoURL": "./games/covers/Super_Meat_Boy.jpg",
         "disabled": "false"
     },
     {
@@ -604,7 +604,7 @@
         "appID": 47870,
         "playTime": 94,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Need_for_Speed_Hot_Pursuit_jpg",
+        "logoURL": "./games/covers/Need_for_Speed_Hot_Pursuit.jpg",
         "disabled": "false"
     },
     {
@@ -612,7 +612,7 @@
         "appID": 4540,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Titan_Quest_jpg",
+        "logoURL": "./games/covers/Titan_Quest.jpg",
         "disabled": "false"
     },
     {
@@ -620,7 +620,7 @@
         "appID": 475150,
         "playTime": 11,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Titan_Quest_Anniversary_Edition_jpg",
+        "logoURL": "./games/covers/Titan_Quest_Anniversary_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -628,7 +628,7 @@
         "appID": 21100,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_F_E_A_R_3_jpg",
+        "logoURL": "./games/covers/F_E_A_R_3.jpg",
         "disabled": "false"
     },
     {
@@ -636,7 +636,7 @@
         "appID": 9930,
         "playTime": 65,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Test_Drive_Unlimited_2_jpg",
+        "logoURL": "./games/covers/Test_Drive_Unlimited_2.jpg",
         "disabled": "false"
     },
     {
@@ -644,7 +644,7 @@
         "appID": 55100,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Homefront_jpg",
+        "logoURL": "./games/covers/Homefront.jpg",
         "disabled": "false"
     },
     {
@@ -652,7 +652,7 @@
         "appID": 63710,
         "playTime": 133,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_BIT_TRIP_RUNNER_jpg",
+        "logoURL": "./games/covers/BIT_TRIP_RUNNER.jpg",
         "disabled": "false"
     },
     {
@@ -660,7 +660,7 @@
         "appID": 48190,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Assassin_s_Creed_Brotherhood_jpg",
+        "logoURL": "./games/covers/Assassin_s_Creed_Brotherhood.jpg",
         "disabled": "false"
     },
     {
@@ -668,7 +668,7 @@
         "appID": 620,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Portal_2_jpg",
+        "logoURL": "./games/covers/Portal_2.jpg",
         "disabled": "false"
     },
     {
@@ -676,7 +676,7 @@
         "appID": 105600,
         "playTime": 9,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Terraria_jpg",
+        "logoURL": "./games/covers/Terraria.jpg",
         "disabled": "false"
     },
     {
@@ -684,7 +684,7 @@
         "appID": 20920,
         "playTime": 102,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Witcher_2_Assassins_of_Kings_Enhanced_Edition_jpg",
+        "logoURL": "./games/covers/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -692,7 +692,7 @@
         "appID": 13500,
         "playTime": 26,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Prince_of_Persia_Warrior_Within_jpg",
+        "logoURL": "./games/covers/Prince_of_Persia_Warrior_Within.jpg",
         "disabled": "false"
     },
     {
@@ -700,7 +700,7 @@
         "appID": 13530,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Prince_of_Persia_The_Two_Thrones_jpg",
+        "logoURL": "./games/covers/Prince_of_Persia_The_Two_Thrones.jpg",
         "disabled": "false"
     },
     {
@@ -708,7 +708,7 @@
         "appID": 13600,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Prince_of_Persia_The_Sands_of_Time_jpg",
+        "logoURL": "./games/covers/Prince_of_Persia_The_Sands_of_Time.jpg",
         "disabled": "false"
     },
     {
@@ -716,7 +716,7 @@
         "appID": 19980,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Prince_of_Persia_jpg",
+        "logoURL": "./games/covers/Prince_of_Persia.jpg",
         "disabled": "false"
     },
     {
@@ -724,7 +724,7 @@
         "appID": 33320,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Prince_of_Persia_The_Forgotten_Sands_jpg",
+        "logoURL": "./games/covers/Prince_of_Persia_The_Forgotten_Sands.jpg",
         "disabled": "false"
     },
     {
@@ -732,7 +732,7 @@
         "appID": 44320,
         "playTime": 126,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DiRT_3_jpg",
+        "logoURL": "./games/covers/DiRT_3.jpg",
         "disabled": "false"
     },
     {
@@ -740,7 +740,7 @@
         "appID": 321040,
         "playTime": 330,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DiRT_3_Complete_Edition_jpg",
+        "logoURL": "./games/covers/DiRT_3_Complete_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -748,7 +748,7 @@
         "appID": 7760,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_X_COM_UFO_Defense_jpg",
+        "logoURL": "./games/covers/X_COM_UFO_Defense.jpg",
         "disabled": "false"
     },
     {
@@ -756,7 +756,7 @@
         "appID": 21090,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_F_E_A_R_jpg",
+        "logoURL": "./games/covers/F_E_A_R.jpg",
         "disabled": "false"
     },
     {
@@ -764,7 +764,7 @@
         "appID": 21110,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_F_E_A_R_Extraction_Point_jpg",
+        "logoURL": "./games/covers/F_E_A_R_Extraction_Point.jpg",
         "disabled": "false"
     },
     {
@@ -772,7 +772,7 @@
         "appID": 21120,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_F_E_A_R_Perseus_Mandate_jpg",
+        "logoURL": "./games/covers/F_E_A_R_Perseus_Mandate.jpg",
         "disabled": "false"
     },
     {
@@ -780,7 +780,7 @@
         "appID": 16450,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_F_E_A_R_2_Project_Origin_jpg",
+        "logoURL": "./games/covers/F_E_A_R_2_Project_Origin.jpg",
         "disabled": "false"
     },
     {
@@ -788,7 +788,7 @@
         "appID": 50130,
         "playTime": 127,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mafia_II_jpg",
+        "logoURL": "./games/covers/Mafia_II.jpg",
         "disabled": "false"
     },
     {
@@ -796,7 +796,7 @@
         "appID": 8980,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Borderlands_jpg",
+        "logoURL": "./games/covers/Borderlands.jpg",
         "disabled": "false"
     },
     {
@@ -804,7 +804,7 @@
         "appID": 55150,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Warhammer_40_000_Space_Marine_jpg",
+        "logoURL": "./games/covers/Warhammer_40_000_Space_Marine.jpg",
         "disabled": "false"
     },
     {
@@ -812,7 +812,7 @@
         "appID": 32800,
         "playTime": 15,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Lord_of_the_Rings_War_in_the_North_jpg",
+        "logoURL": "./games/covers/The_Lord_of_the_Rings_War_in_the_North.jpg",
         "disabled": "false"
     },
     {
@@ -820,7 +820,7 @@
         "appID": 28050,
         "playTime": 94,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Deus_Ex_Human_Revolution_jpg",
+        "logoURL": "./games/covers/Deus_Ex_Human_Revolution.jpg",
         "disabled": "false"
     },
     {
@@ -828,7 +828,7 @@
         "appID": 57690,
         "playTime": 39,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Tropico_4_jpg",
+        "logoURL": "./games/covers/Tropico_4.jpg",
         "disabled": "false"
     },
     {
@@ -836,7 +836,7 @@
         "appID": 113200,
         "playTime": 5,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Binding_of_Isaac_jpg",
+        "logoURL": "./games/covers/The_Binding_of_Isaac.jpg",
         "disabled": "false"
     },
     {
@@ -844,7 +844,7 @@
         "appID": 9200,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_RAGE_jpg",
+        "logoURL": "./games/covers/RAGE.jpg",
         "disabled": "false"
     },
     {
@@ -852,7 +852,7 @@
         "appID": 110400,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_inMomentum_jpg",
+        "logoURL": "./games/covers/inMomentum.jpg",
         "disabled": "false"
     },
     {
@@ -860,7 +860,7 @@
         "appID": 72850,
         "playTime": 163,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Elder_Scrolls_V_Skyrim_jpg",
+        "logoURL": "./games/covers/The_Elder_Scrolls_V_Skyrim.jpg",
         "disabled": "false"
     },
     {
@@ -868,7 +868,7 @@
         "appID": 55230,
         "playTime": 116,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Saints_Row_The_Third_jpg",
+        "logoURL": "./games/covers/Saints_Row_The_Third.jpg",
         "disabled": "false"
     },
     {
@@ -876,7 +876,7 @@
         "appID": 48240,
         "playTime": 45,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Anno_2070_jpg",
+        "logoURL": "./games/covers/Anno_2070.jpg",
         "disabled": "false"
     },
     {
@@ -884,7 +884,7 @@
         "appID": 67370,
         "playTime": 60,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Darkness_II_jpg",
+        "logoURL": "./games/covers/The_Darkness_II.jpg",
         "disabled": "false"
     },
     {
@@ -892,7 +892,7 @@
         "appID": 105450,
         "playTime": 66,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Age_of_Empires_III_Complete_Collection_jpg",
+        "logoURL": "./games/covers/Age_of_Empires_III_Complete_Collection.jpg",
         "disabled": "false"
     },
     {
@@ -900,7 +900,7 @@
         "appID": 204120,
         "playTime": 421,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_LEGO_Harry_Potter_Years_5_7_jpg",
+        "logoURL": "./games/covers/LEGO_Harry_Potter_Years_5_7.jpg",
         "disabled": "false"
     },
     {
@@ -908,7 +908,7 @@
         "appID": 7730,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_X_COM_Interceptor_jpg",
+        "logoURL": "./games/covers/X_COM_Interceptor.jpg",
         "disabled": "false"
     },
     {
@@ -916,7 +916,7 @@
         "appID": 204880,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sins_of_a_Solar_Empire_Rebellion_jpg",
+        "logoURL": "./games/covers/Sins_of_a_Solar_Empire_Rebellion.jpg",
         "disabled": "false"
     },
     {
@@ -924,7 +924,7 @@
         "appID": 205350,
         "playTime": 102,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Kollection_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Kollection.jpg",
         "disabled": "false"
     },
     {
@@ -932,7 +932,7 @@
         "appID": 108710,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Alan_Wake_jpg",
+        "logoURL": "./games/covers/Alan_Wake.jpg",
         "disabled": "false"
     },
     {
@@ -940,7 +940,7 @@
         "appID": 205830,
         "playTime": 45,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Luxor_Evolved_jpg",
+        "logoURL": "./games/covers/Luxor_Evolved.jpg",
         "disabled": "false"
     },
     {
@@ -948,7 +948,7 @@
         "appID": 108500,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Vessel_jpg",
+        "logoURL": "./games/covers/Vessel.jpg",
         "disabled": "false"
     },
     {
@@ -956,7 +956,7 @@
         "appID": 110800,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_L_A_Noire_jpg",
+        "logoURL": "./games/covers/L_A_Noire.jpg",
         "disabled": "false"
     },
     {
@@ -964,7 +964,7 @@
         "appID": 203750,
         "playTime": 58,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Binary_Domain_jpg",
+        "logoURL": "./games/covers/Binary_Domain.jpg",
         "disabled": "false"
     },
     {
@@ -972,7 +972,7 @@
         "appID": 210950,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Rune_Classic_jpg",
+        "logoURL": "./games/covers/Rune_Classic.jpg",
         "disabled": "false"
     },
     {
@@ -980,7 +980,7 @@
         "appID": 201700,
         "playTime": 13,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DiRT_Showdown_jpg",
+        "logoURL": "./games/covers/DiRT_Showdown.jpg",
         "disabled": "false"
     },
     {
@@ -988,7 +988,7 @@
         "appID": 209100,
         "playTime": 26,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Resident_Evil_Operation_Raccoon_City_jpg",
+        "logoURL": "./games/covers/Resident_Evil_Operation_Raccoon_City.jpg",
         "disabled": "false"
     },
     {
@@ -996,7 +996,7 @@
         "appID": 50300,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Spec_Ops_The_Line_jpg",
+        "logoURL": "./games/covers/Spec_Ops_The_Line.jpg",
         "disabled": "false"
     },
     {
@@ -1004,7 +1004,7 @@
         "appID": 202750,
         "playTime": 127,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Alan_Wake_s_American_Nightmare_jpg",
+        "logoURL": "./games/covers/Alan_Wake_s_American_Nightmare.jpg",
         "disabled": "false"
     },
     {
@@ -1012,7 +1012,7 @@
         "appID": 7670,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_BioShock_jpg",
+        "logoURL": "./games/covers/BioShock.jpg",
         "disabled": "false"
     },
     {
@@ -1020,7 +1020,7 @@
         "appID": 409710,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_BioShock_Remastered_jpg",
+        "logoURL": "./games/covers/BioShock_Remastered.jpg",
         "disabled": "false"
     },
     {
@@ -1028,7 +1028,7 @@
         "appID": 7660,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_X_COM_Apocalypse_jpg",
+        "logoURL": "./games/covers/X_COM_Apocalypse.jpg",
         "disabled": "false"
     },
     {
@@ -1036,7 +1036,7 @@
         "appID": 7770,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_X_COM_Enforcer_jpg",
+        "logoURL": "./games/covers/X_COM_Enforcer.jpg",
         "disabled": "false"
     },
     {
@@ -1044,7 +1044,7 @@
         "appID": 7650,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_X_COM_Terror_from_the_Deep_jpg",
+        "logoURL": "./games/covers/X_COM_Terror_from_the_Deep.jpg",
         "disabled": "false"
     },
     {
@@ -1052,7 +1052,7 @@
         "appID": 108800,
         "playTime": 86,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Crysis_2_Maximum_Edition_jpg",
+        "logoURL": "./games/covers/Crysis_2_Maximum_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1060,7 +1060,7 @@
         "appID": 3830,
         "playTime": 13,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Psychonauts_jpg",
+        "logoURL": "./games/covers/Psychonauts.jpg",
         "disabled": "false"
     },
     {
@@ -1068,7 +1068,7 @@
         "appID": 48000,
         "playTime": 4,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_LIMBO_jpg",
+        "logoURL": "./games/covers/LIMBO.jpg",
         "disabled": "false"
     },
     {
@@ -1076,7 +1076,7 @@
         "appID": 57300,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Amnesia_The_Dark_Descent_jpg",
+        "logoURL": "./games/covers/Amnesia_The_Dark_Descent.jpg",
         "disabled": "false"
     },
     {
@@ -1084,7 +1084,7 @@
         "appID": 204060,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Superbrothers_Sword_Sworcery_EP_jpg",
+        "logoURL": "./games/covers/Superbrothers_Sword_Sworcery_EP.jpg",
         "disabled": "false"
     },
     {
@@ -1092,7 +1092,7 @@
         "appID": 107100,
         "playTime": 73,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Bastion_jpg",
+        "logoURL": "./games/covers/Bastion.jpg",
         "disabled": "false"
     },
     {
@@ -1100,7 +1100,7 @@
         "appID": 204100,
         "playTime": 43,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Max_Payne_3_jpg",
+        "logoURL": "./games/covers/Max_Payne_3.jpg",
         "disabled": "false"
     },
     {
@@ -1108,7 +1108,7 @@
         "appID": 26800,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Braid_jpg",
+        "logoURL": "./games/covers/Braid.jpg",
         "disabled": "false"
     },
     {
@@ -1116,7 +1116,7 @@
         "appID": 209830,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Lone_Survivor_The_Director_s_Cut_jpg",
+        "logoURL": "./games/covers/Lone_Survivor_The_Director_s_Cut.jpg",
         "disabled": "false"
     },
     {
@@ -1124,7 +1124,7 @@
         "appID": 207020,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Bang_Bang_Racing_jpg",
+        "logoURL": "./games/covers/Bang_Bang_Racing.jpg",
         "disabled": "false"
     },
     {
@@ -1132,7 +1132,7 @@
         "appID": 91310,
         "playTime": 60,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Dead_Island_jpg",
+        "logoURL": "./games/covers/Dead_Island.jpg",
         "disabled": "false"
     },
     {
@@ -1140,7 +1140,7 @@
         "appID": 215670,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Home_jpg",
+        "logoURL": "./games/covers/Home.jpg",
         "disabled": "false"
     },
     {
@@ -1148,7 +1148,7 @@
         "appID": 98400,
         "playTime": 20,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Hard_Reset_jpg",
+        "logoURL": "./games/covers/Hard_Reset.jpg",
         "disabled": "false"
     },
     {
@@ -1156,7 +1156,7 @@
         "appID": 35140,
         "playTime": 212,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Batman_Arkham_Asylum_GOTY_Edition_jpg",
+        "logoURL": "./games/covers/Batman_Arkham_Asylum_GOTY_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1164,7 +1164,7 @@
         "appID": 212410,
         "playTime": 35,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Inversion_jpg",
+        "logoURL": "./games/covers/Inversion.jpg",
         "disabled": "false"
     },
     {
@@ -1172,7 +1172,7 @@
         "appID": 50650,
         "playTime": 8,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Darksiders_II_jpg",
+        "logoURL": "./games/covers/Darksiders_II.jpg",
         "disabled": "false"
     },
     {
@@ -1180,7 +1180,7 @@
         "appID": 202170,
         "playTime": 210,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sleeping_Dogs_jpg",
+        "logoURL": "./games/covers/Sleeping_Dogs.jpg",
         "disabled": "false"
     },
     {
@@ -1188,7 +1188,7 @@
         "appID": 730,
         "playTime": 200,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Counter_Strike_Global_Offensive_jpg",
+        "logoURL": "./games/covers/Counter_Strike_Global_Offensive.jpg",
         "disabled": "false"
     },
     {
@@ -1196,7 +1196,7 @@
         "appID": 208580,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_STAR_WARS_Knights_of_the_Old_Republic_II_The_Sith_Lords_jpg",
+        "logoURL": "./games/covers/STAR_WARS_Knights_of_the_Old_Republic_II_The_Sith_Lords.jpg",
         "disabled": "false"
     },
     {
@@ -1204,7 +1204,7 @@
         "appID": 200510,
         "playTime": 17,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_XCOM_Enemy_Unknown_jpg",
+        "logoURL": "./games/covers/XCOM_Enemy_Unknown.jpg",
         "disabled": "false"
     },
     {
@@ -1212,7 +1212,7 @@
         "appID": 214250,
         "playTime": 65,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_I_Am_Alive_jpg",
+        "logoURL": "./games/covers/I_Am_Alive.jpg",
         "disabled": "false"
     },
     {
@@ -1220,7 +1220,7 @@
         "appID": 200260,
         "playTime": 129,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Batman_Arkham_City_GOTY_jpg",
+        "logoURL": "./games/covers/Batman_Arkham_City_GOTY.jpg",
         "disabled": "false"
     },
     {
@@ -1228,7 +1228,7 @@
         "appID": 208500,
         "playTime": 401,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_F1_2012_jpg",
+        "logoURL": "./games/covers/F1_2012.jpg",
         "disabled": "false"
     },
     {
@@ -1236,7 +1236,7 @@
         "appID": 204360,
         "playTime": 27,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Castle_Crashers_jpg",
+        "logoURL": "./games/covers/Castle_Crashers.jpg",
         "disabled": "false"
     },
     {
@@ -1244,7 +1244,7 @@
         "appID": 49520,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Borderlands_2_jpg",
+        "logoURL": "./games/covers/Borderlands_2.jpg",
         "disabled": "false"
     },
     {
@@ -1252,7 +1252,7 @@
         "appID": 212580,
         "playTime": 50,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Amazing_Spider_Man_jpg",
+        "logoURL": "./games/covers/The_Amazing_Spider_Man.jpg",
         "disabled": "false"
     },
     {
@@ -1260,7 +1260,7 @@
         "appID": 205190,
         "playTime": 260,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Rocksmith_jpg",
+        "logoURL": "./games/covers/Rocksmith.jpg",
         "disabled": "false"
     },
     {
@@ -1268,7 +1268,7 @@
         "appID": 219150,
         "playTime": 12,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Hotline_Miami_jpg",
+        "logoURL": "./games/covers/Hotline_Miami.jpg",
         "disabled": "false"
     },
     {
@@ -1276,7 +1276,7 @@
         "appID": 205100,
         "playTime": 119,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Dishonored_jpg",
+        "logoURL": "./games/covers/Dishonored.jpg",
         "disabled": "false"
     },
     {
@@ -1292,7 +1292,7 @@
         "appID": 208200,
         "playTime": 21,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DOOM_3_BFG_Edition_jpg",
+        "logoURL": "./games/covers/DOOM_3_BFG_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1300,7 +1300,7 @@
         "appID": 219640,
         "playTime": 6,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Chivalry_Medieval_Warfare_jpg",
+        "logoURL": "./games/covers/Chivalry_Medieval_Warfare.jpg",
         "disabled": "false"
     },
     {
@@ -1308,7 +1308,7 @@
         "appID": 218680,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Scribblenauts_Unlimited_jpg",
+        "logoURL": "./games/covers/Scribblenauts_Unlimited.jpg",
         "disabled": "false"
     },
     {
@@ -1316,7 +1316,7 @@
         "appID": 223220,
         "playTime": 61,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Giana_Sisters_Twisted_Dreams_jpg",
+        "logoURL": "./games/covers/Giana_Sisters_Twisted_Dreams.jpg",
         "disabled": "false"
     },
     {
@@ -1324,7 +1324,7 @@
         "appID": 211400,
         "playTime": 95,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Deadlight_jpg",
+        "logoURL": "./games/covers/Deadlight.jpg",
         "disabled": "false"
     },
     {
@@ -1332,7 +1332,7 @@
         "appID": 219950,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_NiGHTS_into_Dreams_jpg",
+        "logoURL": "./games/covers/NiGHTS_into_Dreams.jpg",
         "disabled": "false"
     },
     {
@@ -1340,7 +1340,7 @@
         "appID": 207040,
         "playTime": 65,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sine_Mora_jpg",
+        "logoURL": "./games/covers/Sine_Mora.jpg",
         "disabled": "false"
     },
     {
@@ -1348,7 +1348,7 @@
         "appID": 606730,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sine_Mora_EX_jpg",
+        "logoURL": "./games/covers/Sine_Mora_EX.jpg",
         "disabled": "false"
     },
     {
@@ -1356,7 +1356,7 @@
         "appID": 220240,
         "playTime": 42,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Far_Cry_3_jpg",
+        "logoURL": "./games/covers/Far_Cry_3.jpg",
         "disabled": "false"
     },
     {
@@ -1364,7 +1364,7 @@
         "appID": 203680,
         "playTime": 93,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_F1_Race_Stars_jpg",
+        "logoURL": "./games/covers/F1_Race_Stars.jpg",
         "disabled": "false"
     },
     {
@@ -1372,7 +1372,7 @@
         "appID": 213610,
         "playTime": 11,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sonic_Adventure_2_jpg",
+        "logoURL": "./games/covers/Sonic_Adventure_2.jpg",
         "disabled": "false"
     },
     {
@@ -1380,7 +1380,7 @@
         "appID": 203140,
         "playTime": 42,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Hitman_Absolution_jpg",
+        "logoURL": "./games/covers/Hitman_Absolution.jpg",
         "disabled": "false"
     },
     {
@@ -1388,7 +1388,7 @@
         "appID": 205930,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Hitman_Sniper_Challenge_jpg",
+        "logoURL": "./games/covers/Hitman_Sniper_Challenge.jpg",
         "disabled": "false"
     },
     {
@@ -1396,7 +1396,7 @@
         "appID": 4560,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Company_of_Heroes_Legacy_Edition_jpg",
+        "logoURL": "./games/covers/Company_of_Heroes_Legacy_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1404,7 +1404,7 @@
         "appID": 9340,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Company_of_Heroes_Opposing_Fronts_jpg",
+        "logoURL": "./games/covers/Company_of_Heroes_Opposing_Fronts.jpg",
         "disabled": "false"
     },
     {
@@ -1412,7 +1412,7 @@
         "appID": 20540,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Company_of_Heroes_Tales_of_Valor_jpg",
+        "logoURL": "./games/covers/Company_of_Heroes_Tales_of_Valor.jpg",
         "disabled": "false"
     },
     {
@@ -1420,7 +1420,7 @@
         "appID": 50620,
         "playTime": 29,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Darksiders_jpg",
+        "logoURL": "./games/covers/Darksiders.jpg",
         "disabled": "false"
     },
     {
@@ -1428,7 +1428,7 @@
         "appID": 55110,
         "playTime": 24,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Red_Faction_Armageddon_jpg",
+        "logoURL": "./games/covers/Red_Faction_Armageddon.jpg",
         "disabled": "false"
     },
     {
@@ -1436,7 +1436,7 @@
         "appID": 228200,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Company_of_Heroes_jpg",
+        "logoURL": "./games/covers/Company_of_Heroes.jpg",
         "disabled": "false"
     },
     {
@@ -1444,7 +1444,7 @@
         "appID": 462780,
         "playTime": 84,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Darksiders_Warmastered_Edition_jpg",
+        "logoURL": "./games/covers/Darksiders_Warmastered_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1452,7 +1452,7 @@
         "appID": 202200,
         "playTime": 50,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Galactic_Civilizations_II_Ultimate_Edition_jpg",
+        "logoURL": "./games/covers/Galactic_Civilizations_II_Ultimate_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1460,7 +1460,7 @@
         "appID": 214150,
         "playTime": 2,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Galactic_Civilizations_I_Ultimate_Edition_jpg",
+        "logoURL": "./games/covers/Galactic_Civilizations_I_Ultimate_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1468,7 +1468,7 @@
         "appID": 224300,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Legacy_of_Kain_Defiance_jpg",
+        "logoURL": "./games/covers/Legacy_of_Kain_Defiance.jpg",
         "disabled": "false"
     },
     {
@@ -1476,7 +1476,7 @@
         "appID": 224920,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Legacy_of_Kain_Soul_Reaver_jpg",
+        "logoURL": "./games/covers/Legacy_of_Kain_Soul_Reaver.jpg",
         "disabled": "false"
     },
     {
@@ -1484,7 +1484,7 @@
         "appID": 224940,
         "playTime": 22,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Legacy_of_Kain_Soul_Reaver_2_jpg",
+        "logoURL": "./games/covers/Legacy_of_Kain_Soul_Reaver_2.jpg",
         "disabled": "false"
     },
     {
@@ -1492,7 +1492,7 @@
         "appID": 8790,
         "playTime": 7,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_GTR_2_FIA_GT_Racing_Game_jpg",
+        "logoURL": "./games/covers/GTR_2_FIA_GT_Racing_Game.jpg",
         "disabled": "false"
     },
     {
@@ -1500,7 +1500,7 @@
         "appID": 12110,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grand_Theft_Auto_Vice_City_jpg",
+        "logoURL": "./games/covers/Grand_Theft_Auto_Vice_City.jpg",
         "disabled": "false"
     },
     {
@@ -1508,7 +1508,7 @@
         "appID": 12240,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grand_Theft_Auto_Vice_City_jpg",
+        "logoURL": "./games/covers/Grand_Theft_Auto_Vice_City.jpg",
         "disabled": "false"
     },
     {
@@ -1516,7 +1516,7 @@
         "appID": 4570,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Warhammer_40_000_Dawn_of_War_Game_of_the_Year_Edition_jpg",
+        "logoURL": "./games/covers/Warhammer_40_000_Dawn_of_War_Game_of_the_Year_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1524,7 +1524,7 @@
         "appID": 71230,
         "playTime": 18,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Crazy_Taxi_jpg",
+        "logoURL": "./games/covers/Crazy_Taxi.jpg",
         "disabled": "false"
     },
     {
@@ -1532,7 +1532,7 @@
         "appID": 71240,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_SEGA_Bass_Fishing_jpg",
+        "logoURL": "./games/covers/SEGA_Bass_Fishing.jpg",
         "disabled": "false"
     },
     {
@@ -1540,7 +1540,7 @@
         "appID": 71250,
         "playTime": 42,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sonic_Adventure_DX_jpg",
+        "logoURL": "./games/covers/Sonic_Adventure_DX.jpg",
         "disabled": "false"
     },
     {
@@ -1548,7 +1548,7 @@
         "appID": 71260,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Space_Channel_5_Part_2_jpg",
+        "logoURL": "./games/covers/Space_Channel_5_Part_2.jpg",
         "disabled": "false"
     },
     {
@@ -1556,7 +1556,7 @@
         "appID": 205950,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Jet_Set_Radio_jpg",
+        "logoURL": "./games/covers/Jet_Set_Radio.jpg",
         "disabled": "false"
     },
     {
@@ -1564,7 +1564,7 @@
         "appID": 220440,
         "playTime": 73,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DmC_Devil_May_Cry_jpg",
+        "logoURL": "./games/covers/DmC_Devil_May_Cry.jpg",
         "disabled": "false"
     },
     {
@@ -1572,7 +1572,7 @@
         "appID": 227200,
         "playTime": 27,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Waking_Mars_jpg",
+        "logoURL": "./games/covers/Waking_Mars.jpg",
         "disabled": "false"
     },
     {
@@ -1580,7 +1580,7 @@
         "appID": 221810,
         "playTime": 5,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Cave_jpg",
+        "logoURL": "./games/covers/The_Cave.jpg",
         "disabled": "false"
     },
     {
@@ -1588,7 +1588,7 @@
         "appID": 227300,
         "playTime": 299,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Euro_Truck_Simulator_2_jpg",
+        "logoURL": "./games/covers/Euro_Truck_Simulator_2.jpg",
         "disabled": "false"
     },
     {
@@ -1596,7 +1596,7 @@
         "appID": 223850,
         "playTime": 108,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_3DMark_jpg",
+        "logoURL": "./games/covers/3DMark.jpg",
         "disabled": "false"
     },
     {
@@ -1604,7 +1604,7 @@
         "appID": 99900,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Spiral_Knights_jpg",
+        "logoURL": "./games/covers/Spiral_Knights.jpg",
         "disabled": "false"
     },
     {
@@ -1612,7 +1612,7 @@
         "appID": 211500,
         "playTime": 11711,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_RaceRoom_Racing_Experience_jpg",
+        "logoURL": "./games/covers/RaceRoom_Racing_Experience.jpg",
         "disabled": "false"
     },
     {
@@ -1620,7 +1620,7 @@
         "appID": 230410,
         "playTime": 70,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Warframe_jpg",
+        "logoURL": "./games/covers/Warframe.jpg",
         "disabled": "false"
     },
     {
@@ -1628,7 +1628,7 @@
         "appID": 236390,
         "playTime": 466,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_War_Thunder_jpg",
+        "logoURL": "./games/covers/War_Thunder.jpg",
         "disabled": "false"
     },
     {
@@ -1636,7 +1636,7 @@
         "appID": 223750,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DCS_World_Steam_Edition_jpg",
+        "logoURL": "./games/covers/DCS_World_Steam_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1644,7 +1644,7 @@
         "appID": 245550,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Free_to_Play_jpg",
+        "logoURL": "./games/covers/Free_to_Play.jpg",
         "disabled": "false"
     },
     {
@@ -1660,7 +1660,7 @@
         "appID": 34870,
         "playTime": 33,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sniper_Ghost_Warrior_2_jpg",
+        "logoURL": "./games/covers/Sniper_Ghost_Warrior_2.jpg",
         "disabled": "false"
     },
     {
@@ -1668,7 +1668,7 @@
         "appID": 225260,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Br_tal_Legend_jpg",
+        "logoURL": "./games/covers/Br_tal_Legend.jpg",
         "disabled": "false"
     },
     {
@@ -1676,7 +1676,7 @@
         "appID": 203250,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Star_Trek_jpg",
+        "logoURL": "./games/covers/Star_Trek.jpg",
         "disabled": "false"
     },
     {
@@ -1684,7 +1684,7 @@
         "appID": 227260,
         "playTime": 11,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DisplayFusion_jpg",
+        "logoURL": "./games/covers/DisplayFusion.jpg",
         "disabled": "false"
     },
     {
@@ -1692,7 +1692,7 @@
         "appID": 204080,
         "playTime": 8,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Showdown_Effect_jpg",
+        "logoURL": "./games/covers/The_Showdown_Effect.jpg",
         "disabled": "false"
     },
     {
@@ -1700,7 +1700,7 @@
         "appID": 21690,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Resident_Evil_5_Biohazard_5_jpg",
+        "logoURL": "./games/covers/Resident_Evil_5_Biohazard_5.jpg",
         "disabled": "false"
     },
     {
@@ -1708,7 +1708,7 @@
         "appID": 232010,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Euro_Truck_Simulator_jpg",
+        "logoURL": "./games/covers/Euro_Truck_Simulator.jpg",
         "disabled": "false"
     },
     {
@@ -1716,7 +1716,7 @@
         "appID": 8870,
         "playTime": 35,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_BioShock_Infinite_jpg",
+        "logoURL": "./games/covers/BioShock_Infinite.jpg",
         "disabled": "false"
     },
     {
@@ -1724,7 +1724,7 @@
         "appID": 233720,
         "playTime": 18,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Surgeon_Simulator_jpg",
+        "logoURL": "./games/covers/Surgeon_Simulator.jpg",
         "disabled": "false"
     },
     {
@@ -1732,7 +1732,7 @@
         "appID": 210770,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sanctum_2_jpg",
+        "logoURL": "./games/covers/Sanctum_2.jpg",
         "disabled": "false"
     },
     {
@@ -1740,7 +1740,7 @@
         "appID": 222480,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Resident_Evil_Revelations_Biohazard_Revelations_jpg",
+        "logoURL": "./games/covers/Resident_Evil_Revelations_Biohazard_Revelations.jpg",
         "disabled": "false"
     },
     {
@@ -1748,7 +1748,7 @@
         "appID": 224760,
         "playTime": 26,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_FEZ_jpg",
+        "logoURL": "./games/covers/FEZ.jpg",
         "disabled": "false"
     },
     {
@@ -1756,7 +1756,7 @@
         "appID": 234290,
         "playTime": 53,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Zack_Zero_jpg",
+        "logoURL": "./games/covers/Zack_Zero.jpg",
         "disabled": "false"
     },
     {
@@ -1764,7 +1764,7 @@
         "appID": 234650,
         "playTime": 4,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Shadowrun_Returns_jpg",
+        "logoURL": "./games/covers/Shadowrun_Returns.jpg",
         "disabled": "false"
     },
     {
@@ -1772,7 +1772,7 @@
         "appID": 204450,
         "playTime": 46,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Call_of_Juarez_Gunslinger_jpg",
+        "logoURL": "./games/covers/Call_of_Juarez_Gunslinger.jpg",
         "disabled": "false"
     },
     {
@@ -1780,7 +1780,7 @@
         "appID": 209520,
         "playTime": 82,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mini_Motor_Racing_EVO_jpg",
+        "logoURL": "./games/covers/Mini_Motor_Racing_EVO.jpg",
         "disabled": "false"
     },
     {
@@ -1788,7 +1788,7 @@
         "appID": 65930,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Bureau_XCOM_Declassified_jpg",
+        "logoURL": "./games/covers/The_Bureau_XCOM_Declassified.jpg",
         "disabled": "false"
     },
     {
@@ -1796,7 +1796,7 @@
         "appID": 228300,
         "playTime": 223,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Remember_Me_jpg",
+        "logoURL": "./games/covers/Remember_Me.jpg",
         "disabled": "false"
     },
     {
@@ -1804,7 +1804,7 @@
         "appID": 35450,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Rising_Storm_Red_Orchestra_2_Multiplayer_jpg",
+        "logoURL": "./games/covers/Rising_Storm_Red_Orchestra_2_Multiplayer.jpg",
         "disabled": "false"
     },
     {
@@ -1812,7 +1812,7 @@
         "appID": 231160,
         "playTime": 4,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Swapper_jpg",
+        "logoURL": "./games/covers/The_Swapper.jpg",
         "disabled": "false"
     },
     {
@@ -1820,7 +1820,7 @@
         "appID": 35720,
         "playTime": 66,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Trine_2_jpg",
+        "logoURL": "./games/covers/Trine_2.jpg",
         "disabled": "false"
     },
     {
@@ -1828,7 +1828,7 @@
         "appID": 242920,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Banished_jpg",
+        "logoURL": "./games/covers/Banished.jpg",
         "disabled": "false"
     },
     {
@@ -1836,7 +1836,7 @@
         "appID": 39140,
         "playTime": 63,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_FINAL_FANTASY_VII_jpg",
+        "logoURL": "./games/covers/FINAL_FANTASY_VII.jpg",
         "disabled": "false"
     },
     {
@@ -1844,7 +1844,7 @@
         "appID": 237110,
         "playTime": 83,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Komplete_Edition_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Komplete_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1852,7 +1852,7 @@
         "appID": 237550,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Realms_of_Arkania_Blade_of_Destiny_jpg",
+        "logoURL": "./games/covers/Realms_of_Arkania_Blade_of_Destiny.jpg",
         "disabled": "false"
     },
     {
@@ -1860,7 +1860,7 @@
         "appID": 38700,
         "playTime": 3,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Toki_Tori_jpg",
+        "logoURL": "./games/covers/Toki_Tori.jpg",
         "disabled": "false"
     },
     {
@@ -1868,7 +1868,7 @@
         "appID": 38720,
         "playTime": 3,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_RUSH_jpg",
+        "logoURL": "./games/covers/RUSH.jpg",
         "disabled": "false"
     },
     {
@@ -1876,7 +1876,7 @@
         "appID": 38740,
         "playTime": 7,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_EDGE_jpg",
+        "logoURL": "./games/covers/EDGE.jpg",
         "disabled": "false"
     },
     {
@@ -1884,7 +1884,7 @@
         "appID": 201420,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Toki_Tori_2_jpg",
+        "logoURL": "./games/covers/Toki_Tori_2.jpg",
         "disabled": "false"
     },
     {
@@ -1900,7 +1900,7 @@
         "appID": 239250,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Castlevania_Lords_of_Shadow_2_jpg",
+        "logoURL": "./games/covers/Castlevania_Lords_of_Shadow_2.jpg",
         "disabled": "false"
     },
     {
@@ -1908,7 +1908,7 @@
         "appID": 6880,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Just_Cause_jpg",
+        "logoURL": "./games/covers/Just_Cause.jpg",
         "disabled": "false"
     },
     {
@@ -1916,7 +1916,7 @@
         "appID": 8190,
         "playTime": 538,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Just_Cause_2_jpg",
+        "logoURL": "./games/covers/Just_Cause_2.jpg",
         "disabled": "false"
     },
     {
@@ -1924,7 +1924,7 @@
         "appID": 246700,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Strike_Vector_jpg",
+        "logoURL": "./games/covers/Strike_Vector.jpg",
         "disabled": "false"
     },
     {
@@ -1932,7 +1932,7 @@
         "appID": 247020,
         "playTime": 36,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Cook_Serve_Delicious_jpg",
+        "logoURL": "./games/covers/Cook_Serve_Delicious.jpg",
         "disabled": "false"
     },
     {
@@ -1940,7 +1940,7 @@
         "appID": 225080,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Brothers_A_Tale_of_Two_Sons_jpg",
+        "logoURL": "./games/covers/Brothers_A_Tale_of_Two_Sons.jpg",
         "disabled": "false"
     },
     {
@@ -1948,7 +1948,7 @@
         "appID": 234080,
         "playTime": 23,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Castlevania_Lords_of_Shadow_Ultimate_Edition_jpg",
+        "logoURL": "./games/covers/Castlevania_Lords_of_Shadow_Ultimate_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -1956,7 +1956,7 @@
         "appID": 239030,
         "playTime": 6,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Papers_Please_jpg",
+        "logoURL": "./games/covers/Papers_Please.jpg",
         "disabled": "false"
     },
     {
@@ -1964,7 +1964,7 @@
         "appID": 221680,
         "playTime": 263,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Rocksmith_2014_Edition_Remastered_jpg",
+        "logoURL": "./games/covers/Rocksmith_2014_Edition_Remastered.jpg",
         "disabled": "false"
     },
     {
@@ -1972,7 +1972,7 @@
         "appID": 47790,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Medal_of_Honor_TM_Single_Player_jpg",
+        "logoURL": "./games/covers/Medal_of_Honor_TM_Single_Player.jpg",
         "disabled": "false"
     },
     {
@@ -1980,7 +1980,7 @@
         "appID": 47830,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Medal_of_Honor_TM_Multiplayer_jpg",
+        "logoURL": "./games/covers/Medal_of_Honor_TM_Multiplayer.jpg",
         "disabled": "false"
     },
     {
@@ -1988,7 +1988,7 @@
         "appID": 235600,
         "playTime": 23,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Tom_Clancy_s_Splinter_Cell_Blacklist_jpg",
+        "logoURL": "./games/covers/Tom_Clancy_s_Splinter_Cell_Blacklist.jpg",
         "disabled": "false"
     },
     {
@@ -1996,7 +1996,7 @@
         "appID": 209000,
         "playTime": 57,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Batman_Arkham_Origins_jpg",
+        "logoURL": "./games/covers/Batman_Arkham_Origins.jpg",
         "disabled": "false"
     },
     {
@@ -2004,7 +2004,7 @@
         "appID": 239820,
         "playTime": 526,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Game_Dev_Tycoon_jpg",
+        "logoURL": "./games/covers/Game_Dev_Tycoon.jpg",
         "disabled": "false"
     },
     {
@@ -2012,7 +2012,7 @@
         "appID": 245280,
         "playTime": 20,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_ENSLAVED_Odyssey_to_the_West_Premium_Edition_jpg",
+        "logoURL": "./games/covers/ENSLAVED_Odyssey_to_the_West_Premium_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -2020,7 +2020,7 @@
         "appID": 226720,
         "playTime": 48,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Lost_Planet_3_jpg",
+        "logoURL": "./games/covers/Lost_Planet_3.jpg",
         "disabled": "false"
     },
     {
@@ -2028,7 +2028,7 @@
         "appID": 250180,
         "playTime": 7,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_METAL_SLUG_3_jpg",
+        "logoURL": "./games/covers/METAL_SLUG_3.jpg",
         "disabled": "false"
     },
     {
@@ -2036,7 +2036,7 @@
         "appID": 223670,
         "playTime": 560,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_F1_2013_jpg",
+        "logoURL": "./games/covers/F1_2013.jpg",
         "disabled": "false"
     },
     {
@@ -2044,7 +2044,7 @@
         "appID": 111900,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Guardians_of_Middle_earth_jpg",
+        "logoURL": "./games/covers/Guardians_of_Middle_earth.jpg",
         "disabled": "false"
     },
     {
@@ -2052,7 +2052,7 @@
         "appID": 251130,
         "playTime": 16,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Chroma_Squad_jpg",
+        "logoURL": "./games/covers/Chroma_Squad.jpg",
         "disabled": "false"
     },
     {
@@ -2060,7 +2060,7 @@
         "appID": 252310,
         "playTime": 7,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Syder_Arcade_jpg",
+        "logoURL": "./games/covers/Syder_Arcade.jpg",
         "disabled": "false"
     },
     {
@@ -2068,7 +2068,7 @@
         "appID": 252350,
         "playTime": 211,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Double_Dragon_Neon_jpg",
+        "logoURL": "./games/covers/Double_Dragon_Neon.jpg",
         "disabled": "false"
     },
     {
@@ -2076,7 +2076,7 @@
         "appID": 253770,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Bus_Simulator_2012_jpg",
+        "logoURL": "./games/covers/Bus_Simulator_2012.jpg",
         "disabled": "false"
     },
     {
@@ -2084,7 +2084,7 @@
         "appID": 243800,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Gas_Guzzlers_Extreme_jpg",
+        "logoURL": "./games/covers/Gas_Guzzlers_Extreme.jpg",
         "disabled": "false"
     },
     {
@@ -2092,7 +2092,7 @@
         "appID": 245450,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Wizardry_8_jpg",
+        "logoURL": "./games/covers/Wizardry_8.jpg",
         "disabled": "false"
     },
     {
@@ -2100,7 +2100,7 @@
         "appID": 255220,
         "playTime": 23,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_GRID_Autosport_jpg",
+        "logoURL": "./games/covers/GRID_Autosport.jpg",
         "disabled": "false"
     },
     {
@@ -2108,7 +2108,7 @@
         "appID": 247430,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Hitman_Contracts_jpg",
+        "logoURL": "./games/covers/Hitman_Contracts.jpg",
         "disabled": "false"
     },
     {
@@ -2116,7 +2116,7 @@
         "appID": 8850,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_BioShock_2_jpg",
+        "logoURL": "./games/covers/BioShock_2.jpg",
         "disabled": "false"
     },
     {
@@ -2124,7 +2124,7 @@
         "appID": 409720,
         "playTime": 49,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_BioShock_2_Remastered_jpg",
+        "logoURL": "./games/covers/BioShock_2_Remastered.jpg",
         "disabled": "false"
     },
     {
@@ -2132,7 +2132,7 @@
         "appID": 251170,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Damned_jpg",
+        "logoURL": "./games/covers/Damned.jpg",
         "disabled": "false"
     },
     {
@@ -2140,7 +2140,7 @@
         "appID": 256330,
         "playTime": 22,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_WRC_4_FIA_WORLD_RALLY_CHAMPIONSHIP_jpg",
+        "logoURL": "./games/covers/WRC_4_FIA_WORLD_RALLY_CHAMPIONSHIP.jpg",
         "disabled": "false"
     },
     {
@@ -2148,7 +2148,7 @@
         "appID": 233130,
         "playTime": 14,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Shadow_Warrior_jpg",
+        "logoURL": "./games/covers/Shadow_Warrior.jpg",
         "disabled": "false"
     },
     {
@@ -2156,7 +2156,7 @@
         "appID": 255520,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Viscera_Cleanup_Detail_Shadow_Warrior_jpg",
+        "logoURL": "./games/covers/Viscera_Cleanup_Detail_Shadow_Warrior.jpg",
         "disabled": "false"
     },
     {
@@ -2164,7 +2164,7 @@
         "appID": 257790,
         "playTime": 24,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Riptide_GP2_jpg",
+        "logoURL": "./games/covers/Riptide_GP2.jpg",
         "disabled": "false"
     },
     {
@@ -2172,7 +2172,7 @@
         "appID": 258890,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Type_Rider_jpg",
+        "logoURL": "./games/covers/Type_Rider.jpg",
         "disabled": "false"
     },
     {
@@ -2180,7 +2180,7 @@
         "appID": 212480,
         "playTime": 72,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sonic_All_Stars_Racing_Transformed_Collection_jpg",
+        "logoURL": "./games/covers/Sonic_All_Stars_Racing_Transformed_Collection.jpg",
         "disabled": "false"
     },
     {
@@ -2196,7 +2196,7 @@
         "appID": 221910,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Stanley_Parable_jpg",
+        "logoURL": "./games/covers/The_Stanley_Parable.jpg",
         "disabled": "false"
     },
     {
@@ -2204,7 +2204,7 @@
         "appID": 261110,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Killer_is_Dead_jpg",
+        "logoURL": "./games/covers/Killer_is_Dead.jpg",
         "disabled": "false"
     },
     {
@@ -2212,7 +2212,7 @@
         "appID": 261180,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Lethal_League_jpg",
+        "logoURL": "./games/covers/Lethal_League.jpg",
         "disabled": "false"
     },
     {
@@ -2220,7 +2220,7 @@
         "appID": 249130,
         "playTime": 1,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_LEGO_MARVEL_Super_Heroes_jpg",
+        "logoURL": "./games/covers/LEGO_MARVEL_Super_Heroes.jpg",
         "disabled": "false"
     },
     {
@@ -2228,7 +2228,7 @@
         "appID": 261920,
         "playTime": 53,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Catzilla_jpg",
+        "logoURL": "./games/covers/Catzilla.jpg",
         "disabled": "false"
     },
     {
@@ -2236,7 +2236,7 @@
         "appID": 262260,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Jets_n_Guns_Gold_jpg",
+        "logoURL": "./games/covers/Jets_n_Guns_Gold.jpg",
         "disabled": "false"
     },
     {
@@ -2244,7 +2244,7 @@
         "appID": 262690,
         "playTime": 60,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Little_Racers_STREET_jpg",
+        "logoURL": "./games/covers/Little_Racers_STREET.jpg",
         "disabled": "false"
     },
     {
@@ -2252,7 +2252,7 @@
         "appID": 264540,
         "playTime": 12,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Platformines_jpg",
+        "logoURL": "./games/covers/Platformines.jpg",
         "disabled": "false"
     },
     {
@@ -2260,7 +2260,7 @@
         "appID": 242700,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Injustice_Gods_Among_Us_Ultimate_Edition_jpg",
+        "logoURL": "./games/covers/Injustice_Gods_Among_Us_Ultimate_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -2268,7 +2268,7 @@
         "appID": 265300,
         "playTime": 119,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Lords_Of_The_Fallen_jpg",
+        "logoURL": "./games/covers/Lords_Of_The_Fallen.jpg",
         "disabled": "false"
     },
     {
@@ -2276,7 +2276,7 @@
         "appID": 266330,
         "playTime": 52,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Ethan_Meteor_Hunter_jpg",
+        "logoURL": "./games/covers/Ethan_Meteor_Hunter.jpg",
         "disabled": "false"
     },
     {
@@ -2284,7 +2284,7 @@
         "appID": 39150,
         "playTime": 21,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_FINAL_FANTASY_VIII_jpg",
+        "logoURL": "./games/covers/FINAL_FANTASY_VIII.jpg",
         "disabled": "false"
     },
     {
@@ -2292,7 +2292,7 @@
         "appID": 267340,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Beware_Planet_Earth_jpg",
+        "logoURL": "./games/covers/Beware_Planet_Earth.jpg",
         "disabled": "false"
     },
     {
@@ -2300,7 +2300,7 @@
         "appID": 267530,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_LEGO_Movie_Videogame_jpg",
+        "logoURL": "./games/covers/The_LEGO_Movie_Videogame.jpg",
         "disabled": "false"
     },
     {
@@ -2308,7 +2308,7 @@
         "appID": 268870,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Satellite_Reign_jpg",
+        "logoURL": "./games/covers/Satellite_Reign.jpg",
         "disabled": "false"
     },
     {
@@ -2316,7 +2316,7 @@
         "appID": 268910,
         "playTime": 309,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Cuphead_jpg",
+        "logoURL": "./games/covers/Cuphead.jpg",
         "disabled": "false"
     },
     {
@@ -2324,7 +2324,7 @@
         "appID": 270770,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Etherlords_jpg",
+        "logoURL": "./games/covers/Etherlords.jpg",
         "disabled": "false"
     },
     {
@@ -2332,7 +2332,7 @@
         "appID": 270790,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Etherlords_II_jpg",
+        "logoURL": "./games/covers/Etherlords_II.jpg",
         "disabled": "false"
     },
     {
@@ -2340,7 +2340,7 @@
         "appID": 270880,
         "playTime": 15,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_American_Truck_Simulator_jpg",
+        "logoURL": "./games/covers/American_Truck_Simulator.jpg",
         "disabled": "false"
     },
     {
@@ -2348,7 +2348,7 @@
         "appID": 239200,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Amnesia_A_Machine_for_Pigs_jpg",
+        "logoURL": "./games/covers/Amnesia_A_Machine_for_Pigs.jpg",
         "disabled": "false"
     },
     {
@@ -2356,7 +2356,7 @@
         "appID": 273840,
         "playTime": 357,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Stock_Car_Extreme_jpg",
+        "logoURL": "./games/covers/Stock_Car_Extreme.jpg",
         "disabled": "false"
     },
     {
@@ -2364,7 +2364,7 @@
         "appID": 431600,
         "playTime": 1451,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Automobilista_jpg",
+        "logoURL": "./games/covers/Automobilista.jpg",
         "disabled": "false"
     },
     {
@@ -2372,7 +2372,7 @@
         "appID": 208670,
         "playTime": 25,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Blades_of_Time_jpg",
+        "logoURL": "./games/covers/Blades_of_Time.jpg",
         "disabled": "false"
     },
     {
@@ -2380,7 +2380,7 @@
         "appID": 274190,
         "playTime": 17,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Broforce_jpg",
+        "logoURL": "./games/covers/Broforce.jpg",
         "disabled": "false"
     },
     {
@@ -2388,7 +2388,7 @@
         "appID": 274250,
         "playTime": 72,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_OlliOlli_jpg",
+        "logoURL": "./games/covers/OlliOlli.jpg",
         "disabled": "false"
     },
     {
@@ -2396,7 +2396,7 @@
         "appID": 222880,
         "playTime": 33,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Insurgency_jpg",
+        "logoURL": "./games/covers/Insurgency.jpg",
         "disabled": "false"
     },
     {
@@ -2404,7 +2404,7 @@
         "appID": 226840,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Age_of_Wonders_III_jpg",
+        "logoURL": "./games/covers/Age_of_Wonders_III.jpg",
         "disabled": "false"
     },
     {
@@ -2412,7 +2412,7 @@
         "appID": 276890,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_FATE_Undiscovered_Realms_jpg",
+        "logoURL": "./games/covers/FATE_Undiscovered_Realms.jpg",
         "disabled": "false"
     },
     {
@@ -2420,7 +2420,7 @@
         "appID": 277890,
         "playTime": 31,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Shantae_Risky_s_Revenge_Director_s_Cut_jpg",
+        "logoURL": "./games/covers/Shantae_Risky_s_Revenge_Director_s_Cut.jpg",
         "disabled": "false"
     },
     {
@@ -2428,7 +2428,7 @@
         "appID": 278100,
         "playTime": 8,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_RIVE_jpg",
+        "logoURL": "./games/covers/RIVE.jpg",
         "disabled": "false"
     },
     {
@@ -2436,7 +2436,7 @@
         "appID": 235210,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Strider_jpg",
+        "logoURL": "./games/covers/Strider.jpg",
         "disabled": "false"
     },
     {
@@ -2444,7 +2444,7 @@
         "appID": 254700,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_resident_evil_4_biohazard_4_jpg",
+        "logoURL": "./games/covers/resident_evil_4_biohazard_4.jpg",
         "disabled": "false"
     },
     {
@@ -2452,7 +2452,7 @@
         "appID": 252010,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Oniken_jpg",
+        "logoURL": "./games/covers/Oniken.jpg",
         "disabled": "false"
     },
     {
@@ -2460,7 +2460,7 @@
         "appID": 282530,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Castlevania_Lords_of_Shadow_Mirror_of_Fate_HD_jpg",
+        "logoURL": "./games/covers/Castlevania_Lords_of_Shadow_Mirror_of_Fate_HD.jpg",
         "disabled": "false"
     },
     {
@@ -2468,7 +2468,7 @@
         "appID": 284160,
         "playTime": 11,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_BeamNG_drive_jpg",
+        "logoURL": "./games/covers/BeamNG_drive.jpg",
         "disabled": "false"
     },
     {
@@ -2476,7 +2476,7 @@
         "appID": 116100,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Super_Toy_Cars_jpg",
+        "logoURL": "./games/covers/Super_Toy_Cars.jpg",
         "disabled": "false"
     },
     {
@@ -2484,7 +2484,7 @@
         "appID": 284460,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DeadCore_jpg",
+        "logoURL": "./games/covers/DeadCore.jpg",
         "disabled": "false"
     },
     {
@@ -2492,7 +2492,7 @@
         "appID": 285160,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_LEGO_The_Hobbit_jpg",
+        "logoURL": "./games/covers/LEGO_The_Hobbit.jpg",
         "disabled": "false"
     },
     {
@@ -2500,7 +2500,7 @@
         "appID": 286570,
         "playTime": 255,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_F1_2015_jpg",
+        "logoURL": "./games/covers/F1_2015.jpg",
         "disabled": "false"
     },
     {
@@ -2508,7 +2508,7 @@
         "appID": 287260,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Toybox_Turbos_jpg",
+        "logoURL": "./games/covers/Toybox_Turbos.jpg",
         "disabled": "false"
     },
     {
@@ -2516,7 +2516,7 @@
         "appID": 287340,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Colin_McRae_Rally_jpg",
+        "logoURL": "./games/covers/Colin_McRae_Rally.jpg",
         "disabled": "false"
     },
     {
@@ -2524,7 +2524,7 @@
         "appID": 233290,
         "playTime": 76,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_MURDERED_SOUL_SUSPECT_jpg",
+        "logoURL": "./games/covers/MURDERED_SOUL_SUSPECT.jpg",
         "disabled": "false"
     },
     {
@@ -2532,7 +2532,7 @@
         "appID": 228400,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_ACE_COMBAT_ASSAULT_HORIZON_Enhanced_Edition_jpg",
+        "logoURL": "./games/covers/ACE_COMBAT_ASSAULT_HORIZON_Enhanced_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -2540,7 +2540,7 @@
         "appID": 292030,
         "playTime": 5672,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Witcher_3_Wild_Hunt_jpg",
+        "logoURL": "./games/covers/The_Witcher_3_Wild_Hunt.jpg",
         "disabled": "false"
     },
     {
@@ -2548,7 +2548,7 @@
         "appID": 202310,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Ridge_Racer_Unbounded_jpg",
+        "logoURL": "./games/covers/Ridge_Racer_Unbounded.jpg",
         "disabled": "false"
     },
     {
@@ -2556,7 +2556,7 @@
         "appID": 294860,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Valkyria_Chronicles_jpg",
+        "logoURL": "./games/covers/Valkyria_Chronicles.jpg",
         "disabled": "false"
     },
     {
@@ -2564,7 +2564,7 @@
         "appID": 20510,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_S_T_A_L_K_E_R_Clear_Sky_jpg",
+        "logoURL": "./games/covers/S_T_A_L_K_E_R_Clear_Sky.jpg",
         "disabled": "false"
     },
     {
@@ -2572,7 +2572,7 @@
         "appID": 295110,
         "playTime": 11,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Just_Survive_jpg",
+        "logoURL": "./games/covers/Just_Survive.jpg",
         "disabled": "false"
     },
     {
@@ -2580,7 +2580,7 @@
         "appID": 362300,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Just_Survive_Test_Server_jpg",
+        "logoURL": "./games/covers/Just_Survive_Test_Server.jpg",
         "disabled": "false"
     },
     {
@@ -2588,7 +2588,7 @@
         "appID": 433850,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_H1Z1_jpg",
+        "logoURL": "./games/covers/H1Z1.jpg",
         "disabled": "false"
     },
     {
@@ -2596,7 +2596,7 @@
         "appID": 439700,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_H1Z1_Test_Server_jpg",
+        "logoURL": "./games/covers/H1Z1_Test_Server.jpg",
         "disabled": "false"
     },
     {
@@ -2604,7 +2604,7 @@
         "appID": 296030,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Qasir_al_Wasat_International_Edition_jpg",
+        "logoURL": "./games/covers/Qasir_al_Wasat_International_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -2612,7 +2612,7 @@
         "appID": 296870,
         "playTime": 134,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Dreaming_Sarah_jpg",
+        "logoURL": "./games/covers/Dreaming_Sarah.jpg",
         "disabled": "false"
     },
     {
@@ -2620,7 +2620,7 @@
         "appID": 298280,
         "playTime": 9,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_XenoRaptor_jpg",
+        "logoURL": "./games/covers/XenoRaptor.jpg",
         "disabled": "false"
     },
     {
@@ -2628,7 +2628,7 @@
         "appID": 237930,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Transistor_jpg",
+        "logoURL": "./games/covers/Transistor.jpg",
         "disabled": "false"
     },
     {
@@ -2636,7 +2636,7 @@
         "appID": 299480,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Rogue_Stormers_jpg",
+        "logoURL": "./games/covers/Rogue_Stormers.jpg",
         "disabled": "false"
     },
     {
@@ -2644,7 +2644,7 @@
         "appID": 300060,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_ADR1FT_jpg",
+        "logoURL": "./games/covers/ADR1FT.jpg",
         "disabled": "false"
     },
     {
@@ -2652,7 +2652,7 @@
         "appID": 300280,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Adventurezator_When_Pigs_Fly_jpg",
+        "logoURL": "./games/covers/Adventurezator_When_Pigs_Fly.jpg",
         "disabled": "false"
     },
     {
@@ -2660,7 +2660,7 @@
         "appID": 300380,
         "playTime": 18,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Road_Redemption_jpg",
+        "logoURL": "./games/covers/Road_Redemption.jpg",
         "disabled": "false"
     },
     {
@@ -2668,7 +2668,7 @@
         "appID": 65790,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Arma_Cold_War_Assault_jpg",
+        "logoURL": "./games/covers/Arma_Cold_War_Assault.jpg",
         "disabled": "false"
     },
     {
@@ -2676,7 +2676,7 @@
         "appID": 302710,
         "playTime": 29,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_BlazeRush_jpg",
+        "logoURL": "./games/covers/BlazeRush.jpg",
         "disabled": "false"
     },
     {
@@ -2684,7 +2684,7 @@
         "appID": 304430,
         "playTime": 248,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_INSIDE_jpg",
+        "logoURL": "./games/covers/INSIDE.jpg",
         "disabled": "false"
     },
     {
@@ -2692,7 +2692,7 @@
         "appID": 310560,
         "playTime": 403,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DiRT_Rally_jpg",
+        "logoURL": "./games/covers/DiRT_Rally.jpg",
         "disabled": "false"
     },
     {
@@ -2700,7 +2700,7 @@
         "appID": 311820,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_RC_Mini_Racers_jpg",
+        "logoURL": "./games/covers/RC_Mini_Racers.jpg",
         "disabled": "false"
     },
     {
@@ -2708,7 +2708,7 @@
         "appID": 312610,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_METAL_SLUG_X_jpg",
+        "logoURL": "./games/covers/METAL_SLUG_X.jpg",
         "disabled": "false"
     },
     {
@@ -2716,7 +2716,7 @@
         "appID": 312840,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Fahrenheit_Indigo_Prophecy_Remastered_jpg",
+        "logoURL": "./games/covers/Fahrenheit_Indigo_Prophecy_Remastered.jpg",
         "disabled": "false"
     },
     {
@@ -2724,7 +2724,7 @@
         "appID": 312990,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Expendabros_jpg",
+        "logoURL": "./games/covers/The_Expendabros.jpg",
         "disabled": "false"
     },
     {
@@ -2732,7 +2732,7 @@
         "appID": 313160,
         "playTime": 14,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Farming_Simulator_15_jpg",
+        "logoURL": "./games/covers/Farming_Simulator_15.jpg",
         "disabled": "false"
     },
     {
@@ -2740,7 +2740,7 @@
         "appID": 313690,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_LEGO_Batman_3_Beyond_Gotham_jpg",
+        "logoURL": "./games/covers/LEGO_Batman_3_Beyond_Gotham.jpg",
         "disabled": "false"
     },
     {
@@ -2748,7 +2748,7 @@
         "appID": 314160,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Microsoft_Flight_Simulator_X_Steam_Edition_jpg",
+        "logoURL": "./games/covers/Microsoft_Flight_Simulator_X_Steam_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -2756,7 +2756,7 @@
         "appID": 314360,
         "playTime": 20,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Aritana_and_the_Harpy_s_Feather_jpg",
+        "logoURL": "./games/covers/Aritana_and_the_Harpy_s_Feather.jpg",
         "disabled": "false"
     },
     {
@@ -2764,7 +2764,7 @@
         "appID": 206420,
         "playTime": 168,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Saints_Row_IV_jpg",
+        "logoURL": "./games/covers/Saints_Row_IV.jpg",
         "disabled": "false"
     },
     {
@@ -2772,7 +2772,7 @@
         "appID": 316790,
         "playTime": 25,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grim_Fandango_Remastered_jpg",
+        "logoURL": "./games/covers/Grim_Fandango_Remastered.jpg",
         "disabled": "false"
     },
     {
@@ -2780,7 +2780,7 @@
         "appID": 317280,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Solstice_jpg",
+        "logoURL": "./games/covers/Solstice.jpg",
         "disabled": "false"
     },
     {
@@ -2788,7 +2788,7 @@
         "appID": 318600,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Flame_in_the_Flood_jpg",
+        "logoURL": "./games/covers/The_Flame_in_the_Flood.jpg",
         "disabled": "false"
     },
     {
@@ -2796,7 +2796,7 @@
         "appID": 320820,
         "playTime": 86,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Toren_jpg",
+        "logoURL": "./games/covers/Toren.jpg",
         "disabled": "false"
     },
     {
@@ -2804,7 +2804,7 @@
         "appID": 258520,
         "playTime": 127,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Vanishing_of_Ethan_Carter_jpg",
+        "logoURL": "./games/covers/The_Vanishing_of_Ethan_Carter.jpg",
         "disabled": "false"
     },
     {
@@ -2812,7 +2812,7 @@
         "appID": 400430,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Vanishing_of_Ethan_Carter_Redux_jpg",
+        "logoURL": "./games/covers/The_Vanishing_of_Ethan_Carter_Redux.jpg",
         "disabled": "false"
     },
     {
@@ -2820,7 +2820,7 @@
         "appID": 45760,
         "playTime": 45,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Ultra_Street_Fighter_IV_jpg",
+        "logoURL": "./games/covers/Ultra_Street_Fighter_IV.jpg",
         "disabled": "false"
     },
     {
@@ -2828,7 +2828,7 @@
         "appID": 323320,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grow_Home_jpg",
+        "logoURL": "./games/covers/Grow_Home.jpg",
         "disabled": "false"
     },
     {
@@ -2836,7 +2836,7 @@
         "appID": 6550,
         "playTime": 9,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Devil_May_Cry_3_Special_Edition_jpg",
+        "logoURL": "./games/covers/Devil_May_Cry_3_Special_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -2844,7 +2844,7 @@
         "appID": 221040,
         "playTime": 103,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Resident_Evil_6_Biohazard_6_jpg",
+        "logoURL": "./games/covers/Resident_Evil_6_Biohazard_6.jpg",
         "disabled": "false"
     },
     {
@@ -2852,7 +2852,7 @@
         "appID": 323670,
         "playTime": 25,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Super_Indie_Karts_jpg",
+        "logoURL": "./games/covers/Super_Indie_Karts.jpg",
         "disabled": "false"
     },
     {
@@ -2860,7 +2860,7 @@
         "appID": 302510,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Ryse_Son_of_Rome_jpg",
+        "logoURL": "./games/covers/Ryse_Son_of_Rome.jpg",
         "disabled": "false"
     },
     {
@@ -2868,7 +2868,7 @@
         "appID": 214490,
         "playTime": 57,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Alien_Isolation_jpg",
+        "logoURL": "./games/covers/Alien_Isolation.jpg",
         "disabled": "false"
     },
     {
@@ -2876,7 +2876,7 @@
         "appID": 241930,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Middle_earth_Shadow_of_Mordor_jpg",
+        "logoURL": "./games/covers/Middle_earth_Shadow_of_Mordor.jpg",
         "disabled": "false"
     },
     {
@@ -2884,7 +2884,7 @@
         "appID": 239140,
         "playTime": 95,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Dying_Light_jpg",
+        "logoURL": "./games/covers/Dying_Light.jpg",
         "disabled": "false"
     },
     {
@@ -2892,7 +2892,7 @@
         "appID": 238320,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Outlast_jpg",
+        "logoURL": "./games/covers/Outlast.jpg",
         "disabled": "false"
     },
     {
@@ -2900,7 +2900,7 @@
         "appID": 324750,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_StuntMANIA_Reloaded_jpg",
+        "logoURL": "./games/covers/StuntMANIA_Reloaded.jpg",
         "disabled": "false"
     },
     {
@@ -2908,7 +2908,7 @@
         "appID": 325090,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Deep_Dungeons_of_Doom_jpg",
+        "logoURL": "./games/covers/Deep_Dungeons_of_Doom.jpg",
         "disabled": "false"
     },
     {
@@ -2916,7 +2916,7 @@
         "appID": 258970,
         "playTime": 27,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Gauntlet_jpg",
+        "logoURL": "./games/covers/Gauntlet.jpg",
         "disabled": "false"
     },
     {
@@ -2924,7 +2924,7 @@
         "appID": 330070,
         "playTime": 1584,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_VEGAS_Movie_Studio_13_Platinum_Steam_Powered_jpg",
+        "logoURL": "./games/covers/VEGAS_Movie_Studio_13_Platinum_Steam_Powered.jpg",
         "disabled": "false"
     },
     {
@@ -2932,7 +2932,7 @@
         "appID": 211420,
         "playTime": 178,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DARK_SOULS_Prepare_To_Die_Edition_jpg",
+        "logoURL": "./games/covers/DARK_SOULS_Prepare_To_Die_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -2940,7 +2940,7 @@
         "appID": 330390,
         "playTime": 24,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grandia_II_Anniversary_Edition_jpg",
+        "logoURL": "./games/covers/Grandia_II_Anniversary_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -2948,7 +2948,7 @@
         "appID": 115100,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Costume_Quest_jpg",
+        "logoURL": "./games/covers/Costume_Quest.jpg",
         "disabled": "false"
     },
     {
@@ -2956,7 +2956,7 @@
         "appID": 275180,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Costume_Quest_2_jpg",
+        "logoURL": "./games/covers/Costume_Quest_2.jpg",
         "disabled": "false"
     },
     {
@@ -2964,7 +2964,7 @@
         "appID": 331360,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Heavy_Metal_Machines_jpg",
+        "logoURL": "./games/covers/Heavy_Metal_Machines.jpg",
         "disabled": "false"
     },
     {
@@ -2972,7 +2972,7 @@
         "appID": 331440,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_bit_Dungeon_II_jpg",
+        "logoURL": "./games/covers/bit_Dungeon_II.jpg",
         "disabled": "false"
     },
     {
@@ -2980,7 +2980,7 @@
         "appID": 332480,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Phoenix_Force_jpg",
+        "logoURL": "./games/covers/Phoenix_Force.jpg",
         "disabled": "false"
     },
     {
@@ -2988,7 +2988,7 @@
         "appID": 234630,
         "playTime": 3917,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Project_CARS_jpg",
+        "logoURL": "./games/covers/Project_CARS.jpg",
         "disabled": "false"
     },
     {
@@ -2996,7 +2996,7 @@
         "appID": 282070,
         "playTime": 8,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_This_War_of_Mine_jpg",
+        "logoURL": "./games/covers/This_War_of_Mine.jpg",
         "disabled": "false"
     },
     {
@@ -3004,7 +3004,7 @@
         "appID": 335300,
         "playTime": 86,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DARK_SOULS_II_Scholar_of_the_First_Sin_jpg",
+        "logoURL": "./games/covers/DARK_SOULS_II_Scholar_of_the_First_Sin.jpg",
         "disabled": "false"
     },
     {
@@ -3012,7 +3012,7 @@
         "appID": 222420,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_THE_KING_OF_FIGHTERS_98_ULTIMATE_MATCH_FINAL_EDITION_jpg",
+        "logoURL": "./games/covers/THE_KING_OF_FIGHTERS_98_ULTIMATE_MATCH_FINAL_EDITION.jpg",
         "disabled": "false"
     },
     {
@@ -3020,7 +3020,7 @@
         "appID": 257510,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Talos_Principle_jpg",
+        "logoURL": "./games/covers/The_Talos_Principle.jpg",
         "disabled": "false"
     },
     {
@@ -3028,7 +3028,7 @@
         "appID": 339200,
         "playTime": 1736,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Oceanhorn_Monster_of_Uncharted_Seas_jpg",
+        "logoURL": "./games/covers/Oceanhorn_Monster_of_Uncharted_Seas.jpg",
         "disabled": "false"
     },
     {
@@ -3036,7 +3036,7 @@
         "appID": 339230,
         "playTime": 4,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_ZOMBI_jpg",
+        "logoURL": "./games/covers/ZOMBI.jpg",
         "disabled": "false"
     },
     {
@@ -3044,7 +3044,7 @@
         "appID": 208650,
         "playTime": 558,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Batman_Arkham_Knight_jpg",
+        "logoURL": "./games/covers/Batman_Arkham_Knight.jpg",
         "disabled": "false"
     },
     {
@@ -3052,7 +3052,7 @@
         "appID": 267490,
         "playTime": 23,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Batman_Arkham_Origins_Blackgate_Deluxe_Edition_jpg",
+        "logoURL": "./games/covers/Batman_Arkham_Origins_Blackgate_Deluxe_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -3060,7 +3060,7 @@
         "appID": 339790,
         "playTime": 17,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_rFactor_jpg",
+        "logoURL": "./games/covers/rFactor.jpg",
         "disabled": "false"
     },
     {
@@ -3068,7 +3068,7 @@
         "appID": 339800,
         "playTime": 18,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_HuniePop_jpg",
+        "logoURL": "./games/covers/HuniePop.jpg",
         "disabled": "false"
     },
     {
@@ -3076,7 +3076,7 @@
         "appID": 341120,
         "playTime": 3,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Glorkian_Warrior_The_Trials_Of_Glork_jpg",
+        "logoURL": "./games/covers/Glorkian_Warrior_The_Trials_Of_Glork.jpg",
         "disabled": "false"
     },
     {
@@ -3084,7 +3084,7 @@
         "appID": 304240,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Resident_Evil_biohazard_HD_REMASTER_jpg",
+        "logoURL": "./games/covers/Resident_Evil_biohazard_HD_REMASTER.jpg",
         "disabled": "false"
     },
     {
@@ -3092,7 +3092,7 @@
         "appID": 343740,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_InMind_VR_jpg",
+        "logoURL": "./games/covers/InMind_VR.jpg",
         "disabled": "false"
     },
     {
@@ -3100,7 +3100,7 @@
         "appID": 222440,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH_jpg",
+        "logoURL": "./games/covers/THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH.jpg",
         "disabled": "false"
     },
     {
@@ -3108,7 +3108,7 @@
         "appID": 266410,
         "playTime": 79,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_iRacing_jpg",
+        "logoURL": "./games/covers/iRacing.jpg",
         "disabled": "false"
     },
     {
@@ -3116,7 +3116,7 @@
         "appID": 307780,
         "playTime": 947,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_X_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_X.jpg",
         "disabled": "false"
     },
     {
@@ -3124,7 +3124,7 @@
         "appID": 347560,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Terra_Incognita_Chapter_One_The_Descendant_jpg",
+        "logoURL": "./games/covers/Terra_Incognita_Chapter_One_The_Descendant.jpg",
         "disabled": "false"
     },
     {
@@ -3132,7 +3132,7 @@
         "appID": 345660,
         "playTime": 33,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_RIDE_Game_jpg",
+        "logoURL": "./games/covers/RIDE_Game.jpg",
         "disabled": "false"
     },
     {
@@ -3148,7 +3148,7 @@
         "appID": 287290,
         "playTime": 29,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Resident_Evil_Revelations_2_Biohazard_Revelations_2_jpg",
+        "logoURL": "./games/covers/Resident_Evil_Revelations_2_Biohazard_Revelations_2.jpg",
         "disabled": "false"
     },
     {
@@ -3156,7 +3156,7 @@
         "appID": 352900,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Giana_Sisters_Dream_Runners_jpg",
+        "logoURL": "./games/covers/Giana_Sisters_Dream_Runners.jpg",
         "disabled": "false"
     },
     {
@@ -3164,7 +3164,7 @@
         "appID": 244210,
         "playTime": 1617,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Assetto_Corsa_jpg",
+        "logoURL": "./games/covers/Assetto_Corsa.jpg",
         "disabled": "false"
     },
     {
@@ -3172,7 +3172,7 @@
         "appID": 355050,
         "playTime": 1314,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sky_Force_Anniversary_jpg",
+        "logoURL": "./games/covers/Sky_Force_Anniversary.jpg",
         "disabled": "false"
     },
     {
@@ -3180,7 +3180,7 @@
         "appID": 350080,
         "playTime": 105,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Wolfenstein_The_Old_Blood_jpg",
+        "logoURL": "./games/covers/Wolfenstein_The_Old_Blood.jpg",
         "disabled": "false"
     },
     {
@@ -3188,7 +3188,7 @@
         "appID": 347670,
         "playTime": 30,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Karate_Master_2_Knock_Down_Blow_jpg",
+        "logoURL": "./games/covers/Karate_Master_2_Knock_Down_Blow.jpg",
         "disabled": "false"
     },
     {
@@ -3196,7 +3196,7 @@
         "appID": 255710,
         "playTime": 106,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Cities_Skylines_jpg",
+        "logoURL": "./games/covers/Cities_Skylines.jpg",
         "disabled": "false"
     },
     {
@@ -3204,7 +3204,7 @@
         "appID": 356070,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Commander_Cool_2_jpg",
+        "logoURL": "./games/covers/Commander_Cool_2.jpg",
         "disabled": "false"
     },
     {
@@ -3212,7 +3212,7 @@
         "appID": 356280,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Desert_Law_jpg",
+        "logoURL": "./games/covers/Desert_Law.jpg",
         "disabled": "false"
     },
     {
@@ -3220,7 +3220,7 @@
         "appID": 352620,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Porcunipine_jpg",
+        "logoURL": "./games/covers/Porcunipine.jpg",
         "disabled": "false"
     },
     {
@@ -3228,7 +3228,7 @@
         "appID": 357070,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_UBERMOSH_jpg",
+        "logoURL": "./games/covers/UBERMOSH.jpg",
         "disabled": "false"
     },
     {
@@ -3236,7 +3236,7 @@
         "appID": 306130,
         "playTime": 308,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Elder_Scrolls_Online_jpg",
+        "logoURL": "./games/covers/The_Elder_Scrolls_Online.jpg",
         "disabled": "false"
     },
     {
@@ -3244,7 +3244,7 @@
         "appID": 358270,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Death_Rally_Classic_jpg",
+        "logoURL": "./games/covers/Death_Rally_Classic.jpg",
         "disabled": "false"
     },
     {
@@ -3252,7 +3252,7 @@
         "appID": 358380,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Wacky_Wheels_jpg",
+        "logoURL": "./games/covers/Wacky_Wheels.jpg",
         "disabled": "false"
     },
     {
@@ -3260,7 +3260,7 @@
         "appID": 359580,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Uncanny_Valley_jpg",
+        "logoURL": "./games/covers/Uncanny_Valley.jpg",
         "disabled": "false"
     },
     {
@@ -3268,7 +3268,7 @@
         "appID": 236450,
         "playTime": 15,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_PAC_MAN_Championship_Edition_DX_jpg",
+        "logoURL": "./games/covers/PAC_MAN_Championship_Edition_DX.jpg",
         "disabled": "false"
     },
     {
@@ -3276,7 +3276,7 @@
         "appID": 360940,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Mean_Greens_Plastic_Warfare_jpg",
+        "logoURL": "./games/covers/The_Mean_Greens_Plastic_Warfare.jpg",
         "disabled": "false"
     },
     {
@@ -3284,7 +3284,7 @@
         "appID": 361300,
         "playTime": 123,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mother_Russia_Bleeds_jpg",
+        "logoURL": "./games/covers/Mother_Russia_Bleeds.jpg",
         "disabled": "false"
     },
     {
@@ -3292,7 +3292,7 @@
         "appID": 361700,
         "playTime": 1,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy.jpg",
         "disabled": "false"
     },
     {
@@ -3308,7 +3308,7 @@
         "appID": 361720,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_Johnny_Cage_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_Johnny_Cage.jpg",
         "disabled": "false"
     },
     {
@@ -3316,7 +3316,7 @@
         "appID": 361730,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_Kitana_Mileena_Part_1_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_Kitana_Mileena_Part_1.jpg",
         "disabled": "false"
     },
     {
@@ -3324,7 +3324,7 @@
         "appID": 361740,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_Kitana_Mileena_Part_2_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_Kitana_Mileena_Part_2.jpg",
         "disabled": "false"
     },
     {
@@ -3332,7 +3332,7 @@
         "appID": 361750,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_Raiden_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_Raiden.jpg",
         "disabled": "false"
     },
     {
@@ -3340,7 +3340,7 @@
         "appID": 361760,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_Scorpion_and_Sub_Zero_Part_1_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_Scorpion_and_Sub_Zero_Part_1.jpg",
         "disabled": "false"
     },
     {
@@ -3348,7 +3348,7 @@
         "appID": 361770,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_Scorpion_and_Sub_Zero_Part_2_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_Scorpion_and_Sub_Zero_Part_2.jpg",
         "disabled": "false"
     },
     {
@@ -3356,7 +3356,7 @@
         "appID": 361780,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_Cyrax_Sektor_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_Cyrax_Sektor.jpg",
         "disabled": "false"
     },
     {
@@ -3372,7 +3372,7 @@
         "appID": 362180,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_Reunited_in_Macau_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II_Reunited_in_Macau.jpg",
         "disabled": "false"
     },
     {
@@ -3380,7 +3380,7 @@
         "appID": 362190,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_The_Fall_of_Liu_Kang_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II_The_Fall_of_Liu_Kang.jpg",
         "disabled": "false"
     },
     {
@@ -3388,7 +3388,7 @@
         "appID": 362200,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_Kenshi_s_Origin_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II_Kenshi_s_Origin.jpg",
         "disabled": "false"
     },
     {
@@ -3396,7 +3396,7 @@
         "appID": 362210,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_Kenshi_Encounters_Ermac_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II_Kenshi_Encounters_Ermac.jpg",
         "disabled": "false"
     },
     {
@@ -3404,7 +3404,7 @@
         "appID": 362220,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_Kitana_and_Mileena_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II_Kitana_and_Mileena.jpg",
         "disabled": "false"
     },
     {
@@ -3412,7 +3412,7 @@
         "appID": 362230,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_Johnny_Cage_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II_Johnny_Cage.jpg",
         "disabled": "false"
     },
     {
@@ -3420,7 +3420,7 @@
         "appID": 362240,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_Scorpion_and_Sub_Zero_Part_1_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II_Scorpion_and_Sub_Zero_Part_1.jpg",
         "disabled": "false"
     },
     {
@@ -3428,7 +3428,7 @@
         "appID": 362250,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_Scorpion_and_Sub_Zero_Part_2_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II_Scorpion_and_Sub_Zero_Part_2.jpg",
         "disabled": "false"
     },
     {
@@ -3436,7 +3436,7 @@
         "appID": 362260,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_Liu_Kang_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II_Liu_Kang.jpg",
         "disabled": "false"
     },
     {
@@ -3444,7 +3444,7 @@
         "appID": 362270,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_Liu_Kang_and_Kung_Lao_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II_Liu_Kang_and_Kung_Lao.jpg",
         "disabled": "false"
     },
     {
@@ -3452,7 +3452,7 @@
         "appID": 362280,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mortal_Kombat_Legacy_II_jpg",
+        "logoURL": "./games/covers/Mortal_Kombat_Legacy_II.jpg",
         "disabled": "false"
     },
     {
@@ -3468,7 +3468,7 @@
         "appID": 363490,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Escape_Machines_jpg",
+        "logoURL": "./games/covers/Escape_Machines.jpg",
         "disabled": "false"
     },
     {
@@ -3476,7 +3476,7 @@
         "appID": 329460,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_JumpJet_Rex_jpg",
+        "logoURL": "./games/covers/JumpJet_Rex.jpg",
         "disabled": "false"
     },
     {
@@ -3484,7 +3484,7 @@
         "appID": 365450,
         "playTime": 24,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Hacknet_jpg",
+        "logoURL": "./games/covers/Hacknet.jpg",
         "disabled": "false"
     },
     {
@@ -3492,7 +3492,7 @@
         "appID": 365660,
         "playTime": 163,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_OlliOlli2_Welcome_to_Olliwood_jpg",
+        "logoURL": "./games/covers/OlliOlli2_Welcome_to_Olliwood.jpg",
         "disabled": "false"
     },
     {
@@ -3500,7 +3500,7 @@
         "appID": 365960,
         "playTime": 169,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_rFactor_2_jpg",
+        "logoURL": "./games/covers/rFactor_2.jpg",
         "disabled": "false"
     },
     {
@@ -3508,7 +3508,7 @@
         "appID": 366230,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_BASEBALL_STARS_2_jpg",
+        "logoURL": "./games/covers/BASEBALL_STARS_2.jpg",
         "disabled": "false"
     },
     {
@@ -3516,7 +3516,7 @@
         "appID": 366250,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_METAL_SLUG_jpg",
+        "logoURL": "./games/covers/METAL_SLUG.jpg",
         "disabled": "false"
     },
     {
@@ -3524,7 +3524,7 @@
         "appID": 366260,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_METAL_SLUG_2_jpg",
+        "logoURL": "./games/covers/METAL_SLUG_2.jpg",
         "disabled": "false"
     },
     {
@@ -3532,7 +3532,7 @@
         "appID": 366270,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_SHOCK_TROOPERS_jpg",
+        "logoURL": "./games/covers/SHOCK_TROOPERS.jpg",
         "disabled": "false"
     },
     {
@@ -3540,7 +3540,7 @@
         "appID": 366280,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_TWINKLE_STAR_SPRITES_jpg",
+        "logoURL": "./games/covers/TWINKLE_STAR_SPRITES.jpg",
         "disabled": "false"
     },
     {
@@ -3548,7 +3548,7 @@
         "appID": 365670,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Blender_jpg",
+        "logoURL": "./games/covers/Blender.jpg",
         "disabled": "false"
     },
     {
@@ -3556,7 +3556,7 @@
         "appID": 367670,
         "playTime": 1,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Controller_Companion_jpg",
+        "logoURL": "./games/covers/Controller_Companion.jpg",
         "disabled": "false"
     },
     {
@@ -3564,7 +3564,7 @@
         "appID": 368370,
         "playTime": 49,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Her_Story_jpg",
+        "logoURL": "./games/covers/Her_Story.jpg",
         "disabled": "false"
     },
     {
@@ -3572,7 +3572,7 @@
         "appID": 370360,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_TIS_100_jpg",
+        "logoURL": "./games/covers/TIS_100.jpg",
         "disabled": "false"
     },
     {
@@ -3580,7 +3580,7 @@
         "appID": 35700,
         "playTime": 64,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Trine_jpg",
+        "logoURL": "./games/covers/Trine.jpg",
         "disabled": "false"
     },
     {
@@ -3588,7 +3588,7 @@
         "appID": 319910,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Trine_3_The_Artifacts_of_Power_jpg",
+        "logoURL": "./games/covers/Trine_3_The_Artifacts_of_Power.jpg",
         "disabled": "false"
     },
     {
@@ -3596,7 +3596,7 @@
         "appID": 373610,
         "playTime": 8,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Shoot_1UP_jpg",
+        "logoURL": "./games/covers/Shoot_1UP.jpg",
         "disabled": "false"
     },
     {
@@ -3604,7 +3604,7 @@
         "appID": 374570,
         "playTime": 8,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Kung_Fury_jpg",
+        "logoURL": "./games/covers/Kung_Fury.jpg",
         "disabled": "false"
     },
     {
@@ -3612,7 +3612,7 @@
         "appID": 375510,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_New_kind_of_adventure_jpg",
+        "logoURL": "./games/covers/New_kind_of_adventure.jpg",
         "disabled": "false"
     },
     {
@@ -3620,7 +3620,7 @@
         "appID": 377310,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Tower_Of_Elements_jpg",
+        "logoURL": "./games/covers/The_Tower_Of_Elements.jpg",
         "disabled": "false"
     },
     {
@@ -3628,7 +3628,7 @@
         "appID": 3700,
         "playTime": 3,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sniper_Elite_jpg",
+        "logoURL": "./games/covers/Sniper_Elite.jpg",
         "disabled": "false"
     },
     {
@@ -3636,7 +3636,7 @@
         "appID": 63380,
         "playTime": 20,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sniper_Elite_V2_jpg",
+        "logoURL": "./games/covers/Sniper_Elite_V2.jpg",
         "disabled": "false"
     },
     {
@@ -3644,7 +3644,7 @@
         "appID": 238090,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sniper_Elite_3_jpg",
+        "logoURL": "./games/covers/Sniper_Elite_3.jpg",
         "disabled": "false"
     },
     {
@@ -3652,7 +3652,7 @@
         "appID": 378860,
         "playTime": 261,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Project_CARS_2_jpg",
+        "logoURL": "./games/covers/Project_CARS_2.jpg",
         "disabled": "false"
     },
     {
@@ -3660,7 +3660,7 @@
         "appID": 378930,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Pesadelo_Regress_o_jpg",
+        "logoURL": "./games/covers/Pesadelo_Regress_o.jpg",
         "disabled": "false"
     },
     {
@@ -3668,7 +3668,7 @@
         "appID": 381120,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Shoppe_Keep_jpg",
+        "logoURL": "./games/covers/Shoppe_Keep.jpg",
         "disabled": "false"
     },
     {
@@ -3676,7 +3676,7 @@
         "appID": 383230,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Dungeon_Souls_jpg",
+        "logoURL": "./games/covers/Dungeon_Souls.jpg",
         "disabled": "false"
     },
     {
@@ -3684,7 +3684,7 @@
         "appID": 383330,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Star_Chronicles_Delta_Quadrant_jpg",
+        "logoURL": "./games/covers/Star_Chronicles_Delta_Quadrant.jpg",
         "disabled": "false"
     },
     {
@@ -3692,7 +3692,7 @@
         "appID": 383580,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Flesh_Eaters_jpg",
+        "logoURL": "./games/covers/Flesh_Eaters.jpg",
         "disabled": "false"
     },
     {
@@ -3700,7 +3700,7 @@
         "appID": 384190,
         "playTime": 11,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_ABZ_jpg",
+        "logoURL": "./games/covers/ABZ.jpg",
         "disabled": "false"
     },
     {
@@ -3708,7 +3708,7 @@
         "appID": 384550,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Painters_Guild_jpg",
+        "logoURL": "./games/covers/Painters_Guild.jpg",
         "disabled": "false"
     },
     {
@@ -3716,7 +3716,7 @@
         "appID": 385270,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Jet_Racing_Extreme_jpg",
+        "logoURL": "./games/covers/Jet_Racing_Extreme.jpg",
         "disabled": "false"
     },
     {
@@ -3724,7 +3724,7 @@
         "appID": 385560,
         "playTime": 3,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Shadow_Complex_Remastered_jpg",
+        "logoURL": "./games/covers/Shadow_Complex_Remastered.jpg",
         "disabled": "false"
     },
     {
@@ -3732,7 +3732,7 @@
         "appID": 385710,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_INK_jpg",
+        "logoURL": "./games/covers/INK.jpg",
         "disabled": "false"
     },
     {
@@ -3740,7 +3740,7 @@
         "appID": 388080,
         "playTime": 765,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Borderless_Gaming_jpg",
+        "logoURL": "./games/covers/Borderless_Gaming.jpg",
         "disabled": "false"
     },
     {
@@ -3748,7 +3748,7 @@
         "appID": 388160,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Project_Druid_2D_Labyrinth_Explorer_jpg",
+        "logoURL": "./games/covers/Project_Druid_2D_Labyrinth_Explorer.jpg",
         "disabled": "false"
     },
     {
@@ -3756,7 +3756,7 @@
         "appID": 391040,
         "playTime": 500,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_F1_2016_jpg",
+        "logoURL": "./games/covers/F1_2016.jpg",
         "disabled": "false"
     },
     {
@@ -3764,7 +3764,7 @@
         "appID": 391070,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Stellar_2D_jpg",
+        "logoURL": "./games/covers/Stellar_2D.jpg",
         "disabled": "false"
     },
     {
@@ -3772,7 +3772,7 @@
         "appID": 391720,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Layers_of_Fear_jpg",
+        "logoURL": "./games/covers/Layers_of_Fear.jpg",
         "disabled": "false"
     },
     {
@@ -3780,7 +3780,7 @@
         "appID": 253030,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Race_The_Sun_jpg",
+        "logoURL": "./games/covers/Race_The_Sun.jpg",
         "disabled": "false"
     },
     {
@@ -3788,7 +3788,7 @@
         "appID": 204180,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Waveform_jpg",
+        "logoURL": "./games/covers/Waveform.jpg",
         "disabled": "false"
     },
     {
@@ -3796,7 +3796,7 @@
         "appID": 274560,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Revolution_Ace_jpg",
+        "logoURL": "./games/covers/Revolution_Ace.jpg",
         "disabled": "false"
     },
     {
@@ -3804,7 +3804,7 @@
         "appID": 314450,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Saviors_jpg",
+        "logoURL": "./games/covers/Saviors.jpg",
         "disabled": "false"
     },
     {
@@ -3812,7 +3812,7 @@
         "appID": 234140,
         "playTime": 3258,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mad_Max_jpg",
+        "logoURL": "./games/covers/Mad_Max.jpg",
         "disabled": "false"
     },
     {
@@ -3820,7 +3820,7 @@
         "appID": 394310,
         "playTime": 17,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Punch_Club_jpg",
+        "logoURL": "./games/covers/Punch_Club.jpg",
         "disabled": "false"
     },
     {
@@ -3828,7 +3828,7 @@
         "appID": 231430,
         "playTime": 8,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Company_of_Heroes_2_jpg",
+        "logoURL": "./games/covers/Company_of_Heroes_2.jpg",
         "disabled": "false"
     },
     {
@@ -3836,7 +3836,7 @@
         "appID": 225540,
         "playTime": 18,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Just_Cause_3_jpg",
+        "logoURL": "./games/covers/Just_Cause_3.jpg",
         "disabled": "false"
     },
     {
@@ -3844,7 +3844,7 @@
         "appID": 399430,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Tinboy_jpg",
+        "logoURL": "./games/covers/Tinboy.jpg",
         "disabled": "false"
     },
     {
@@ -3852,7 +3852,7 @@
         "appID": 399670,
         "playTime": 25,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Game_Corp_DX_jpg",
+        "logoURL": "./games/covers/Game_Corp_DX.jpg",
         "disabled": "false"
     },
     {
@@ -3860,7 +3860,7 @@
         "appID": 400040,
         "playTime": 1,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_ShareX_jpg",
+        "logoURL": "./games/covers/ShareX.jpg",
         "disabled": "false"
     },
     {
@@ -3868,7 +3868,7 @@
         "appID": 4700,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Total_War_MEDIEVAL_II_Definitive_Edition_jpg",
+        "logoURL": "./games/covers/Total_War_MEDIEVAL_II_Definitive_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -3876,7 +3876,7 @@
         "appID": 211160,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Viking_Battle_for_Asgard_jpg",
+        "logoURL": "./games/covers/Viking_Battle_for_Asgard.jpg",
         "disabled": "false"
     },
     {
@@ -3884,7 +3884,7 @@
         "appID": 345240,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_SHOGUN_Total_War_Gold_Edition_jpg",
+        "logoURL": "./games/covers/SHOGUN_Total_War_Gold_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -3892,7 +3892,7 @@
         "appID": 310950,
         "playTime": 257,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Street_Fighter_V_jpg",
+        "logoURL": "./games/covers/Street_Fighter_V.jpg",
         "disabled": "false"
     },
     {
@@ -3900,7 +3900,7 @@
         "appID": 386800,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Street_Fighter_V_Beta_jpg",
+        "logoURL": "./games/covers/Street_Fighter_V_Beta.jpg",
         "disabled": "false"
     },
     {
@@ -3908,7 +3908,7 @@
         "appID": 403560,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Eaten_Alive_jpg",
+        "logoURL": "./games/covers/Eaten_Alive.jpg",
         "disabled": "false"
     },
     {
@@ -3916,7 +3916,7 @@
         "appID": 403900,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Clergy_Splode_jpg",
+        "logoURL": "./games/covers/Clergy_Splode.jpg",
         "disabled": "false"
     },
     {
@@ -3924,7 +3924,7 @@
         "appID": 405500,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Dangerous_Golf_jpg",
+        "logoURL": "./games/covers/Dangerous_Golf.jpg",
         "disabled": "false"
     },
     {
@@ -3932,7 +3932,7 @@
         "appID": 406310,
         "playTime": 1,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Stop_Online_Battle_of_Words_jpg",
+        "logoURL": "./games/covers/Stop_Online_Battle_of_Words.jpg",
         "disabled": "false"
     },
     {
@@ -3940,7 +3940,7 @@
         "appID": 410210,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Ampersand_jpg",
+        "logoURL": "./games/covers/Ampersand.jpg",
         "disabled": "false"
     },
     {
@@ -3948,7 +3948,7 @@
         "appID": 412600,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Lup_jpg",
+        "logoURL": "./games/covers/Lup.jpg",
         "disabled": "false"
     },
     {
@@ -3956,7 +3956,7 @@
         "appID": 271590,
         "playTime": 346,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Grand_Theft_Auto_V_jpg",
+        "logoURL": "./games/covers/Grand_Theft_Auto_V.jpg",
         "disabled": "false"
     },
     {
@@ -3964,7 +3964,7 @@
         "appID": 415200,
         "playTime": 198,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Motorsport_Manager_jpg",
+        "logoURL": "./games/covers/Motorsport_Manager.jpg",
         "disabled": "false"
     },
     {
@@ -3972,7 +3972,7 @@
         "appID": 418070,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Turbo_Pug_jpg",
+        "logoURL": "./games/covers/Turbo_Pug.jpg",
         "disabled": "false"
     },
     {
@@ -3980,7 +3980,7 @@
         "appID": 420000,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Home_Design_3D_jpg",
+        "logoURL": "./games/covers/Home_Design_3D.jpg",
         "disabled": "false"
     },
     {
@@ -3988,7 +3988,7 @@
         "appID": 425160,
         "playTime": 2,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Recursion_Deluxe_jpg",
+        "logoURL": "./games/covers/Recursion_Deluxe.jpg",
         "disabled": "false"
     },
     {
@@ -3996,7 +3996,7 @@
         "appID": 425300,
         "playTime": 38,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Super_Button_Soccer_jpg",
+        "logoURL": "./games/covers/Super_Button_Soccer.jpg",
         "disabled": "false"
     },
     {
@@ -4004,7 +4004,7 @@
         "appID": 339340,
         "playTime": 41,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Resident_Evil_0_biohazard_0_HD_REMASTER_jpg",
+        "logoURL": "./games/covers/Resident_Evil_0_biohazard_0_HD_REMASTER.jpg",
         "disabled": "false"
     },
     {
@@ -4012,7 +4012,7 @@
         "appID": 427190,
         "playTime": 12,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Dead_Rising_jpg",
+        "logoURL": "./games/covers/Dead_Rising.jpg",
         "disabled": "false"
     },
     {
@@ -4020,7 +4020,7 @@
         "appID": 428750,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Neon_Chrome_jpg",
+        "logoURL": "./games/covers/Neon_Chrome.jpg",
         "disabled": "false"
     },
     {
@@ -4028,7 +4028,7 @@
         "appID": 428950,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Kivi_Toilet_and_Shotgun_jpg",
+        "logoURL": "./games/covers/Kivi_Toilet_and_Shotgun.jpg",
         "disabled": "false"
     },
     {
@@ -4036,7 +4036,7 @@
         "appID": 431960,
         "playTime": 28,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Wallpaper_Engine_jpg",
+        "logoURL": "./games/covers/Wallpaper_Engine.jpg",
         "disabled": "false"
     },
     {
@@ -4044,7 +4044,7 @@
         "appID": 433800,
         "playTime": 2,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_XSplit_jpg",
+        "logoURL": "./games/covers/XSplit.jpg",
         "disabled": "false"
     },
     {
@@ -4052,7 +4052,7 @@
         "appID": 436530,
         "playTime": 22,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Bullshot_jpg",
+        "logoURL": "./games/covers/Bullshot.jpg",
         "disabled": "false"
     },
     {
@@ -4060,7 +4060,7 @@
         "appID": 438180,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Super_Mustache_jpg",
+        "logoURL": "./games/covers/Super_Mustache.jpg",
         "disabled": "false"
     },
     {
@@ -4068,7 +4068,7 @@
         "appID": 310380,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Fractured_Space_jpg",
+        "logoURL": "./games/covers/Fractured_Space.jpg",
         "disabled": "false"
     },
     {
@@ -4076,7 +4076,7 @@
         "appID": 392000,
         "playTime": 11,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_TRON_RUN_r_jpg",
+        "logoURL": "./games/covers/TRON_RUN_r.jpg",
         "disabled": "false"
     },
     {
@@ -4084,7 +4084,7 @@
         "appID": 34270,
         "playTime": 22,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_SEGA_Mega_Drive_Genesis_Classics_jpg",
+        "logoURL": "./games/covers/SEGA_Mega_Drive_Genesis_Classics.jpg",
         "disabled": "false"
     },
     {
@@ -4092,7 +4092,7 @@
         "appID": 205230,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Hell_Yeah_jpg",
+        "logoURL": "./games/covers/Hell_Yeah.jpg",
         "disabled": "false"
     },
     {
@@ -4100,7 +4100,7 @@
         "appID": 365590,
         "playTime": 257,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Tom_Clancy_s_The_Division_jpg",
+        "logoURL": "./games/covers/Tom_Clancy_s_The_Division.jpg",
         "disabled": "false"
     },
     {
@@ -4108,7 +4108,7 @@
         "appID": 524440,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Tom_Clancy_s_The_Division_PTS_jpg",
+        "logoURL": "./games/covers/Tom_Clancy_s_The_Division_PTS.jpg",
         "disabled": "false"
     },
     {
@@ -4116,7 +4116,7 @@
         "appID": 449200,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Calcu_Late_jpg",
+        "logoURL": "./games/covers/Calcu_Late.jpg",
         "disabled": "false"
     },
     {
@@ -4124,7 +4124,7 @@
         "appID": 451880,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Catch_a_Falling_Star_jpg",
+        "logoURL": "./games/covers/Catch_a_Falling_Star.jpg",
         "disabled": "false"
     },
     {
@@ -4132,7 +4132,7 @@
         "appID": 454200,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Neon_Hardcorps_jpg",
+        "logoURL": "./games/covers/Neon_Hardcorps.jpg",
         "disabled": "false"
     },
     {
@@ -4140,7 +4140,7 @@
         "appID": 455400,
         "playTime": 1165,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_PAC_MAN_256_jpg",
+        "logoURL": "./games/covers/PAC_MAN_256.jpg",
         "disabled": "false"
     },
     {
@@ -4148,7 +4148,7 @@
         "appID": 456780,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DUCATI_90th_Anniversary_jpg",
+        "logoURL": "./games/covers/DUCATI_90th_Anniversary.jpg",
         "disabled": "false"
     },
     {
@@ -4156,7 +4156,7 @@
         "appID": 465840,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_THE_LAST_BLADE_jpg",
+        "logoURL": "./games/covers/THE_LAST_BLADE.jpg",
         "disabled": "false"
     },
     {
@@ -4164,7 +4164,7 @@
         "appID": 465870,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_SHOCK_TROOPERS_2nd_Squad_jpg",
+        "logoURL": "./games/covers/SHOCK_TROOPERS_2nd_Squad.jpg",
         "disabled": "false"
     },
     {
@@ -4172,7 +4172,7 @@
         "appID": 370770,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Holodrive_jpg",
+        "logoURL": "./games/covers/Holodrive.jpg",
         "disabled": "false"
     },
     {
@@ -4180,7 +4180,7 @@
         "appID": 200940,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sonic_CD_jpg",
+        "logoURL": "./games/covers/Sonic_CD.jpg",
         "disabled": "false"
     },
     {
@@ -4188,7 +4188,7 @@
         "appID": 466840,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Super_Space_Pug_jpg",
+        "logoURL": "./games/covers/Super_Space_Pug.jpg",
         "disabled": "false"
     },
     {
@@ -4196,7 +4196,7 @@
         "appID": 379720,
         "playTime": 112,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_DOOM_jpg",
+        "logoURL": "./games/covers/DOOM.jpg",
         "disabled": "false"
     },
     {
@@ -4204,7 +4204,7 @@
         "appID": 469730,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Super_Mega_Neo_Pug_jpg",
+        "logoURL": "./games/covers/Super_Mega_Neo_Pug.jpg",
         "disabled": "false"
     },
     {
@@ -4212,7 +4212,7 @@
         "appID": 473560,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Cosmic_Dust_Rust_jpg",
+        "logoURL": "./games/covers/Cosmic_Dust_Rust.jpg",
         "disabled": "false"
     },
     {
@@ -4220,7 +4220,7 @@
         "appID": 382050,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Eon_Altar_jpg",
+        "logoURL": "./games/covers/Eon_Altar.jpg",
         "disabled": "false"
     },
     {
@@ -4228,7 +4228,7 @@
         "appID": 485330,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Star_Drifter_jpg",
+        "logoURL": "./games/covers/Star_Drifter.jpg",
         "disabled": "false"
     },
     {
@@ -4236,7 +4236,7 @@
         "appID": 214850,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_GameMaker_Studio_jpg",
+        "logoURL": "./games/covers/GameMaker_Studio.jpg",
         "disabled": "false"
     },
     {
@@ -4244,7 +4244,7 @@
         "appID": 487220,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Freebie_jpg",
+        "logoURL": "./games/covers/Freebie.jpg",
         "disabled": "false"
     },
     {
@@ -4252,7 +4252,7 @@
         "appID": 314710,
         "playTime": 9,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mighty_No_9_jpg",
+        "logoURL": "./games/covers/Mighty_No_9.jpg",
         "disabled": "false"
     },
     {
@@ -4260,7 +4260,7 @@
         "appID": 491950,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Orwell_jpg",
+        "logoURL": "./games/covers/Orwell.jpg",
         "disabled": "false"
     },
     {
@@ -4268,7 +4268,7 @@
         "appID": 493490,
         "playTime": 128,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_City_Car_Driving_jpg",
+        "logoURL": "./games/covers/City_Car_Driving.jpg",
         "disabled": "false"
     },
     {
@@ -4276,7 +4276,7 @@
         "appID": 493650,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Deep_Space_Dash_jpg",
+        "logoURL": "./games/covers/Deep_Space_Dash.jpg",
         "disabled": "false"
     },
     {
@@ -4284,7 +4284,7 @@
         "appID": 493700,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Monster_Puzzle_jpg",
+        "logoURL": "./games/covers/Monster_Puzzle.jpg",
         "disabled": "false"
     },
     {
@@ -4292,7 +4292,7 @@
         "appID": 493710,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Laraan_jpg",
+        "logoURL": "./games/covers/Laraan.jpg",
         "disabled": "false"
     },
     {
@@ -4300,7 +4300,7 @@
         "appID": 496390,
         "playTime": 15,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Shiny_jpg",
+        "logoURL": "./games/covers/Shiny.jpg",
         "disabled": "false"
     },
     {
@@ -4308,7 +4308,7 @@
         "appID": 497050,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_ShapeShifter_jpg",
+        "logoURL": "./games/covers/ShapeShifter.jpg",
         "disabled": "false"
     },
     {
@@ -4316,7 +4316,7 @@
         "appID": 499420,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Star_Fields_jpg",
+        "logoURL": "./games/covers/Star_Fields.jpg",
         "disabled": "false"
     },
     {
@@ -4324,7 +4324,7 @@
         "appID": 273350,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Evolve_Stage_2_jpg",
+        "logoURL": "./games/covers/Evolve_Stage_2.jpg",
         "disabled": "false"
     },
     {
@@ -4332,7 +4332,7 @@
         "appID": 502140,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Drayt_Empire_jpg",
+        "logoURL": "./games/covers/Drayt_Empire.jpg",
         "disabled": "false"
     },
     {
@@ -4340,7 +4340,7 @@
         "appID": 319630,
         "playTime": 4,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Life_is_Strange_jpg",
+        "logoURL": "./games/covers/Life_is_Strange.jpg",
         "disabled": "false"
     },
     {
@@ -4348,7 +4348,7 @@
         "appID": 508290,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_1_Ride_jpg",
+        "logoURL": "./games/covers/1_Ride.jpg",
         "disabled": "false"
     },
     {
@@ -4356,7 +4356,7 @@
         "appID": 509110,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Spikit_jpg",
+        "logoURL": "./games/covers/Spikit.jpg",
         "disabled": "false"
     },
     {
@@ -4364,7 +4364,7 @@
         "appID": 512640,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Final_Quest_jpg",
+        "logoURL": "./games/covers/Final_Quest.jpg",
         "disabled": "false"
     },
     {
@@ -4372,7 +4372,7 @@
         "appID": 513740,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Joana_s_Life_jpg",
+        "logoURL": "./games/covers/Joana_s_Life.jpg",
         "disabled": "false"
     },
     {
@@ -4380,7 +4380,7 @@
         "appID": 513780,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Turbo_Pug_DX_jpg",
+        "logoURL": "./games/covers/Turbo_Pug_DX.jpg",
         "disabled": "false"
     },
     {
@@ -4388,7 +4388,7 @@
         "appID": 514970,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Drive_Megapolis_jpg",
+        "logoURL": "./games/covers/Drive_Megapolis.jpg",
         "disabled": "false"
     },
     {
@@ -4396,7 +4396,7 @@
         "appID": 515470,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Hyper_color_ball_jpg",
+        "logoURL": "./games/covers/Hyper_color_ball.jpg",
         "disabled": "false"
     },
     {
@@ -4404,7 +4404,7 @@
         "appID": 515690,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Warriors_of_Vilvatikta_jpg",
+        "logoURL": "./games/covers/Warriors_of_Vilvatikta.jpg",
         "disabled": "false"
     },
     {
@@ -4412,7 +4412,7 @@
         "appID": 289070,
         "playTime": 797,
         "playTime2": 24,
-        "logoURL": "./games/covers/_docs_games_covers_Sid_Meier_s_Civilization_VI_jpg",
+        "logoURL": "./games/covers/Sid_Meier_s_Civilization_VI.jpg",
         "disabled": "false"
     },
     {
@@ -4420,7 +4420,7 @@
         "appID": 521230,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Stone_Age_Wars_jpg",
+        "logoURL": "./games/covers/Stone_Age_Wars.jpg",
         "disabled": "false"
     },
     {
@@ -4428,7 +4428,7 @@
         "appID": 528510,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Turbo_Pug_3D_jpg",
+        "logoURL": "./games/covers/Turbo_Pug_3D.jpg",
         "disabled": "false"
     },
     {
@@ -4436,7 +4436,7 @@
         "appID": 540020,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Final_Quest_II_jpg",
+        "logoURL": "./games/covers/Final_Quest_II.jpg",
         "disabled": "false"
     },
     {
@@ -4444,7 +4444,7 @@
         "appID": 545700,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Land_of_Dasthir_jpg",
+        "logoURL": "./games/covers/The_Land_of_Dasthir.jpg",
         "disabled": "false"
     },
     {
@@ -4452,7 +4452,7 @@
         "appID": 546980,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Midnight_Carnival_jpg",
+        "logoURL": "./games/covers/Midnight_Carnival.jpg",
         "disabled": "false"
     },
     {
@@ -4460,7 +4460,7 @@
         "appID": 546990,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Town_of_Night_jpg",
+        "logoURL": "./games/covers/Town_of_Night.jpg",
         "disabled": "false"
     },
     {
@@ -4468,7 +4468,7 @@
         "appID": 549810,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Bunny_Piggy_jpg",
+        "logoURL": "./games/covers/Bunny_Piggy.jpg",
         "disabled": "false"
     },
     {
@@ -4484,7 +4484,7 @@
         "appID": 557680,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Germ_Wars_jpg",
+        "logoURL": "./games/covers/Germ_Wars.jpg",
         "disabled": "false"
     },
     {
@@ -4492,7 +4492,7 @@
         "appID": 252850,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Streamline_jpg",
+        "logoURL": "./games/covers/Streamline.jpg",
         "disabled": "false"
     },
     {
@@ -4500,7 +4500,7 @@
         "appID": 418370,
         "playTime": 59,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_RESIDENT_EVIL_7_biohazard_BIOHAZARD_7_resident_evil_jpg",
+        "logoURL": "./games/covers/RESIDENT_EVIL_7_biohazard_BIOHAZARD_7_resident_evil.jpg",
         "disabled": "false"
     },
     {
@@ -4508,7 +4508,7 @@
         "appID": 569610,
         "playTime": 17,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Distant_Space_jpg",
+        "logoURL": "./games/covers/Distant_Space.jpg",
         "disabled": "false"
     },
     {
@@ -4516,7 +4516,7 @@
         "appID": 586620,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_OR_jpg",
+        "logoURL": "./games/covers/OR.jpg",
         "disabled": "false"
     },
     {
@@ -4524,7 +4524,7 @@
         "appID": 351940,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Descendant_jpg",
+        "logoURL": "./games/covers/The_Descendant.jpg",
         "disabled": "false"
     },
     {
@@ -4532,7 +4532,7 @@
         "appID": 592580,
         "playTime": 167,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_PRO_EVOLUTION_SOCCER_2018_jpg",
+        "logoURL": "./games/covers/PRO_EVOLUTION_SOCCER_2018.jpg",
         "disabled": "false"
     },
     {
@@ -4540,7 +4540,7 @@
         "appID": 378540,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Surge_jpg",
+        "logoURL": "./games/covers/The_Surge.jpg",
         "disabled": "false"
     },
     {
@@ -4548,7 +4548,7 @@
         "appID": 236150,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Starpoint_Gemini_2_jpg",
+        "logoURL": "./games/covers/Starpoint_Gemini_2.jpg",
         "disabled": "false"
     },
     {
@@ -4556,7 +4556,7 @@
         "appID": 584400,
         "playTime": 142,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Sonic_Mania_jpg",
+        "logoURL": "./games/covers/Sonic_Mania.jpg",
         "disabled": "false"
     },
     {
@@ -4564,7 +4564,7 @@
         "appID": 394230,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Battleborn_jpg",
+        "logoURL": "./games/covers/Battleborn.jpg",
         "disabled": "false"
     },
     {
@@ -4572,7 +4572,7 @@
         "appID": 305050,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Outland_jpg",
+        "logoURL": "./games/covers/Outland.jpg",
         "disabled": "false"
     },
     {
@@ -4580,7 +4580,7 @@
         "appID": 218620,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_PAYDAY_2_jpg",
+        "logoURL": "./games/covers/PAYDAY_2.jpg",
         "disabled": "false"
     },
     {
@@ -4588,7 +4588,7 @@
         "appID": 323580,
         "playTime": 59,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Jotun_Valhalla_Edition_jpg",
+        "logoURL": "./games/covers/Jotun_Valhalla_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -4596,7 +4596,7 @@
         "appID": 414340,
         "playTime": 306,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Hellblade_Senua_s_Sacrifice_jpg",
+        "logoURL": "./games/covers/Hellblade_Senua_s_Sacrifice.jpg",
         "disabled": "false"
     },
     {
@@ -4604,7 +4604,7 @@
         "appID": 747350,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Hellblade_Senua_s_Sacrifice_VR_Edition_jpg",
+        "logoURL": "./games/covers/Hellblade_Senua_s_Sacrifice_VR_Edition.jpg",
         "disabled": "false"
     },
     {
@@ -4612,7 +4612,7 @@
         "appID": 368420,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Mirage_Arcane_Warfare_jpg",
+        "logoURL": "./games/covers/Mirage_Arcane_Warfare.jpg",
         "disabled": "false"
     },
     {
@@ -4620,7 +4620,7 @@
         "appID": 15700,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Oddworld_Abe_s_Oddysee_jpg",
+        "logoURL": "./games/covers/Oddworld_Abe_s_Oddysee.jpg",
         "disabled": "false"
     },
     {
@@ -4628,7 +4628,7 @@
         "appID": 308040,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Back_to_Bed_jpg",
+        "logoURL": "./games/covers/Back_to_Bed.jpg",
         "disabled": "false"
     },
     {
@@ -4636,7 +4636,7 @@
         "appID": 236870,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_HITMAN_jpg",
+        "logoURL": "./games/covers/HITMAN.jpg",
         "disabled": "false"
     },
     {
@@ -4644,7 +4644,7 @@
         "appID": 368230,
         "playTime": 5,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Kingdom_Classic_jpg",
+        "logoURL": "./games/covers/Kingdom_Classic.jpg",
         "disabled": "false"
     },
     {
@@ -4652,7 +4652,7 @@
         "appID": 770240,
         "playTime": 737,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_PRO_EVOLUTION_SOCCER_2019_jpg",
+        "logoURL": "./games/covers/PRO_EVOLUTION_SOCCER_2019.jpg",
         "disabled": "false"
     },
     {
@@ -4660,7 +4660,7 @@
         "appID": 209670,
         "playTime": 7,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Cortex_Command_jpg",
+        "logoURL": "./games/covers/Cortex_Command.jpg",
         "disabled": "false"
     },
     {
@@ -4668,7 +4668,7 @@
         "appID": 265590,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Red_Solstice_jpg",
+        "logoURL": "./games/covers/The_Red_Solstice.jpg",
         "disabled": "false"
     },
     {
@@ -4676,7 +4676,7 @@
         "appID": 805550,
         "playTime": 10,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Assetto_Corsa_Competizione_jpg",
+        "logoURL": "./games/covers/Assetto_Corsa_Competizione.jpg",
         "disabled": "false"
     },
     {
@@ -4684,7 +4684,7 @@
         "appID": 552520,
         "playTime": 366,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Far_Cry_5_jpg",
+        "logoURL": "./games/covers/Far_Cry_5.jpg",
         "disabled": "false"
     },
     {
@@ -4692,7 +4692,7 @@
         "appID": 203770,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Crusader_Kings_II_jpg",
+        "logoURL": "./games/covers/Crusader_Kings_II.jpg",
         "disabled": "false"
     },
     {
@@ -4700,7 +4700,7 @@
         "appID": 439190,
         "playTime": 15,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Stories_The_Path_of_Destinies_jpg",
+        "logoURL": "./games/covers/Stories_The_Path_of_Destinies.jpg",
         "disabled": "false"
     },
     {
@@ -4708,7 +4708,7 @@
         "appID": 209080,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Guns_of_Icarus_Online_jpg",
+        "logoURL": "./games/covers/Guns_of_Icarus_Online.jpg",
         "disabled": "false"
     },
     {
@@ -4716,7 +4716,7 @@
         "appID": 608800,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Guns_of_Icarus_Alliance_jpg",
+        "logoURL": "./games/covers/Guns_of_Icarus_Alliance.jpg",
         "disabled": "false"
     },
     {
@@ -4724,7 +4724,7 @@
         "appID": 334210,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_Fortified_jpg",
+        "logoURL": "./games/covers/Fortified.jpg",
         "disabled": "false"
     },
     {
@@ -4732,7 +4732,7 @@
         "appID": 304390,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_For_Honor_jpg",
+        "logoURL": "./games/covers/For_Honor.jpg",
         "disabled": "false"
     },
     {
@@ -4740,7 +4740,7 @@
         "appID": 654310,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_For_Honor_Public_Test_jpg",
+        "logoURL": "./games/covers/For_Honor_Public_Test.jpg",
         "disabled": "false"
     },
     {
@@ -4748,7 +4748,7 @@
         "appID": 96000,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "./games/covers/_docs_games_covers_The_Tiny_Bang_Story_jpg",
+        "logoURL": "./games/covers/The_Tiny_Bang_Story.jpg",
         "disabled": "false"
     }
 ]

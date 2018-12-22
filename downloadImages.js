@@ -22,7 +22,7 @@ function getImages() {
             download.image(options)
                 .then(({ filename, image }) => {
                     // console.log(game.name, filename)
-                    games[index].logoURL = "./games/covers/" + filename.replace(/[^A-Z0-9]+/ig, '_');
+                    games[index].logoURL = "./games/covers/" + filename.replace(/[^A-Z0-9]+/ig, '_').replace('_docs_games_covers_', '').replace('_jpg', '.jpg');
                     delete games[index].iconURL;
                     games[index].disabled = "false";
                     fs.writeFile('./docs/games/games.json', JSON.stringify(games), 'utf8');
