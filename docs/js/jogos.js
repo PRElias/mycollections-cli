@@ -24,7 +24,7 @@ app.renderizeGames = function (response) {
         return a.name < b.name ? -1 : a.name > b.name ? 1 : 0;
     });
 
-    //Removendo propriedas pra poder fazer o distinct
+    //Removendo propriedades pra poder fazer o distinct
     for (var index in app.games) {
         delete app.games[index].store;
         delete app.games[index].appID;

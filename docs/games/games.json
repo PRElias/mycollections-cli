@@ -384,7 +384,7 @@
         "disabled": "false"
     },
     {
-        "name": "Resident Evil 6 / Biohazard 6",
+        "name": "Resident Evil 6",
         "logoURL": "./games/covers/ResidentEvil6Biohazard6.jpg",
         "store": "Steam",
         "appID": "221040",
@@ -408,7 +408,7 @@
         "disabled": "false"
     },
     {
-        "name": "Resident Evil / biohazard HD REMASTER",
+        "name": "Resident Evil HD REMASTER",
         "logoURL": "./games/covers/ResidentEvilbiohazardHDREMASTER.jpg",
         "store": "Steam",
         "appID": "304240",
@@ -488,7 +488,7 @@
         "disabled": "false"
     },
     {
-        "name": "Resident Evil 0 / biohazard 0 HD REMASTER",
+        "name": "Resident Evil 0 HD REMASTER",
         "logoURL": "./games/covers/ResidentEvil0biohazard0HDREMASTER.jpg",
         "store": "Steam",
         "appID": "339340",
@@ -840,7 +840,7 @@
         "disabled": "false"
     },
     {
-        "name": "Resident Evil 5 / Biohazard 5",
+        "name": "Resident Evil 5",
         "logoURL": "./games/covers/ResidentEvil5Biohazard5.jpg",
         "store": "Steam",
         "appID": "21690",
@@ -1016,7 +1016,7 @@
         "disabled": "true"
     },
     {
-        "name": "Resident Evil Revelations 2 / Biohazard Revelations 2",
+        "name": "Resident Evil Revelations 2",
         "logoURL": "./games/covers/ResidentEvilRevelations2BiohazardRevelations2.jpg",
         "store": "Steam",
         "appID": "287290",
@@ -1864,7 +1864,7 @@
         "disabled": "false"
     },
     {
-        "name": "Resident Evil Revelations / Biohazard Revelations",
+        "name": "Resident Evil Revelations",
         "logoURL": "./games/covers/ResidentEvilRevelationsBiohazardRevelations.jpg",
         "store": "Steam",
         "appID": "222480",
@@ -4264,7 +4264,7 @@
         "disabled": "false"
     },
     {
-        "name": "RESIDENT EVIL 7 biohazard / BIOHAZARD 7 resident evil",
+        "name": "RESIDENT EVIL 7",
         "logoURL": "./games/covers/RESIDENTEVIL7biohazardBIOHAZARD7residentevil.jpg",
         "store": "Steam",
         "appID": "418370",
@@ -4664,7 +4664,7 @@
         "disabled": "false"
     },
     {
-        "name": "resident evil 4 / biohazard 4",
+        "name": "resident evil 4",
         "logoURL": "./games/covers/residentevil4biohazard4.jpg",
         "store": "Steam",
         "appID": "254700",
