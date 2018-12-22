@@ -1345,7 +1345,7 @@
     },
     {
         "name": "Beyond Good & Evil",
-        "logoURL": "",
+        "logoURL": "./games/covers/BeyondGoodEvil.jpg",
         "store": "UPlay",
         "appID": "",
         "system": "PC",
