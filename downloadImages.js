@@ -13,7 +13,7 @@ function getImages() {
             // Download to a directory and save with the original filename
             let options = {
                 url: game.logoURL,
-                dest: './docs/games/covers/' + encodeURIComponent(game.name) + ".jpg" // Save to /path/to/dest/image.jpg
+                dest: './docs/games/covers/' + game.name.replace(/[^A-Z0-9]+/ig, '_') + ".jpg" // Save to /path/to/dest/image.jpg
             };
 
             console.log(options.dest);
@@ -22,7 +22,7 @@ function getImages() {
             download.image(options)
                 .then(({ filename, image }) => {
                     // console.log(game.name, filename)
-                    games[index].logoURL = "./games/covers/" + filename.replace(/^.*[\\\/]/, '');
+                    games[index].logoURL = "./games/covers/" + filename.replace(/[^A-Z0-9]+/ig, '_');
                     fs.writeFile('./docs/games/games.json', JSON.stringify(games), 'utf8');
                 })
                 .catch((err) => {
