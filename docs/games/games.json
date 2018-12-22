@@ -1241,7 +1241,7 @@
     },
     {
         "name": "World in Conflict Complete Edition",
-        "logoURL": "",
+        "logoURL": "./games/covers/WorldinConflictCompleteEdition.jpg",
         "store": "UPlay",
         "appID": "",
         "system": "PC",
@@ -2313,7 +2313,7 @@
     },
     {
         "name": "Wing Commander III",
-        "logoURL": "",
+        "logoURL": "./games/covers/WingCommanderIII.jpg",
         "store": "Origin",
         "appID": "",
         "system": "PC",
