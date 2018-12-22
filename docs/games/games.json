@@ -417,7 +417,7 @@
     },
     {
         "name": "Baseball Stars 2",
-        "logoURL": "./games/covers/BaseballStars2.jpg",
+        "logoURL": "./games/covers/BASEBALLSTARS2.jpg",
         "store": "GOG",
         "appID": "",
         "system": "PC",
@@ -625,7 +625,7 @@
     },
     {
         "name": "Metal Slug X",
-        "logoURL": "./games/covers/MetalSlugX.jpg",
+        "logoURL": "./games/covers/METALSLUGX.jpg",
         "store": "GOG",
         "appID": "",
         "system": "PC",
@@ -641,7 +641,7 @@
     },
     {
         "name": "The Last Blade",
-        "logoURL": "./games/covers/TheLastBlade.jpg",
+        "logoURL": "./games/covers/THELASTBLADE.jpg",
         "store": "GOG",
         "appID": "",
         "system": "PC",
@@ -1305,7 +1305,7 @@
     },
     {
         "name": "Metal Slug",
-        "logoURL": "https://www.thepiratedownload.com/wp-content/uploads/2016/07/METAL-SLUG.jpg",
+        "logoURL": "./games/covers/METALSLUG.jpg",
         "store": "GOG",
         "appID": "",
         "system": "PC",
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "Metal Slug 2",
-        "logoURL": "./games/covers/MetalSlug2.jpg",
+        "logoURL": "./games/covers/METALSLUG2.jpg",
         "store": "GOG",
         "appID": "",
         "system": "PC",
