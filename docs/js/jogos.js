@@ -18,7 +18,12 @@ app.getGames = function () {
 
 app.renderizeGames = function (response) {
     app.games = JSON.parse(response);
-    app.games.sort(name);
+    
+    app.games.sort(function(a,b) {
+        return a.app.games.name < b.app.games.name ? -1 : a.app.games.name > b.app.games.name ? 1 : 0;
+    });
+
+
     var items = [];
 
     for (var index in app.games) {
