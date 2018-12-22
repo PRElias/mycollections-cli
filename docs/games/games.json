@@ -88,7 +88,7 @@
         "disabled": "false"
     },
     {
-        "name": "Zuma's Revenge",
+        "name": "Zumas Revenge",
         "logoURL": "./games/covers/ZumasRevenge.jpg",
         "store": "Steam",
         "appID": "3620",
@@ -2320,8 +2320,8 @@
         "disabled": "false"
     },
     {
-        "name": "Zuma's Revenge",
-        "logoURL": "",
+        "name": "Zumas Revenge",
+        "logoURL": "./games/covers/ZumasRevenge.jpg",
         "store": "Origin",
         "appID": "",
         "system": "PC",
