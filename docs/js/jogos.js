@@ -27,9 +27,9 @@ app.renderizeGames = function (response) {
     //Removendo duplicatas
     function onlyUnique(value, index, self) { 
         //Removendo propriedas pra poder fazer o distinct
-        delete app.games.store;
-        delete app.games.appID;
-        delete app.games.system;
+        delete app.games[index].store;
+        delete app.games[index].appID;
+        delete app.games[index].system;
         return self.indexOf(value) === index;
     }
     app.games = app.games.filter( onlyUnique );
