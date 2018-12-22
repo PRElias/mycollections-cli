@@ -32,13 +32,21 @@ app.renderizeGames = function (response) {
     }
 
     //Removendo duplicatas
-    function onlyUnique(value, index, self) { 
-        return self.indexOf(value) === index;
+    function multiDimensionalUnique(arr) {
+        var uniques = [];
+        var itemsFound = {};
+        for(var i = 0, l = arr.length; i < l; i++) {
+            var stringified = JSON.stringify(arr[i]);
+            if(itemsFound[stringified]) { continue; }
+            uniques.push(arr[i]);
+            itemsFound[stringified] = true;
+        }
+        return uniques;
     }
-    app.games = app.games.filter( onlyUnique );
+    multiDimensionalUnique(app.games);
 
+    //Montando elementos HTML
     var items = [];
-
     for (var index in app.games) {
         var game = app.games[index];
         if (game.disabled === 'false') {
