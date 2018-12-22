@@ -53,7 +53,7 @@ html {
 }
 
 .game {
-    padding: 25px 20px 0px 20px;
+    padding: 10px 20px 0px 20px;
     display: inline-block;
     /*width: 220px;*/
     height: 110px;
@@ -61,15 +61,21 @@ html {
     /*margin-left: -10px;*/
 }
 
+.gameName {
+    text-align: center;
+    color: white;
+    font-size: smaller;
+}
+
 .cover {
     height: 70px;
     width: 185px;
     margin: 0 auto;
     display: block;
-    box-shadow: 3px 3px 1px rgb(51, 49, 49);
-    -moz-box-shadow: 3px 3px 1px rgb(51, 49, 49);
-    -webkit-box-shadow: 3px 3px 1px rgb(51, 49, 49);
-    -khtml-box-shadow: 3px 3px 1px rgb(51, 49, 49);
+    box-shadow: 10px 0 30px -1px rgb(51, 49, 49);
+    -moz-box-shadow: 10px 0 30px -1px rgb(51, 49, 49);
+    -webkit-box-shadow: 10px 0 30px -1px rgb(51, 49, 49);
+    -khtml-box-shadow: 10px 0 30px -1px rgb(51, 49, 49);
 }
 
 .container-fluid {

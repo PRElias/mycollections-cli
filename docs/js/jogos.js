@@ -52,6 +52,7 @@ app.renderizeGames = function (response) {
         if (game.disabled === 'false') {
             items.push(
                 "<span class='game col-lg-2 col-sm-6 col-md-6 col-xs-12' id='" + game.name + "'>" +
+                "<p class='gameName'>" + game.name  + "</p>" +
                 "<img class='cover' src='" + game.logoURL + "' data-game='" + game.name + "' alt='logo' /img>" +
                 "</span>"
             );
