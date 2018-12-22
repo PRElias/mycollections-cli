@@ -24,12 +24,15 @@ app.renderizeGames = function (response) {
         return a.name < b.name ? -1 : a.name > b.name ? 1 : 0;
     });
 
-    //Removendo duplicatas
-    function onlyUnique(value, index, self) { 
-        //Removendo propriedas pra poder fazer o distinct
+    //Removendo propriedas pra poder fazer o distinct
+    for (var index in app.games) {
         delete app.games[index].store;
         delete app.games[index].appID;
         delete app.games[index].system;
+    }
+
+    //Removendo duplicatas
+    function onlyUnique(value, index, self) { 
         return self.indexOf(value) === index;
     }
     app.games = app.games.filter( onlyUnique );
