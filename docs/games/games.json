@@ -4520,7 +4520,7 @@
         "disabled": "false"
     },
     {
-        "name": "Batman: Arkham City GOTY",
+        "name": "Batman: Arkham City",
         "logoURL": "./games/covers/BatmanArkhamCityGOTY.jpg",
         "store": "Steam",
         "appID": "200260",
@@ -4945,7 +4945,7 @@
     },
     {
         "name": "Batman: Arkham City",
-        "logoURL": "./games/covers/BatmanArkhamCity.jpg",
+        "logoURL": "./games/covers/BatmanArkhamCityGOTY.jpg",
         "store": "Windows Store",
         "appID": "",
         "system": "XBOX 360",
