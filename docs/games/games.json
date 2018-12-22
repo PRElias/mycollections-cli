@@ -2233,7 +2233,7 @@
     },
     {
         "name": "Assassins Creed IV Black Flag",
-        "logoURL": "",
+        "logoURL": "./games/covers/AssassinsCreedIVBlackFlag.jpg",
         "store": "UPlay",
         "appID": "",
         "system": "PC",
