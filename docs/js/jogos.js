@@ -19,11 +19,6 @@ app.getGames = function () {
 app.renderizeGames = function (response) {
     app.games = JSON.parse(response);
 
-    //Removendo propriedas pra poder fazer o distinct
-    delete app.games.store;
-    delete app.games.appID;
-    delete app.games.system;
-
     //Ordenando
     app.games.sort(function(a,b) {
         return a.name < b.name ? -1 : a.name > b.name ? 1 : 0;
@@ -31,6 +26,10 @@ app.renderizeGames = function (response) {
 
     //Removendo duplicatas
     function onlyUnique(value, index, self) { 
+        //Removendo propriedas pra poder fazer o distinct
+        delete app.games.store;
+        delete app.games.appID;
+        delete app.games.system;
         return self.indexOf(value) === index;
     }
     app.games = app.games.filter( onlyUnique );
