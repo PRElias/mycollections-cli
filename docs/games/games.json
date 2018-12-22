@@ -1,7 +1,7 @@
 [
     {
         "name": "Dragon Age Origins",
-        "logoURL": "https://i2.wp.com/dragonagebrasil.com.br/wp-content/uploads/2015/12/dao.jpg",
+        "logoURL": "./games/covers/DragonAgeOrigins.jpg",
         "store": "Origin",
         "appID": "",
         "system": "PC",
@@ -1361,7 +1361,7 @@
     },
     {
         "name": "Far Cry Blood Dragon",
-        "logoURL": "",
+        "logoURL": "./games/covers/FarCryBloodDragon.jpg",
         "store": "UPlay",
         "appID": "",
         "system": "PC",
@@ -1369,7 +1369,7 @@
     },
     {
         "name": "Far Cry Primal",
-        "logoURL": "",
+        "logoURL": "./games/covers/FarCryPrimal.jpg",
         "store": "UPlay",
         "appID": "",
         "system": "PC",
@@ -2289,7 +2289,7 @@
     },
     {
         "name": "The Sims 3",
-        "logoURL": "http://simsleksikon.dk/wp-content/uploads/2012/08/header_385_the_sims_3.jpg",
+        "logoURL": "./games/covers/TheSims3.jpg",
         "store": "Origin",
         "appID": "",
         "system": "PC",
