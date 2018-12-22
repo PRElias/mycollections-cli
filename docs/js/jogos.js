@@ -43,7 +43,7 @@ app.renderizeGames = function (response) {
         }
         return uniques;
     }
-    multiDimensionalUnique(app.games);
+    app.games = multiDimensionalUnique(app.games);
 
     //Montando elementos HTML
     var items = [];
