@@ -4477,7 +4477,7 @@
         "playTime": 0,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550210/.jpg",
-        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550210/.jpg"
+        "disabled": "true"
     },
     {
         "name": "Germ Wars",
@@ -4749,6 +4749,797 @@
         "playTime": 0,
         "playTime2": 0,
         "logoURL": "./games/covers/TheTinyBangStory.jpg",
+        "disabled": "false"
+    },
+    {
+        "name": "Dragon Age Origins",
+        "logoURL": "https://i2.wp.com/dragonagebrasil.com.br/wp-content/uploads/2015/12/dao.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Dungeon Keeper",
+        "logoURL": "./games/covers/DungeonKeeper.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Fifa Soccer 12",
+        "logoURL": "./games/covers/FifaSoccer12.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Fifa Soccer 15",
+        "logoURL": "./games/covers/FifaSoccer15.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Fica Soccer 16",
+        "logoURL": "./games/covers/FicaSoccer16.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Fifa Soccer 17",
+        "logoURL": "./games/covers/FifaSoccer17.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Jade Empire Special Edition",
+        "logoURL": "./games/covers/JadeEmpireSpecialEdition.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Mass Effect 2",
+        "logoURL": "./games/covers/MassEffect2.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Medal of Honor",
+        "logoURL": "./games/covers/MedalofHonor.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Medal of Honor Pacific Assault",
+        "logoURL": "./games/covers/MedalofHonorPacificAssault.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Mirror's Edge",
+        "logoURL": "./games/covers/MirrorsEdge.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Blazing Star",
+        "logoURL": "./games/covers/BlazingStar.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Twinkle Star Sprites",
+        "logoURL": "./games/covers/TwinkleStarSprites.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Baseball Stars 2",
+        "logoURL": "./games/covers/BaseballStars2.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Shock Troopers",
+        "logoURL": "./games/covers/ShockTroopers.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Samurai Shodown V Special",
+        "logoURL": "./games/covers/SamuraiShodownVSpecial.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "King of the Monsters",
+        "logoURL": "./games/covers/KingoftheMonsters.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Metal Slug X",
+        "logoURL": "./games/covers/MetalSlugX.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "The King of Fighters 2000",
+        "logoURL": "./games/covers/TheKingofFighters2000.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "The Last Blade",
+        "logoURL": "./games/covers/TheLastBlade.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Mount & Blade",
+        "logoURL": "./games/covers/MountBlade.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Saints Row 2",
+        "logoURL": "./games/covers/SaintsRow2.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "System Shock 2",
+        "logoURL": "./games/covers/SystemShock2.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Little Big Adventure",
+        "logoURL": "./games/covers/LittleBigAdventure.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Aliens versus Predator Classic 2000",
+        "logoURL": "./games/covers/AliensversusPredatorClassic2000.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Beneath a Steel Sky",
+        "logoURL": "./games/covers/BeneathaSteelSky.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Tyrian 2000",
+        "logoURL": "./games/covers/Tyrian2000.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Oxenfree",
+        "logoURL": "./games/covers/Oxenfree.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Watch Dogs",
+        "logoURL": "data:image/jpeg;base64",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "World in Conflict Complete Edition",
+        "logoURL": "data:image/jpeg;base64",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Carmageddon TDR 2000",
+        "logoURL": "./games/covers/CarmageddonTDR2000.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Grim Fandango Remastered",
+        "logoURL": "./games/covers/GrimFandangoRemastered.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "MDK",
+        "logoURL": "./games/covers/MDK.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Syberia",
+        "logoURL": "./games/covers/Syberia.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Oddworld: Abes Oddysee",
+        "logoURL": "./games/covers/OddworldAbesOddysee.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Deadlight: directors Cut",
+        "logoURL": "./games/covers/DeadlightdirectorsCut.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Shadow Warrior Classic Complete",
+        "logoURL": "./games/covers/ShadowWarriorClassicComplete.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Metal Slug",
+        "logoURL": "https://www.thepiratedownload.com/wp-content/uploads/2016/07/METAL-SLUG.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Fatal Fury Special",
+        "logoURL": "./games/covers/FatalFurySpecial.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Metal Slug 2",
+        "logoURL": "./games/covers/MetalSlug2.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Samurai Shodown III",
+        "logoURL": "./games/covers/SamuraiShodownIII.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Metal Slug 3",
+        "logoURL": "./games/covers/MetalSlug3.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Beyond Good & Evil",
+        "logoURL": "data:image/jpeg;base64",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Far Cry 3",
+        "logoURL": "./games/covers/FarCry3.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Far Cry Blood Dragon",
+        "logoURL": "data:image/jpeg;base64",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Far Cry Primal",
+        "logoURL": "data:image/jpeg;base64",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Prince of Persia The Sands of Time",
+        "logoURL": "./games/covers/PrinceofPersiaTheSandsofTime.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Rayman Origins",
+        "logoURL": "./games/covers/RaymanOrigins.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "The Crew",
+        "logoURL": "./games/covers/TheCrew.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Tom Clancys Ghost Recon",
+        "logoURL": "./games/covers/TomClancysGhostRecon.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Splinter Cell Stealth Action Redefined",
+        "logoURL": "./games/covers/SplinterCellStealthActionRedefined.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Splinter Cell Chaos Theory",
+        "logoURL": "./games/covers/SplinterCellChaosTheory.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Splinter Cell Blacklist",
+        "logoURL": "./games/covers/SplinterCellBlacklist.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Splinter Cell Blacklist Deluxe Edition",
+        "logoURL": "./games/covers/SplinterCellBlacklistDeluxeEdition.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "The Division",
+        "logoURL": "./games/covers/TheDivision.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Trials of the Blood Dragon",
+        "logoURL": "./games/covers/TrialsoftheBloodDragon.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Dead Space 2",
+        "logoURL": "./games/covers/DeadSpace2.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Crysis 2 Maximum Edition",
+        "logoURL": "./games/covers/Crysis2MaximumEdition.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Crysis 3",
+        "logoURL": "./games/covers/Crysis3.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Dead Space",
+        "logoURL": "./games/covers/DeadSpace.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Dead Space 3",
+        "logoURL": "./games/covers/DeadSpace3.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Assassins Creed III",
+        "logoURL": "./games/covers/AssassinsCreedIII.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Assassins Creed IV Black Flag",
+        "logoURL": "null",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Assassins Creed Rogue",
+        "logoURL": "./games/covers/AssassinsCreedRogue.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Assassins Creed Chronicles China",
+        "logoURL": "./games/covers/AssassinsCreedChroniclesChina.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Shift 2 Unleashed",
+        "logoURL": "./games/covers/Shift2Unleashed.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "SimCity 2000 Special Edition",
+        "logoURL": "./games/covers/SimCity2000SpecialEdition.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "SimCity",
+        "logoURL": "./games/covers/SimCity.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Syndicate",
+        "logoURL": "./games/covers/Syndicate.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "The Sims 3",
+        "logoURL": "http://simsleksikon.dk/wp-content/uploads/2012/08/header_385_the_sims_3.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Theme Hospoital",
+        "logoURL": "./games/covers/ThemeHospoital.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Pagan Ultima VIII",
+        "logoURL": "./games/covers/PaganUltimaVIII.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Wing Commander III",
+        "logoURL": "null",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Anno 2070",
+        "logoURL": "./games/covers/Anno2070.jpg",
+        "store": "UPlay",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Need for Speed Most Wanted",
+        "logoURL": "./games/covers/NeedforSpeedMostWanted.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Nox",
+        "logoURL": "./games/covers/Nox.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Peggle",
+        "logoURL": "./games/covers/Peggle.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Plants vc Zombies",
+        "logoURL": "./games/covers/PlantsvcZombies.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Populous",
+        "logoURL": "./games/covers/Populous.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Dragonsphere",
+        "logoURL": "./games/covers/Dragonsphere.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Ultima IV: Quest of the Avatar",
+        "logoURL": "./games/covers/UltimaIVQuestoftheAvatar.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Treasure Adventure Game",
+        "logoURL": "./games/covers/TreasureAdventureGame.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Worlds of Ultima: The Savage Empire",
+        "logoURL": "./games/covers/WorldsofUltimaTheSavageEmpire.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Warsow",
+        "logoURL": "./games/covers/Warsow.jpg",
+        "store": "GOG",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Mass Effect",
+        "logoURL": "./games/covers/MassEffect.jpg",
+        "store": "Windows Store",
+        "system": "XBOX 360",
+        "disabled": "false"
+    },
+    {
+        "name": "Battlefield Bad Company 2",
+        "logoURL": "./games/covers/BattlefieldBadCompany2.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Alice Madness Returns",
+        "logoURL": "./games/covers/AliceMadnessReturns.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Gears of War 4",
+        "logoURL": "./games/covers/GearsofWar4.jpg",
+        "store": "Windows Store",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Forza Horizon 3",
+        "logoURL": "./games/covers/ForzaHorizon3.jpg",
+        "store": "Windows Store",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Forza Motorport 7",
+        "logoURL": "./games/covers/ForzaMotorport7.jpg",
+        "store": "Windows Store",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Prey",
+        "logoURL": "./games/covers/Prey.jpg",
+        "store": "Windows Store",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Final Fantasy XV",
+        "logoURL": "./games/covers/FinalFantasyXV.jpg",
+        "store": "Windows Store",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "God of War III Remastered",
+        "logoURL": "./games/covers/GodofWarIIIRemastered.jpg",
+        "store": "PSN",
+        "system": "Playstation 4",
+        "disabled": "false"
+    },
+    {
+        "name": "Bully",
+        "logoURL": "./games/covers/Bully.jpg",
+        "store": "PSN",
+        "system": "Playstation 4",
+        "disabled": "false"
+    },
+    {
+        "name": "Journey",
+        "logoURL": "./games/covers/Journey.jpg",
+        "store": "PSN",
+        "system": "Playstation 4",
+        "disabled": "false"
+    },
+    {
+        "name": "Grand Theft Auto: San Andreas",
+        "logoURL": "./games/covers/GrandTheftAutoSanAndreas.jpg",
+        "store": "Google Play",
+        "system": "Android",
+        "disabled": "false"
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "logoURL": "./games/covers/GrandTheftAutoV.jpg",
+        "store": "Undefined",
+        "system": "Playstation 4",
+        "disabled": "false"
+    },
+    {
+        "name": "Far Cry 3",
+        "logoURL": "./games/covers/FarCry3.jpg",
+        "store": "Undefined",
+        "system": "Playstation 3",
+        "disabled": "false"
+    },
+    {
+        "name": "Modern Warfare 3",
+        "logoURL": "./games/covers/ModernWarfare3.jpg",
+        "store": "Windows Store",
+        "system": "XBOX 360",
+        "disabled": "false"
+    },
+    {
+        "name": "Tomb Raider: Legend",
+        "logoURL": "./games/covers/TombRaiderLegend.jpg",
+        "store": "Windows Store",
+        "system": "XBOX 360",
+        "disabled": "false"
+    },
+    {
+        "name": "MGS 2 and 3",
+        "logoURL": "./games/covers/MGS2and3.jpg",
+        "store": "Windows Store",
+        "system": "XBOX 360",
+        "disabled": "false"
+    },
+    {
+        "name": "Batman: Arkham City",
+        "logoURL": "./games/covers/BatmanArkhamCity.jpg",
+        "store": "Windows Store",
+        "system": "XBOX 360",
+        "disabled": "false"
+    },
+    {
+        "name": "The Evil Within",
+        "logoURL": "./games/covers/TheEvilWithin.jpg",
+        "store": "Windows Store",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Metro Redux",
+        "logoURL": "./games/covers/MetroRedux.jpg",
+        "store": "Windows Store",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Quantum Break",
+        "logoURL": "./games/covers/QuantumBreak.jpg",
+        "store": "Windows Store",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Battlefield 3",
+        "logoURL": "./games/covers/Battlefield3.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Battlefield 4",
+        "logoURL": "./games/covers/Battlefield4.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Bejeweled 3",
+        "logoURL": "./games/covers/Bejeweled3.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Burnout Paradise Ultimate Box",
+        "logoURL": "./games/covers/BurnoutParadiseUltimateBox.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Command and Conquer Red Alert 3 Uprising",
+        "logoURL": "./games/covers/CommandandConquerRedAlert3Uprising.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Crusader no Remorse",
+        "logoURL": "./games/covers/CrusadernoRemorse.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Crysis Warhead",
+        "logoURL": "./games/covers/CrysisWarhead.jpg",
+        "store": "Origin",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Crysis",
+        "logoURL": "./games/covers/Crysis.jpg",
+        "store": "Origin",
+        "system": "PC",
         "disabled": "false"
     }
 ]

@@ -12,3 +12,6 @@ O Excel está salvando o JSON trocando vírgulas por ponto-e-vírgulas. Até aut
 
 Gerar o JSON a partir do CSV
 ```npm run-script generateJSON```
+
+Converter arquivo Excel para JSON online
+https://codebeautify.org/excel-to-json
