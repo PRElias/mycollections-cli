@@ -20,7 +20,7 @@ app.renderizeGames = function (response) {
     app.games = JSON.parse(response);
     
     app.games.sort(function(a,b) {
-        return a.app.games.name < b.app.games.name ? -1 : a.app.games.name > b.app.games.name ? 1 : 0;
+        return a.app.games[a.index].name < b.app.games[b.index].name ? -1 : a.app.games[a.index].name > b.app.games[b.index].name ? 1 : 0;
     });
 
 
