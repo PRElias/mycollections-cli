@@ -1664,7 +1664,7 @@
         "disabled": "false"
     },
     {
-        "name": "Bully: Scholarship Edition",
+        "name": "Bully",
         "logoURL": "./games/covers/BullyScholarshipEdition.jpg",
         "store": "Steam",
         "appID": "12200",
@@ -5176,7 +5176,7 @@
         "disabled": "false"
     },
     {
-        "name": "Command and Conquer: Red Alert 3 - Uprising",
+        "name": "Command and Conquer Red Alert 3 Uprising",
         "logoURL": "./games/covers/CommandandConquerRedAlert3Uprising.jpg",
         "store": "Steam",
         "appID": "24800",
