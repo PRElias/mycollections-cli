@@ -51,7 +51,7 @@ app.renderizeGames = function (response) {
         var game = app.games[index];
         if (game.disabled === 'false') {
             items.push(
-                "<span class='game col-lg-2 col-sm-6 col-md-6 col-xs-12' id='" + game.name + "'>" +
+                "<span class='game col-lg-2 col-sm-6 col-md-6 col-xs-12' id='" + game.name + "' onclick='showDetails(this.id)'>" +
                 "<p class='gameName'>" + game.name  + "</p>" +
                 "<img class='cover' src='" + game.logoURL + "' data-game='" + game.name + "' alt='logo' /img>" +
                 "</span>"
@@ -113,8 +113,6 @@ $('#procurar').click(
     }
 );
 
-
-
 //Autocomplete
 $(function () {
     $("#procurar").autocomplete({
@@ -126,3 +124,9 @@ $(function () {
         }
     });
 });
+
+function showDetails(gameName){
+    $('.modal-title').text(gameName);
+    $("#modal").modal('show');
+
+}
