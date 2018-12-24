@@ -81,9 +81,11 @@ app.renderizeDetails = function (gameName) {
     for (var index in gameCopies) {
         var game = gameCopies[index];
         items.push(
-            "<p>" + game.system + game.store + "</p>"
+            "<p>" + game.system + " / " + game.store + "</p>"
         );
     }
+
+    // https://store.steampowered.com/app/appID
 
     var wrapper = document.createElement('div');
     wrapper.innerHTML = items.join("");
