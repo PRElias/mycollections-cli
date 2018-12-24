@@ -18,41 +18,42 @@ app.getGames = function () {
 
 app.renderizeGames = function (response) {
     app.games = JSON.parse(response);
+    let gameDistinctList = JSON.parse(response);
 
     //Ordenando
-    app.games.sort(function(a,b) {
+    gameDistinctList.sort(function (a, b) {
         return a.name < b.name ? -1 : a.name > b.name ? 1 : 0;
     });
 
     //Removendo propriedades pra poder fazer o distinct
-    for (var index in app.games) {
-        delete app.games[index].store;
-        delete app.games[index].appID;
-        delete app.games[index].system;
+    for (var index in gameDistinctList) {
+        delete gameDistinctList[index].store;
+        delete gameDistinctList[index].appID;
+        delete gameDistinctList[index].system;
     }
 
     //Removendo duplicatas
     function multiDimensionalUnique(arr) {
         var uniques = [];
         var itemsFound = {};
-        for(var i = 0, l = arr.length; i < l; i++) {
+        for (var i = 0, l = arr.length; i < l; i++) {
             var stringified = JSON.stringify(arr[i]);
-            if(itemsFound[stringified]) { continue; }
+            if (itemsFound[stringified]) { continue; }
             uniques.push(arr[i]);
             itemsFound[stringified] = true;
         }
         return uniques;
     }
-    app.games = multiDimensionalUnique(app.games);
+    gameDistinctList = multiDimensionalUnique(gameDistinctList);
 
     //Montando elementos HTML
     var items = [];
-    for (var index in app.games) {
-        var game = app.games[index];
+    for (var index in gameDistinctList) {
+        var game = gameDistinctList[index];
         if (game.disabled === 'false') {
             items.push(
                 "<span class='game col-lg-2 col-sm-6 col-md-6 col-xs-12' id='" + game.name + "' onclick='showDetails(this.id)'>" +
-                "<p class='gameName'>" + game.name  + "</p>" +
+                "<p class='gameName'>" + game.name + "</p>" +
                 "<img class='cover' src='" + game.logoURL + "' data-game='" + game.name + "' alt='logo' /img>" +
                 "</span>"
             );
@@ -68,6 +69,30 @@ app.renderizeGames = function (response) {
     main.appendChild(wrapper);
 
 };
+
+app.renderizeDetails = function (gameName) {
+
+    let gameCopies = app.games.filter(function (g) {
+        return g.name == gameName;
+    });
+
+    //Montando elementos HTML
+    var items = [];
+    for (var index in gameCopies) {
+        var game = gameCopies[index];
+        items.push(
+            "<p>" + game.system + game.store + "</p>"
+        );
+    }
+
+    var wrapper = document.createElement('div');
+    wrapper.innerHTML = items.join("");
+
+    var main = document.querySelector('.modal-body');
+    main.innerHTML = "";
+    main.appendChild(wrapper);
+};
+
 
 window.onload = function () {
     app.getGames();
@@ -125,8 +150,8 @@ $(function () {
     });
 });
 
-function showDetails(gameName){
+function showDetails(gameName) {
+    app.renderizeDetails(gameName);
     $('.modal-title').text(gameName);
     $("#modal").modal('show');
-
 }

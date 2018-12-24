@@ -138,3 +138,7 @@ html {
         margin-left: -25px;
         padding-top: 10px;
     }
+
+.modal-header{
+    text-align: left !important;
+}
