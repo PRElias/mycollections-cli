@@ -33,17 +33,6 @@ app.renderizeGames = function (response) {
     }
 
     //Removendo duplicatas
-    function multiDimensionalUnique(arr) {
-        var uniques = [];
-        var itemsFound = {};
-        for (var i = 0, l = arr.length; i < l; i++) {
-            var stringified = JSON.stringify(arr[i]);
-            if (itemsFound[stringified]) { continue; }
-            uniques.push(arr[i]);
-            itemsFound[stringified] = true;
-        }
-        return uniques;
-    }
     gameDistinctList = multiDimensionalUnique(gameDistinctList);
 
     //Montando elementos HTML
@@ -85,19 +74,40 @@ app.renderizeDetails = function (gameName) {
         );
     }
 
-    // https://store.steampowered.com/app/appID
-
-    var wrapper = document.createElement('div');
+    let wrapper = document.createElement('div');
     wrapper.innerHTML = items.join("");
 
-    var main = document.querySelector('.modal-body');
+    let main = document.querySelector('.modal-body');
     main.innerHTML = "";
+
+    let steamAppID = getSteamAppID(gameCopies);
+
+    if (steamAppID != undefined){
+        let steamLink = "https://store.steampowered.com/app/" + getSteamAppID(gameCopies);
+
+        if(steamLink != undefined){
+            let link = document.createElement('a');
+            link.href = steamLink;
+            link.innerHTML = "Link do Steam";
+            link.target = "_blank";
+            wrapper.appendChild(link);
+        }
+    }
+
     main.appendChild(wrapper);
 };
 
 
 window.onload = function () {
     app.getGames();
+}
+
+function getSteamAppID(gameCopies){
+    for(var index in gameCopies){
+        var game = gameCopies[index];
+        if (game.appID != "")
+            return game.appID;
+    }
 }
 
 function navigateToGame() {
@@ -110,6 +120,18 @@ function navigateToGame() {
             scrollTop: $(jogo).offset().top - 35
         }, 1000);
     }
+}
+
+function multiDimensionalUnique(arr) {
+    var uniques = [];
+    var itemsFound = {};
+    for (var i = 0, l = arr.length; i < l; i++) {
+        var stringified = JSON.stringify(arr[i]);
+        if (itemsFound[stringified]) { continue; }
+        uniques.push(arr[i]);
+        itemsFound[stringified] = true;
+    }
+    return uniques;
 }
 
 /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
