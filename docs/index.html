@@ -24,8 +24,9 @@
 
 <body>
     <nav id="navbar" class="navbar">
-        <a href="#" id="goToGame"></a>
-        <input type="text" placeholder="Procurar" id="procurar" name="procurar" class="form-control" style="width: 250px; margin-top: 10px" />
+        <a href="#" id="goToGame" style="display: none"></a>
+        <input type="text" placeholder="Procurar" id="procurar" name="procurar" class="form-control" style="width: 250px; margin-top: 10px; margin-left: 10px;" />
+        <span id="geral" onclick="renderizeGeneralDetails()"></span>
     </nav>
     <div class="modal fade modal-fullscreen" id="modal" tabindex="-1" role="dialog" aria-labelledby="modalLabel">
         <div class="modal-dialog" role="document">

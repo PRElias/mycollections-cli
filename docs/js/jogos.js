@@ -1,5 +1,6 @@
 var app = {
     games: [],
+    gameDistinctList: [],
     availableTags: []
 };
 
@@ -18,27 +19,27 @@ app.getGames = function () {
 
 app.renderizeGames = function (response) {
     app.games = JSON.parse(response);
-    let gameDistinctList = JSON.parse(response);
+    app.gameDistinctList = JSON.parse(response);
 
     //Ordenando
-    gameDistinctList.sort(function (a, b) {
+    app.gameDistinctList.sort(function (a, b) {
         return a.name < b.name ? -1 : a.name > b.name ? 1 : 0;
     });
 
     //Removendo propriedades pra poder fazer o distinct
-    for (var index in gameDistinctList) {
-        delete gameDistinctList[index].store;
-        delete gameDistinctList[index].appID;
-        delete gameDistinctList[index].system;
+    for (var index in app.gameDistinctList) {
+        delete app.gameDistinctList[index].store;
+        delete app.gameDistinctList[index].appID;
+        delete app.gameDistinctList[index].system;
     }
 
     //Removendo duplicatas
-    gameDistinctList = multiDimensionalUnique(gameDistinctList);
+    app.gameDistinctList = multiDimensionalUnique(app.gameDistinctList);
 
     //Montando elementos HTML
     var items = [];
-    for (var index in gameDistinctList) {
-        var game = gameDistinctList[index];
+    for (var index in app.gameDistinctList) {
+        var game = app.gameDistinctList[index];
         if (game.disabled === 'false') {
             let gameName = game.name.replace("'", "");
             items.push(
@@ -180,3 +181,24 @@ function showDetails(gameName) {
     $('.modal-title').text(gameName);
     $("#modal").modal('show');
 }
+
+
+function renderizeGeneralDetails() {
+    
+    let textoJogos = document.createElement('p');
+    textoJogos.innerText = "Total de jogos únicos: " + app.gameDistinctList.length;
+    let textoJogos2 = document.createElement('p');
+    textoJogos2.innerText = "Total de jogos: " + app.games.length;
+
+    let wrapper = document.createElement('div');
+    wrapper.appendChild(textoJogos);
+    wrapper.appendChild(textoJogos2);
+
+    let main = document.querySelector('.modal-body');
+    main.innerHTML = "";
+
+    main.appendChild(wrapper);
+
+    $('.modal-title').text("Detalhes");
+    $("#modal").modal('show');
+};
