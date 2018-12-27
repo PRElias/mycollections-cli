@@ -19,7 +19,9 @@ app.getGames = function () {
 
 app.renderizeGames = function (response) {
     app.games = JSON.parse(response);
+    app.games = onlyEnabled(app.games);
     app.gameDistinctList = JSON.parse(response);
+    app.gameDistinctList = onlyEnabled(app.gameDistinctList);
 
     //Ordenando
     app.gameDistinctList.sort(function (a, b) {
@@ -31,26 +33,24 @@ app.renderizeGames = function (response) {
         delete app.gameDistinctList[index].store;
         delete app.gameDistinctList[index].appID;
         delete app.gameDistinctList[index].system;
+        delete app.gameDistinctList[index].disabled;
     }
 
     //Removendo duplicatas
     app.gameDistinctList = multiDimensionalUnique(app.gameDistinctList);
 
     //Montando elementos HTML
-    var items = [];
-    for (var index in app.gameDistinctList) {
-        var game = app.gameDistinctList[index];
-        if (game.disabled === 'false') {
-            let gameName = game.name.replace("'", "");
-            items.push(
-                "<span class='game col-lg-2 col-sm-6 col-md-6 col-xs-12' id='" + gameName + "' onclick='showDetails(this.id)'>" +
-                "<p class='gameName'>" + gameName + "</p>" +
-                "<img class='cover' src='" + game.logoURL + "' data-game='" + gameName + "' alt='logo' /img>" +
-                "</span>"
-            );
-            app.availableTags.push(gameName);
-        }
-
+    let items = [];
+    for (let index in app.gameDistinctList) {
+        let game = app.gameDistinctList[index];
+        let gameName = game.name.replace("'", "");
+        items.push(
+            "<span class='game col-lg-2 col-sm-6 col-md-6 col-xs-12' id='" + gameName + "' onclick='showDetails(this.id)'>" +
+            "<p class='gameName'>" + gameName + "</p>" +
+            "<img class='cover' src='" + game.logoURL + "' data-game='" + gameName + "' alt='logo' /img>" +
+            "</span>"
+        );
+        app.availableTags.push(gameName);
     }
 
     var wrapper = document.createElement('div');
@@ -84,10 +84,10 @@ app.renderizeDetails = function (gameName) {
 
     let steamAppID = getSteamAppID(gameCopies);
 
-    if (steamAppID != undefined){
+    if (steamAppID != undefined) {
         let steamLink = "https://store.steampowered.com/app/" + steamAppID;
 
-        if(steamLink != undefined){
+        if (steamLink != undefined) {
             let link = document.createElement('a');
             link.href = steamLink;
             link.innerHTML = "Link do Steam";
@@ -104,8 +104,8 @@ window.onload = function () {
     app.getGames();
 }
 
-function getSteamAppID(gameCopies){
-    for(var index in gameCopies){
+function getSteamAppID(gameCopies) {
+    for (var index in gameCopies) {
         var game = gameCopies[index];
         if (game.appID != "")
             return game.appID;
@@ -182,17 +182,44 @@ function showDetails(gameName) {
     $("#modal").modal('show');
 }
 
+function onlyEnabled(array) {
+    let enabled = [];
+    for (var index in array) {
+        if (array[index].disabled == 'false') {
+            enabled.push(array[index]);
+        }
+    }
+    return enabled;
+}
+
+function gameTotals(array, system) {
+    let count = 0;
+    for (var index in array) {
+        if(array[index].system == system){
+            count++;
+        }
+    }
+    return count;
+}
+
 
 function renderizeGeneralDetails() {
-    
-    let textoJogos = document.createElement('p');
-    textoJogos.innerText = "Total de jogos únicos: " + app.gameDistinctList.length;
-    let textoJogos2 = document.createElement('p');
-    textoJogos2.innerText = "Total de jogos: " + app.games.length;
+
+    let totalJogosUnicos = document.createElement('p');
+    totalJogosUnicos.innerText = "Total de jogos únicos: " + app.gameDistinctList.length;
+    let totalJogos = document.createElement('p');
+    totalJogos.innerText = "Total de jogos: " + app.games.length;
+    let totalPS4 = document.createElement('p');
+    totalPS4.innerText = "Total de PS4: " + gameTotals(app.games, 'PS4');
+    let totalXBOXOne = document.createElement('p');
+    totalXBOXOne.innerText = "Total de XBOX One: " + gameTotals(app.games, 'XBOX One');
+
 
     let wrapper = document.createElement('div');
-    wrapper.appendChild(textoJogos);
-    wrapper.appendChild(textoJogos2);
+    wrapper.appendChild(totalJogosUnicos);
+    wrapper.appendChild(totalJogos);
+    wrapper.appendChild(totalPS4);
+    wrapper.appendChild(totalXBOXOne);
 
     let main = document.querySelector('.modal-body');
     main.innerHTML = "";
