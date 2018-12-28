@@ -2805,7 +2805,7 @@
         "store": "Steam",
         "appID": "261920",
         "system": "PC",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Jets'n'Guns Gold",
