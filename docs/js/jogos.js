@@ -209,6 +209,8 @@ function renderizeGeneralDetails() {
     totalJogosUnicos.innerText = "Total de jogos únicos: " + app.gameDistinctList.length;
     let totalJogos = document.createElement('p');
     totalJogos.innerText = "Total de jogos: " + app.games.length;
+    let totalPS3 = document.createElement('p');
+    totalPS3.innerText = "Total de PS3: " + gameTotals(app.games, 'PS3');
     let totalPS4 = document.createElement('p');
     totalPS4.innerText = "Total de PS4: " + gameTotals(app.games, 'PS4');
     let totalXBOXOne = document.createElement('p');
@@ -218,6 +220,7 @@ function renderizeGeneralDetails() {
     let wrapper = document.createElement('div');
     wrapper.appendChild(totalJogosUnicos);
     wrapper.appendChild(totalJogos);
+    wrapper.appendChild(totalPS3);
     wrapper.appendChild(totalPS4);
     wrapper.appendChild(totalXBOXOne);
 

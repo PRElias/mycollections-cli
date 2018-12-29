@@ -78,6 +78,7 @@ html {
     -moz-box-shadow: 10px 0 30px -1px rgb(51, 49, 49);
     -webkit-box-shadow: 10px 0 30px -1px rgb(51, 49, 49);
     -khtml-box-shadow: 10px 0 30px -1px rgb(51, 49, 49);
+    cursor: pointer;
 }
 
 .container-fluid {
@@ -151,4 +152,5 @@ html {
     background-size: cover;
     margin-top: 10px;
     margin-left: 10px;
+    cursor: pointer;
 }
