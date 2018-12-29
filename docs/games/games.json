@@ -5646,5 +5646,133 @@
         "appID": "379720",
         "system": "PC",
         "disabled": "false"
+    },
+    {
+        "name": "Subnautica",
+        "logoURL": "./games/covers/Subnautica.jpg",
+        "store": "Epic",
+        "appID": "",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Shadow Complex Remastered",
+        "logoURL": "./games/covers/ShadowComplexRemastered.jpg",
+        "store": "Epic",
+        "appID": "",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Super Meat Boy",
+        "logoURL": "./games/covers/SuperMeatBoy.jpg",
+        "store": "Epic",
+        "appID": "",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Resident Evil 2",
+        "logoURL": "./games/covers/ResidentEvil2.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Journey",
+        "logoURL": "./games/covers/Journey.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Epic Mickey",
+        "logoURL": "./games/covers/EpicMickey.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Duck Tales Remastered",
+        "logoURL": "./games/covers/DuckTalesRemastered.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Castle of Illusions",
+        "logoURL": "./games/covers/CastleofIllusions.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Crysis 3",
+        "logoURL": "./games/covers/Crysis3.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Puppeteer",
+        "logoURL": "./games/covers/Puppeteer.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "F1 2013",
+        "logoURL": "./games/covers/F12013.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Ni No Kuni",
+        "logoURL": "./games/covers/NiNoKuni.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Mirrors Edge",
+        "logoURL": "./games/covers/MirrorsEdge.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Resident Evil Directors Cut",
+        "logoURL": "./games/covers/ResidentEvilDirectorsCut.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Metal Gear Solid",
+        "logoURL": "./games/covers/MetalGearSolid.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Metal Gear Solid VR Missions",
+        "logoURL": "./games/covers/MetalGearSolidVRMissions.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
     }
 ]
