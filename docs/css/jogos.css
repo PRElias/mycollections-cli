@@ -7,6 +7,10 @@ html, body {
     overflow-x: hidden;
 }
 
+body.modal-open {
+    overflow: hidden;
+}
+
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 /*body {
