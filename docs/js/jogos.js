@@ -195,7 +195,7 @@ function onlyEnabled(array) {
 function gameTotals(array, system) {
     let count = 0;
     for (var index in array) {
-        if(array[index].system == system){
+        if (array[index].system == system) {
             count++;
         }
     }
@@ -232,3 +232,12 @@ function renderizeGeneralDetails() {
     $('.modal-title').text("Detalhes");
     $("#modal").modal('show');
 };
+
+$(window).scroll(function () {
+    if ($(this).scrollTop() > 50) {
+        $('.scrolltop:hidden').stop(true, true).fadeIn();
+    } else {
+        $('.scrolltop').stop(true, true).fadeOut();
+    }
+});
+$(function () { $(".scroll").click(function () { $("html,body").animate({ scrollTop: "50" }, "1000"); return false }) })
