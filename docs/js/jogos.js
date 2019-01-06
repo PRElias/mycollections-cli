@@ -47,7 +47,7 @@ app.renderizeGames = function (response) {
         items.push(
             "<span class='game col-lg-2 col-sm-6 col-md-6 col-xs-12' id='" + gameName + "' onclick='showDetails(this.id)'>" +
             "<p class='gameName'>" + gameName + "</p>" +
-            "<img class='cover lazy' src='" + game.logoURL + "' data-game='" + gameName + "' alt='logo' /img>" +
+            "<img class='cover lazy' data-src='" + game.logoURL + "' data-game='" + gameName + "' alt='logo' /img>" +
             "</span>"
         );
         app.availableTags.push(gameName);
@@ -59,6 +59,7 @@ app.renderizeGames = function (response) {
     var main = document.querySelector('div.main_div');
     main.appendChild(wrapper);
 
+    $('.lazy').Lazy();
 };
 
 app.renderizeDetails = function (gameName) {
@@ -232,10 +233,6 @@ function renderizeGeneralDetails() {
     $('.modal-title').text("Detalhes");
     $("#modal").modal('show');
 };
-
-$(function() {
-    $('.lazy').Lazy();
-});
 
 $(window).scroll(function () {
     if ($(this).scrollTop() > 50) {
