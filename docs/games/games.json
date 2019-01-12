@@ -965,7 +965,7 @@
         "store": "Steam",
         "appID": "400430",
         "system": "PC",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Ultra Street Fighter IV",
@@ -1064,7 +1064,7 @@
         "disabled": "false"
     },
     {
-        "name": "TWINKLE STAR SPRITES",
+        "name": "Twinkle Star Sprites",
         "logoURL": "./games/covers/TWINKLESTARSPRITES.jpg",
         "store": "Steam",
         "appID": "366280",
@@ -1144,7 +1144,7 @@
         "disabled": "false"
     },
     {
-        "name": "THE LAST BLADE",
+        "name": "The Last Blade",
         "logoURL": "./games/covers/THELASTBLADE.jpg",
         "store": "Steam",
         "appID": "465840",
@@ -6269,6 +6269,14 @@
         "store": "Windows Store",
         "appID": "",
         "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Gears of War",
+        "logoURL": "./games/covers/GearsofWar.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "PC",
         "disabled": "false"
     },
     {
