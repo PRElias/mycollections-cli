@@ -25,7 +25,7 @@ app.renderizeGames = function (response) {
 
     //Ordenando
     app.gameDistinctList.sort(function (a, b) {
-        return a.name < b.name ? -1 : a.name > b.name ? 1 : 0;
+        return a.name.toLowerCase() < b.name.toLowerCase() ? -1 : a.name.toLowerCase() > b.name.toLowerCase() ? 1 : 0;
     });
 
     //Removendo propriedades pra poder fazer o distinct
