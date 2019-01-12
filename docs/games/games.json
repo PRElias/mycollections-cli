@@ -1821,7 +1821,7 @@
         "store": "Steam",
         "appID": "207040",
         "system": "PC",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Legacy of Kain: Defiance",
