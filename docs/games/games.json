@@ -6262,5 +6262,149 @@
         "appID": "",
         "system": "XBOX One",
         "disabled": "false"
+    },
+    {
+        "name": "Gears of War",
+        "logoURL": "./games/covers/GearsofWar.jpg",
+        "store": "Windows Store",
+        "appID": "",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Gears of War 2",
+        "logoURL": "./games/covers/GearsofWar2.jpg",
+        "store": "Windows Store",
+        "appID": "",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Gears of War 3",
+        "logoURL": "./games/covers/GearsofWar3.jpg",
+        "store": "Windows Store",
+        "appID": "",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Gears of War Judgement",
+        "logoURL": "./games/covers/GearsofWarJudgement.jpg",
+        "store": "Windows Store",
+        "appID": "",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Assassins Creed Unity",
+        "logoURL": "./games/covers/AssassinsCreedUnity.jpg",
+        "store": "Windows Store",
+        "appID": "",
+        "system": "XBOX One",
+        "disabled": "false"
+    },
+    {
+        "name": "Donkey Kong Country Returns",
+        "logoURL": "./games/covers/DonkeyKongCountryReturns.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "Mario Kart",
+        "logoURL": "./games/covers/MarioKart.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "New Super Mario Bros Wii",
+        "logoURL": "./games/covers/NewSuperMarioBrosWii.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "Pikmin 2",
+        "logoURL": "./games/covers/Pikmin2.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "resident evil 4 ",
+        "logoURL": "./games/covers/residentevil4.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "Super Mario Galaxy",
+        "logoURL": "./games/covers/SuperMarioGalaxy.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "Super Mario Galaxy 2",
+        "logoURL": "./games/covers/SuperMarioGalaxy2.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "Super Paper Mario",
+        "logoURL": "./games/covers/SuperPaperMario.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "The Last Story",
+        "logoURL": "./games/covers/TheLastStory.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "The Legend of Zelda Skyward Sword",
+        "logoURL": "./games/covers/TheLegendofZeldaSkywardSword.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "The Legend of Zelda Twilight Princess",
+        "logoURL": "./games/covers/TheLegendofZeldaTwilightPrincess.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "Wii Sports",
+        "logoURL": "./games/covers/WiiSports.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
+    },
+    {
+        "name": "Wii Sports Resort",
+        "logoURL": "./games/covers/WiiSportsResort.jpg",
+        "store": "Mídia Física",
+        "appID": "",
+        "system": "Wii",
+        "disabled": "false"
     }
 ]
