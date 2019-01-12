@@ -5774,5 +5774,197 @@
         "appID": "",
         "system": "PS3",
         "disabled": "false"
+    },
+    {
+        "name": "Beyond Two Souls",
+        "logoURL": "./games/covers/BeyondTwoSouls.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Dragon Age 2",
+        "logoURL": "./games/covers/DragonAge2.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Far Cry 3",
+        "logoURL": "./games/covers/FarCry3.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "God of War 3",
+        "logoURL": "./games/covers/GodofWar3.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "God of War Ascension",
+        "logoURL": "./games/covers/GodofWarAscension.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "God of War Collection",
+        "logoURL": "./games/covers/GodofWarCollection.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Gran Turismo 5 XL Edition",
+        "logoURL": "./games/covers/GranTurismo5XLEdition.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Gran Turismo 6",
+        "logoURL": "./games/covers/GranTurismo6.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Heavy Rain Movie Edition",
+        "logoURL": "./games/covers/HeavyRainMovieEdition.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "inFamous",
+        "logoURL": "./games/covers/inFamous.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Killzone Trilogy",
+        "logoURL": "./games/covers/KillzoneTrilogy.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Little Big Planet 2",
+        "logoURL": "./games/covers/LittleBigPlanet2.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Lost Planet 2",
+        "logoURL": "./games/covers/LostPlanet2.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Lost Planet Extreme Condition",
+        "logoURL": "./games/covers/LostPlanetExtremeCondition.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Midnight Club Log Angeles Complete Edition",
+        "logoURL": "./games/covers/MidnightClubLogAngelesCompleteEdition.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Mortal Kombat",
+        "logoURL": "./games/covers/MortalKombat.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Motorstorm",
+        "logoURL": "./games/covers/Motorstorm.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "PES 2013",
+        "logoURL": "./games/covers/PES2013.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Ratchet and Clank All 4 One",
+        "logoURL": "./games/covers/RatchetandClankAll4One.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Red Dead Redemption",
+        "logoURL": "./games/covers/RedDeadRedemption.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "The ICO Shadow of Colossus Collection",
+        "logoURL": "./games/covers/TheICOShadowofColossusCollection.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Uncharted 2 Among thieves",
+        "logoURL": "./games/covers/Uncharted2Amongthieves.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Uncharted 3 Drakes Deception",
+        "logoURL": "./games/covers/Uncharted3DrakesDeception.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
+    },
+    {
+        "name": "Uncharted Drakes Fortune",
+        "logoURL": "./games/covers/UnchartedDrakesFortune.jpg",
+        "store": "",
+        "appID": "",
+        "system": "PS3",
+        "disabled": "false"
     }
 ]

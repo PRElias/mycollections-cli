@@ -26,10 +26,10 @@ function getImages() {
                     delete games[index].iconURL;
                     if (!games[index].hasOwnProperty('disabled'))
                         games[index].disabled = "false";
-                    fs.writeFile('./docs/games/games.json', JSON.stringify(games), 'utf8');
+                    fs.writeFileSync('./docs/games/games.json', JSON.stringify(games), 'utf8');
                 })
                 .catch((err) => {
-                    console.error(game.name, " erro");
+                    console.error(game.name, " erro: " + err);
                 });
         }
     };
