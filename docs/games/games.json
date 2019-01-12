@@ -32,7 +32,7 @@
         "disabled": "false"
     },
     {
-        "name": "Fica Soccer 16",
+        "name": "Fifa Soccer 16",
         "logoURL": "./games/covers/FicaSoccer16.jpg",
         "store": "Origin",
         "appID": "",
@@ -864,7 +864,7 @@
         "disabled": "false"
     },
     {
-        "name": "METAL SLUG 3",
+        "name": "Metal Slug 3",
         "logoURL": "./games/covers/METALSLUG3.jpg",
         "store": "Steam",
         "appID": "250180",
@@ -3296,7 +3296,7 @@
         "disabled": "false"
     },
     {
-        "name": "METAL SLUG X",
+        "name": "Metal Slug X",
         "logoURL": "./games/covers/METALSLUGX.jpg",
         "store": "Steam",
         "appID": "312610",
@@ -3416,7 +3416,7 @@
         "disabled": "PC"
     },
     {
-        "name": "METAL SLUG",
+        "name": "Metal Slug",
         "logoURL": "./games/covers/METALSLUG.jpg",
         "store": "Steam",
         "appID": "366250",
@@ -3424,7 +3424,7 @@
         "disabled": "false"
     },
     {
-        "name": "METAL SLUG 2",
+        "name": "Metal Slug 2",
         "logoURL": "./games/covers/METALSLUG2.jpg",
         "store": "Steam",
         "appID": "366260",
@@ -5744,7 +5744,7 @@
         "disabled": "false"
     },
     {
-        "name": "Mirrors Edge",
+        "name": "Mirror's Edge",
         "logoURL": "./games/covers/MirrorsEdge.jpg",
         "store": "PSN",
         "appID": "",
@@ -6032,7 +6032,7 @@
         "disabled": "false"
     },
     {
-        "name": "FIFA 14",
+        "name": "Fifa Soccer 14",
         "logoURL": "./games/covers/FIFA14.jpg",
         "store": "Mídia Física",
         "appID": "",
@@ -6200,7 +6200,7 @@
         "disabled": "false"
     },
     {
-        "name": "Gear of War Ultimate Edition",
+        "name": "Gears of War Ultimate Edition",
         "logoURL": "./games/covers/GearofWarUltimateEdition.jpg",
         "store": "Mídia Física",
         "appID": "",
