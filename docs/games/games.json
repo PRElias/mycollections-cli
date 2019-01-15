@@ -2429,7 +2429,7 @@
         "store": "Steam",
         "appID": "12120",
         "system": "PC",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Manhunt",
@@ -3136,7 +3136,7 @@
         "disabled": "false"
     },
     {
-        "name": "Far Cry® 3",
+        "name": "Far Cry 3",
         "logoURL": "./games/covers/FarCry3.jpg",
         "store": "Steam",
         "appID": "220240",
@@ -4376,11 +4376,27 @@
         "disabled": "false"
     },
     {
-        "name": "Grand Theft Auto V",
-        "logoURL": "./games/covers/GrandTheftAutoV.jpg",
-        "store": "Undefined",
+        "name": "Max Payne",
+        "logoURL": "./games/covers/MaxPayne.jpg",
+        "store": "Google Play",
         "appID": "",
-        "system": "Playstation 4",
+        "system": "Android",
+        "disabled": "false"
+    },
+    {
+        "name": "World of Goo",
+        "logoURL": "./games/covers/WorldofGoo.jpg",
+        "store": "Google Play",
+        "appID": "",
+        "system": "Android",
+        "disabled": "false"
+    },
+    {
+        "name": "Rayman Jungle Run",
+        "logoURL": "./games/covers/RaymanJungleRun.jpg",
+        "store": "Google Play",
+        "appID": "",
+        "system": "Android",
         "disabled": "false"
     },
     {
@@ -6048,8 +6064,8 @@
         "disabled": "false"
     },
     {
-        "name": "Grand Theft Auto 5",
-        "logoURL": "./games/covers/GrandTheftAuto5.jpg",
+        "name": "Grand Theft Auto V",
+        "logoURL": "./games/covers/GrandTheftAutoV.jpg",
         "store": "Mídia Física",
         "appID": "",
         "system": "PS4",
