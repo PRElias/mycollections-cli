@@ -1861,7 +1861,7 @@
         "store": "Steam",
         "appID": "230410",
         "system": "PC",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Resident Evil Revelations",
