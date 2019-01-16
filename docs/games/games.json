@@ -6446,5 +6446,13 @@
         "appID": "",
         "system": "XBOX One",
         "disabled": "false"
+    },
+    {
+        "name": "Child of Light",
+        "logoURL": "./games/covers/ChildofLight.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS4",
+        "disabled": "false"
     }
 ]
