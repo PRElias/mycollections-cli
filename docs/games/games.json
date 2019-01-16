@@ -6430,5 +6430,21 @@
         "appID": "",
         "system": "Wii",
         "disabled": "false"
+    },
+    {
+        "name": "Battlefield 1",
+        "logoURL": "./games/covers/Battlefield1.jpg",
+        "store": "Origin",
+        "appID": "",
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Flashback",
+        "logoURL": "./games/covers/Flashback.jpg",
+        "store": "Windows Store",
+        "appID": "",
+        "system": "XBOX One",
+        "disabled": "false"
     }
 ]
