@@ -3725,7 +3725,7 @@
         "store": "Steam",
         "appID": "3990",
         "system": "PC",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Sid Meier's Civilization IV: Beyond the Sword",
@@ -3733,7 +3733,7 @@
         "store": "Steam",
         "appID": "8800",
         "system": "PC",
-        "disabled": "false"
+        "disabled": "true"
     },
     {
         "name": "Fallout: New Vegas",
