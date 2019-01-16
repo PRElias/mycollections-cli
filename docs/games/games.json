@@ -2776,8 +2776,8 @@
         "disabled": "false"
     },
     {
-        "name": "Mortal Kombat Komplete Edition",
-        "logoURL": "./games/covers/MortalKombatKompleteEdition.jpg",
+        "name": "Mortal Kombat",
+        "logoURL": "./games/covers/MortalKombat.jpg",
         "store": "Steam",
         "appID": "237110",
         "system": "PC",
