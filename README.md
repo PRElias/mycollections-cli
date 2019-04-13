@@ -16,5 +16,5 @@ Gerar o JSON a partir do CSV
 Converter arquivo Excel para JSON online
 https://codebeautify.org/excel-to-json
 
-Para server localmente:
+Para servir localmente:
 ```npx serve```

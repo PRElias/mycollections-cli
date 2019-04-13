@@ -1328,8 +1328,8 @@
         "disabled": "false"
     },
     {
-        "name": "Samurai Shodown III",
-        "logoURL": "./games/covers/SamuraiShodownIII.jpg",
+        "name": "Samurai Shodown II",
+        "logoURL": "./games/covers/SamuraiShodownII.jpg",
         "store": "GOG",
         "appID": "",
         "system": "PC",
@@ -6453,6 +6453,14 @@
         "store": "PSN",
         "appID": "",
         "system": "PS4",
+        "disabled": "false"
+    },
+    {
+        "name": "Yooka Laylee",
+        "logoURL": "./games/covers/YookaLaylee.jpg",
+        "store": "GOG",
+        "appID": "",
+        "system": "PC",
         "disabled": "false"
     }
 ]
