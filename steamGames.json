@@ -274,7 +274,7 @@
     {
         "name": "Watchmen: The End Is Nigh",
         "appID": 21010,
-        "playTime": 3,
+        "playTime": 4,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21010/5904a7927c8ada2f8e38dba0fe5d914d6a93ec8b.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21010/d4d5948aaa9705d5fb94d3244946c0cb7aa910a8.jpg"
@@ -338,7 +338,7 @@
     {
         "name": "Bionic Commando Rearmed",
         "appID": 21680,
-        "playTime": 69,
+        "playTime": 131,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21680/e4cd5c221f95bcb58518543ab17839bf30ca6a09.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21680/eae797bd2aec6229f9bd221f5bd9612b2fe0ae4a.jpg"
@@ -504,7 +504,7 @@
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/33680/248a87cd3c2998fac3ee1b39844f06b3f358cc8d.jpg"
     },
     {
-        "name": "Lego Harry Potter",
+        "name": "LEGO® Harry Potter: Years 1-4",
         "appID": 21130,
         "playTime": 0,
         "playTime2": 0,
@@ -792,12 +792,20 @@
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50130/62f1f7324e520be067aec1ab06d1ec6fa56f25bd.jpg"
     },
     {
-        "name": "Borderlands",
+        "name": "Borderlands GOTY",
         "appID": 8980,
         "playTime": 0,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/8980/88ec298ff1ff0d748df39e084892aed6e919b146.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/8980/eb45fb32b7f4e75564a30a52aa3c35a191253ea0.jpg"
+    },
+    {
+        "name": "Borderlands GOTY Enhanced",
+        "appID": 729040,
+        "playTime": 0,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/729040/192e944a32f052d5369e839a9c7bf6c8799292e2.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/729040/aba56aae141ef1495cef3534163beb1664b417c0.jpg"
     },
     {
         "name": "Warhammer 40,000: Space Marine",
@@ -896,7 +904,7 @@
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/105450/6fd62f99d3d245868d83af54eb60def5d1667402.jpg"
     },
     {
-        "name": "LEGO Harry Potter: Years 5-7",
+        "name": "LEGO® Harry Potter: Years 5-7",
         "appID": 204120,
         "playTime": 421,
         "playTime2": 0,
@@ -1136,6 +1144,14 @@
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/91310/1df9ab123c2180d8933038be7578a21e2442befb.jpg"
     },
     {
+        "name": "To the Moon",
+        "appID": 206440,
+        "playTime": 13,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/206440/f0e5a7037facd7bff7656ebe2396a23735c608c2.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/206440/6e29eb4076a6253fdbccb987a2a21746d2df54d7.jpg"
+    },
+    {
         "name": "Home",
         "appID": 215670,
         "playTime": 0,
@@ -1366,6 +1382,14 @@
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203680/ea768d263317c9ae416ba63df9e2e3fd8e4a7682.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203680/cfabf89fdee00437d4aa49c669706c8f9bebcea5.jpg"
+    },
+    {
+        "name": "LEGO® The Lord of the Rings™",
+        "appID": 214510,
+        "playTime": 0,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/214510/45d52bbba9c5882f68e0fa288aeada7eef957b18.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/214510/aa7d4b19990dfe8e29de2bb90be5fcef58a78a89.jpg"
     },
     {
         "name": "Sonic Adventure™ 2 ",
@@ -1621,7 +1645,7 @@
         "playTime": 70,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/3785f3576cdef5cf20a8b815bdf867154ccbe7d5.jpg",
-        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/bcf887d7b0707e5418e1680de92e85ca899516ac.jpg"
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/22064646470f4c53388ba87774c7ac10f0a91ffa.jpg"
     },
     {
         "name": "War Thunder",
@@ -1726,6 +1750,14 @@
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/2a0d51aa92d2bf2e168e090f9b72bf60d78fa53e.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/77e5bb562902be4a5a49b114d7370138696b1595.jpg"
+    },
+    {
+        "name": "GRID 2",
+        "appID": 44350,
+        "playTime": 0,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/44350/059c8f0e1995b134f78deaf93b0a352db58ba0e1.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/44350/78dfd2533e0ee4cdf981cf13fbdea9596f1ed433.jpg"
     },
     {
         "name": "Sanctum 2",
@@ -2432,6 +2464,14 @@
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278100/fe2bb5c4e0028f8a197e3ac1416742398a2ab523.jpg"
     },
     {
+        "name": "A Story About My Uncle",
+        "appID": 278360,
+        "playTime": 0,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278360/c09b785aaf65100b28703e661223230db6e3232d.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278360/feb33a53334222c82aaf0545e00913bd92bcd3d9.jpg"
+    },
+    {
         "name": "Strider",
         "appID": 235210,
         "playTime": 0,
@@ -2552,6 +2592,14 @@
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202310/360a4850060cc3579611e1992f93006ebef72c78.jpg"
     },
     {
+        "name": "Deponia: The Complete Journey",
+        "appID": 292910,
+        "playTime": 0,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292910/2f41687bcb885b970d1241ddf591306d911c53f7.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292910/98e31755e9695af7d427411d55100ce834f1f102.jpg"
+    },
+    {
         "name": "Valkyria Chronicles™",
         "appID": 294860,
         "playTime": 0,
@@ -2584,12 +2632,12 @@
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/362300/ae46a0a74a41c21f2d490dde824f552c20920761.jpg"
     },
     {
-        "name": "H1Z1",
+        "name": "Z1 Battle Royale",
         "appID": 433850,
         "playTime": 0,
         "playTime2": 0,
-        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/433850/7dfbc2eb2a886dd91bb4fbeb9b6886ce9b0374dc.jpg",
-        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/433850/a7a0cef96f9cf83f4afd7cb52a48174f2dfbb663.jpg"
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/433850/b83cffe1839f3ecaec18754844b21bda9b397659.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/433850/aee7491abfd812e2fbb4ec3326ad5f4b85c8137a.jpg"
     },
     {
         "name": "H1Z1: Test Server",
@@ -2706,7 +2754,7 @@
     {
         "name": "METAL SLUG X",
         "appID": 312610,
-        "playTime": 0,
+        "playTime": 15,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312610/0aefb6b3c12d129be74b9efdcefd46a8f919dba2.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312610/9ada8e531324056d8b31e175bc30fb7dcd582a65.jpg"
@@ -3042,7 +3090,7 @@
     {
         "name": "Batman™: Arkham Knight",
         "appID": 208650,
-        "playTime": 558,
+        "playTime": 603,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/8968f6628f8207ee0ea7222d10a2ecd09d582a62.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/f6c2ce13796844750dfbd01685fb009eeac4bf70.jpg"
@@ -3722,7 +3770,7 @@
     {
         "name": "Shadow Complex Remastered",
         "appID": 385560,
-        "playTime": 3,
+        "playTime": 449,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/385560/4a58ff2435a60d39fa0df80a7a245429519df285.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/385560/28d0e9c604c2df052897ff84bddab71723cf2c22.jpg"
@@ -3986,7 +4034,7 @@
     {
         "name": "Recursion Deluxe",
         "appID": 425160,
-        "playTime": 2,
+        "playTime": 5,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/425160/25c43424ead6f003da2e8dd79d1e00f821244af5.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/425160/b94fc9292f046763cb2625dcf2047da99d7a9a18.jpg"
@@ -4084,8 +4132,8 @@
         "appID": 34270,
         "playTime": 22,
         "playTime2": 0,
-        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/34270/63f7807a9c6acbb8a9359d11f4ec689a1c7a2841.jpg",
-        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/34270/48a187fa87c58b798646a430d446dd36eeabd1a4.jpg"
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/34270/05d4fc8da9afc539278bef6423cc5e85881a7ee2.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/34270/2cda9462fbaf9309e5aedce99ad8452adf8a40bd.jpg"
     },
     {
         "name": "Hell Yeah!",
@@ -4150,6 +4198,14 @@
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/456780/955df44a05dcf16bd12889e28b348f08697aa006.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/456780/febed1e646efce7f61f87d9412c754f142873484.jpg"
+    },
+    {
+        "name": "Bayonetta",
+        "appID": 460790,
+        "playTime": 0,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460790/5d49ade3a66eec6432f5a00ed29da02860f515b8.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460790/9c591c4d3d3d5e5164ba08465aaf4407d86301b9.jpg"
     },
     {
         "name": "THE LAST BLADE",
@@ -4258,10 +4314,18 @@
     {
         "name": "Orwell",
         "appID": 491950,
-        "playTime": 0,
+        "playTime": 11,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/491950/d831e0d592d695b6c2ab819168696b652973c401.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/491950/22c422a5f68c4d1bcced09b18638dd6664d95d45.jpg"
+    },
+    {
+        "name": "RiME",
+        "appID": 493200,
+        "playTime": 0,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493200/f9d16091a3e2973652a68ff45ad6155e49e59713.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493200/6d70c24fad5e95ac9fb38485f94d04f4fc7de646.jpg"
     },
     {
         "name": "City Car Driving",
@@ -4338,7 +4402,7 @@
     {
         "name": "Life is Strange™",
         "appID": 319630,
-        "playTime": 4,
+        "playTime": 62,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319630/e92d2b3a0c01be3bdd77ec665a3014028efaa105.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319630/e54b13da0710a35e7088664a77632e79157d8332.jpg"
@@ -4411,7 +4475,7 @@
         "name": "Sid Meier's Civilization VI",
         "appID": 289070,
         "playTime": 797,
-        "playTime2": 24,
+        "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/356443a094f8e20ce21293039d7226eac3d3b4d9.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/9dc914132fec244adcede62fb8e7524a72a7398c.jpg"
     },
@@ -4538,10 +4602,18 @@
     {
         "name": "The Surge",
         "appID": 378540,
-        "playTime": 0,
-        "playTime2": 0,
+        "playTime": 2232,
+        "playTime2": 2157,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/a0b1411d212a56437354409176090f71b2dfdd68.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/244bf4443ab17c0b7cda6fd63bc9bc0291942635.jpg"
+    },
+    {
+        "name": "Vanquish",
+        "appID": 460810,
+        "playTime": 0,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460810/0e4d23bc68cf9265945cc85df3114bbf4618e8fa.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460810/a5024e8135e1865f7df484f512ddf4e117fc0140.jpg"
     },
     {
         "name": "Starpoint Gemini 2",
@@ -4650,7 +4722,7 @@
     {
         "name": "PRO EVOLUTION SOCCER 2019",
         "appID": 770240,
-        "playTime": 737,
+        "playTime": 811,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770240/59027feab0557bdaa8f5383b0ae3c93f2f78976d.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770240/27dfb1d8c6683c96a694de63f6cc13a0fbae9327.jpg"
@@ -4682,7 +4754,7 @@
     {
         "name": "Far Cry 5",
         "appID": 552520,
-        "playTime": 366,
+        "playTime": 554,
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/552520/652709a022202fc36d65674a0bdf9519a0c18981.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/552520/928df2d32021f480499a97458068f62c45298e7a.jpg"
@@ -4750,5 +4822,21 @@
         "playTime2": 0,
         "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/96000/c60488f764e2b91f3a53ac12a123a527a63dca2a.jpg",
         "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/96000/190760c7966fda0b4be9605de836e031f448fc49.jpg"
+    },
+    {
+        "name": "RESIDENT EVIL 2 / BIOHAZARD RE:2 \"1-Shot Demo\"",
+        "appID": 961440,
+        "playTime": 33,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/961440/0a130b88b80b134b9ca65e5ec69ba3f4f8516d93.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/961440/280cc7bf9e12785e84dc84b9db2c6e44adfa2aad.jpg"
+    },
+    {
+        "name": "RESIDENT EVIL 2 / BIOHAZARD RE:2",
+        "appID": 883710,
+        "playTime": 390,
+        "playTime2": 0,
+        "logoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/f43cbe042bf8cda7a7c6182cc2d9ff018261295c.jpg",
+        "iconURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/86ef2fdebeced746313994ccf2d7afb1f2887bf0.jpg"
     }
 ]

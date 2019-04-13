@@ -6462,5 +6462,77 @@
         "appID": "",
         "system": "PC",
         "disabled": "false"
+    },
+    {
+        "name": "RESIDENT EVIL 2 / BIOHAZARD RE:2",
+        "logoURL": "./games/covers/RESIDENTEVIL2BIOHAZARDRE2.jpg",
+        "store": "Steam",
+        "appID": 883710,
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Vanquish",
+        "logoURL": "./games/covers/Vanquish.jpg",
+        "store": "Steam",
+        "appID": 460810,
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "RiME",
+        "logoURL": "./games/covers/RiME.jpg",
+        "store": "Steam",
+        "appID": 493200,
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Bayonetta",
+        "logoURL": "./games/covers/Bayonetta.jpg",
+        "store": "Steam",
+        "appID": 460790,
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "Deponia: The Complete Journey",
+        "logoURL": "./games/covers/DeponiaTheCompleteJourney.jpg",
+        "store": "Steam",
+        "appID": 292910,
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "A Story About My Uncle",
+        "logoURL": "./games/covers/AStoryAboutMyUncle.jpg",
+        "store": "Steam",
+        "appID": 278360,
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "GRID 2",
+        "logoURL": "./games/covers/GRID2.jpg",
+        "store": "Steam",
+        "appID": 44350,
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "LEGO® The Lord of the Rings™",
+        "logoURL": "./games/covers/LEGOTheLordoftheRings.jpg",
+        "store": "Steam",
+        "appID": 214510,
+        "system": "PC",
+        "disabled": "false"
+    },
+    {
+        "name": "To the Moon",
+        "logoURL": "./games/covers/TotheMoon.jpg",
+        "store": "Steam",
+        "appID": 206440,
+        "system": "PC",
+        "disabled": "false"
     }
 ]

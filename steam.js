@@ -19,7 +19,12 @@ steam.resolve('https://steamcommunity.com/id/ppuspfc').then(id => {
     console.log("Id do usuário Steam: " + id);
     steam.getUserOwnedGames(id).then(games => {
         let json = JSON.stringify(games);
-        fs.writeFile('steamGames.json', json, 'utf8');
+        // fs.writeFile('steamGames.json', json, 'utf8');
+
+        fs.writeFile('steamGames.json', json, function (err, result) {
+            if (err) console.log('error', err);
+        });
+
     });
 });
 
