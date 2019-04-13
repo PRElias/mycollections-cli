@@ -6534,5 +6534,29 @@
         "appID": 206440,
         "system": "PC",
         "disabled": "false"
+    },
+    {
+        "name": "Injustice: Gods Among Us Ultimate Edition",
+        "logoURL": "./games/covers/InjusticeGodsAmongUsUltimateEdition.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS4",
+        "disabled": "false"
+    },
+    {
+        "name": "Metal Gear Solid V: Ground Zeroes",
+        "logoURL": "./games/covers/MetalGearSolidVGroundZeroes.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS4",
+        "disabled": "false"
+    },
+    {
+        "name": "Trials Fusion",
+        "logoURL": "./games/covers/TrialsFusion.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS4",
+        "disabled": "false"
     }
 ]
