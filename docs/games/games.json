@@ -5688,8 +5688,8 @@
         "disabled": "false"
     },
     {
-        "name": "Resident Evil 2",
-        "logoURL": "./games/covers/ResidentEvil2.jpg",
+        "name": "Resident Evil 2 Classic",
+        "logoURL": "./games/covers/ResidentEvil2Classic.jpg",
         "store": "PSN",
         "appID": "",
         "system": "PS3",
@@ -6464,7 +6464,7 @@
         "disabled": "false"
     },
     {
-        "name": "RESIDENT EVIL 2 / BIOHAZARD RE:2",
+        "name": "RESIDENT EVIL 2 Remastered",
         "logoURL": "./games/covers/RESIDENTEVIL2BIOHAZARDRE2.jpg",
         "store": "Steam",
         "appID": 883710,
