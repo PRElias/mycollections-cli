@@ -6558,5 +6558,13 @@
         "appID": "",
         "system": "PS4",
         "disabled": "false"
+    },
+    {
+        "name": "Diablo III",
+        "logoURL": "./games/covers/DiabloIII.jpg",
+        "store": "PSN",
+        "appID": "",
+        "system": "PS4",
+        "disabled": "false"
     }
 ]
